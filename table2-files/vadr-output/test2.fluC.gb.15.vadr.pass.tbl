@@ -1,0 +1,124 @@
+>Feature gi|2474338244|gb|OQ733368.1|
+<1	2253	gene
+			gene	PB1
+<1	2253	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	2474338244_1
+>Feature gi|2474338246|gb|OQ733369.1|
+21	882	gene
+			gene	NEP
+			gene_syn	NS2
+21	761	gene
+			gene	NS1
+21	207	CDS
+521	882
+			product	nonstructural protein 2
+			protein_id	2474338246_1
+21	761	CDS
+			product	nonstructural protein 1
+			protein_id	2474338246_2
+>Feature gi|2474338249|gb|OQ733370.1|
+1	1968	gene
+			gene	HE
+1	1968	CDS
+			product	hemagglutinin-esterase
+			protein_id	2474338249_1
+>Feature gi|2474338251|gb|OQ733371.1|
+1	957	gene
+			gene	M1
+1	728	CDS
+957	957
+			product	matrix protein 1
+			protein_id	2474338251_1
+706	1125	gene
+			gene	CM2
+706	1125	CDS
+			product	CM2 protein
+			protein_id	2474338251_2
+>Feature gi|2474338254|gb|OQ733372.1|
+1	1698	gene
+			gene	NP
+1	1698	CDS
+			product	nucleoprotein
+			protein_id	2474338254_1
+>Feature gi|2474338256|gb|OQ733373.1|
+1	2325	gene
+			gene	PB2
+1	2325	CDS
+			product	polymerase PB2
+			protein_id	2474338256_1
+>Feature gi|2474338258|gb|OQ733374.1|
+1	2130	gene
+			gene	P3
+1	2130	CDS
+			product	polymerase P3
+			protein_id	2474338258_1
+>Feature gi|2474338260|gb|OQ733375.1|
+20	881	gene
+			gene	NEP
+			gene_syn	NS2
+20	760	gene
+			gene	NS1
+20	206	CDS
+520	881
+			product	nonstructural protein 2
+			protein_id	2474338260_1
+20	760	CDS
+			product	nonstructural protein 1
+			protein_id	2474338260_2
+>Feature gi|2474338263|gb|OQ733376.1|
+1	957	gene
+			gene	M1
+1	728	CDS
+957	957
+			product	matrix protein 1
+			protein_id	2474338263_1
+706	1125	gene
+			gene	CM2
+706	1125	CDS
+			product	CM2 protein
+			protein_id	2474338263_2
+>Feature gi|2474338266|gb|OQ733377.1|
+1	2130	gene
+			gene	P3
+1	2130	CDS
+			product	polymerase P3
+			protein_id	2474338266_1
+>Feature gi|2474338268|gb|OQ733378.1|
+1	2265	gene
+			gene	PB1
+1	2265	CDS
+			product	polymerase PB1
+			protein_id	2474338268_1
+>Feature gi|2474338270|gb|OQ733379.1|
+1	2325	gene
+			gene	PB2
+1	2325	CDS
+			product	polymerase PB2
+			protein_id	2474338270_1
+>Feature gi|2474338272|gb|OQ733380.1|
+20	881	gene
+			gene	NEP
+			gene_syn	NS2
+20	760	gene
+			gene	NS1
+20	206	CDS
+520	881
+			product	nonstructural protein 2
+			protein_id	2474338272_1
+20	760	CDS
+			product	nonstructural protein 1
+			protein_id	2474338272_2
+>Feature gi|2474338275|gb|OQ733381.1|
+1	1698	gene
+			gene	NP
+1	1698	CDS
+			product	nucleoprotein
+			protein_id	2474338275_1
+>Feature gi|2474338277|gb|OQ733382.1|
+1	1968	gene
+			gene	HE
+1	1968	CDS
+			product	hemagglutinin-esterase
+			protein_id	2474338277_1

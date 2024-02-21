@@ -1,0 +1,22 @@
+>Feature gi|2278964058|dbj|LC720290.1|
+18	2342	gene
+			gene	PB2
+18	2342	CDS
+			product	polymerase PB2
+			protein_id	2278964058_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [24 extra nucleotides]; seq-coords:2362..2385:+; mdl-coords:2365..2365:+; mdl:NC_006307;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 25]; seq-coords:2361..2385:+; mdl-coords:2365..2365:+; mdl:NC_006307;
+>Feature gi|1041652865|dbj|LC123725.1|
+1	1693	gene
+			gene	NP
+1	1693	CDS
+			product	nucleoprotein
+			protein_id	1041652865_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nucleoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:22,M:22]; seq-coords:1669..1671:+; mdl-coords:1703..1705:+; mdl:NC_006311;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nucleoprotein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1666,M:1696..1700(5); frame:1(2); length:1666:(27); shifted_avgpp:0.969; exp_avgpp:0.975;]; seq-coords:1667..1693:+; mdl-coords:1696..1727:+; mdl:NC_006311;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [31>8]; seq-coords:1663..1693:+; mdl-coords:1727..1727:+; mdl:NC_006311;
+ERROR: UNEXPECTED_LENGTH: (CDS:nucleoprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1693]; seq-coords:1..1693:+; mdl-coords:30..1727:+; mdl:NC_006311;

@@ -1,0 +1,851 @@
+>Feature gi|2619686147|emb|OY758994.1|
+<1	2149	gene
+			gene	PB2
+<1	2149	CDS
+			product	polymerase PB2
+			codon_start	2
+			protein_id	2619686147_1
+>Feature gi|2619686148|emb|OY758995.1|
+17	865	gene
+			gene	NS1
+17	865	CDS
+			product	nonstructural protein 1
+			protein_id	2619686148_2
+17	>931	gene
+			gene	NEP
+			gene_syn	NS2
+17	52	CDS
+708	>931
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2619686148_1
+>Feature gi|2619686149|emb|OY758996.1|
+<1	736	gene
+			gene	M1
+<1	736	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	2619686149_1
+736	1065	gene
+			gene	BM2
+736	1065	CDS
+			product	BM2 protein
+			protein_id	2619686149_2
+>Feature gi|2619686150|emb|OY758997.1|
+20	1702	gene
+			gene	NP
+20	1702	CDS
+			product	nucleoprotein
+			protein_id	2619686150_1
+>Feature gi|2619686151|emb|OY758998.1|
+<1	1731	gene
+			gene	HA
+<1	1731	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	2619686151_1
+>Feature gi|2619686152|emb|OY758999.1|
+<1	250	gene
+			gene	NB
+<1	1355	gene
+			gene	NA
+<1	250	CDS
+			product	NB protein
+			codon_start	2
+			protein_id	2619686152_1
+<1	1355	CDS
+			product	neuraminidase
+			codon_start	3
+			protein_id	2619686152_2
+>Feature gi|2619686153|emb|OY759000.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2619686153_1
+>Feature gi|2619686154|emb|OY759001.1|
+<1	2246	gene
+			gene	PB1
+<1	2246	CDS
+			product	polymerase PB1
+			codon_start	3
+			protein_id	2619686154_1
+>Feature gi|2619686163|emb|OY759010.1|
+1	>2304	gene
+			gene	PB2
+1	>2304	CDS
+			product	polymerase PB2
+			protein_id	2619686163_1
+>Feature gi|2619686164|emb|OY759011.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2619686164_1
+>Feature gi|2619686165|emb|OY759012.1|
+<29	>1025	gene
+			gene	NEP
+			gene_syn	NS2
+<29	>868	gene
+			gene	NS1
+<29	63	CDS
+719	>1025
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	3
+			protein_id	2619686165_1
+<29	>868	CDS
+			product	nonstructural protein 1
+			codon_start	3
+			protein_id	2619686165_2
+>Feature gi|2619686166|emb|OY759013.1|
+<1	644	gene
+			gene	M1
+<1	644	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	2619686166_1
+644	973	gene
+			gene	BM2
+644	973	CDS
+			product	BM2 protein
+			protein_id	2619686166_2
+>Feature gi|2619686167|emb|OY759014.1|
+12	1694	gene
+			gene	NP
+12	1694	CDS
+			product	nucleoprotein
+			protein_id	2619686167_1
+>Feature gi|2619686168|emb|OY759015.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2619686168_1
+>Feature gi|2619686169|emb|OY759016.1|
+<1	1398	gene
+			gene	NA
+<1	1398	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	2619686169_2
+<1	>290	gene
+			gene	NB
+<1	>290	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	2619686169_1
+>Feature gi|2619686170|emb|OY759017.1|
+<1	2253	gene
+			gene	PB1
+<1	2253	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	2619686170_1
+>Feature gi|2618371564|emb|OY757599.1|
+<1	2303	gene
+			gene	PB2
+<1	2303	CDS
+			product	polymerase PB2
+			codon_start	3
+			protein_id	2618371564_1
+>Feature gi|2618371565|emb|OY757600.1|
+40	1066	gene
+			gene	NEP
+			gene_syn	NS2
+40	888	gene
+			gene	NS1
+40	75	CDS
+731	1066
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371565_1
+40	888	CDS
+			product	nonstructural protein 1
+			protein_id	2618371565_2
+>Feature gi|2618371566|emb|OY757601.1|
+<1	690	gene
+			gene	M1
+<1	690	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	2618371566_1
+690	1019	gene
+			gene	BM2
+690	1019	CDS
+			product	BM2 protein
+			protein_id	2618371566_2
+>Feature gi|2618371567|emb|OY757602.1|
+<1	1630	gene
+			gene	NP
+<1	1630	CDS
+			product	nucleoprotein
+			codon_start	2
+			protein_id	2618371567_1
+>Feature gi|2618371568|emb|OY757603.1|
+<1	1638	gene
+			gene	HA
+<1	1638	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	2618371568_1
+>Feature gi|2618371569|emb|OY757604.1|
+<1	268	gene
+			gene	NB
+<1	1373	gene
+			gene	NA
+<1	268	CDS
+			product	NB protein
+			codon_start	2
+			protein_id	2618371569_1
+<1	1373	CDS
+			product	neuraminidase
+			codon_start	3
+			protein_id	2618371569_2
+>Feature gi|2618371570|emb|OY757605.1|
+<1	2128	gene
+			gene	PA
+<1	2128	CDS
+			product	polymerase PA
+			codon_start	2
+			protein_id	2618371570_1
+>Feature gi|2618371571|emb|OY757606.1|
+<1	2186	gene
+			gene	PB1
+<1	2186	CDS
+			product	polymerase PB1
+			codon_start	3
+			protein_id	2618371571_1
+>Feature gi|2618371595|emb|OY757630.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371595_1
+>Feature gi|2618371596|emb|OY757631.1|
+43	1069	gene
+			gene	NEP
+			gene_syn	NS2
+43	891	gene
+			gene	NS1
+43	78	CDS
+734	1069
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371596_1
+43	891	CDS
+			product	nonstructural protein 1
+			protein_id	2618371596_2
+>Feature gi|2618371597|emb|OY757632.1|
+14	760	gene
+			gene	M1
+14	760	CDS
+			product	matrix protein 1
+			protein_id	2618371597_1
+760	1089	gene
+			gene	BM2
+760	1089	CDS
+			product	BM2 protein
+			protein_id	2618371597_2
+>Feature gi|2618371598|emb|OY757633.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371598_1
+>Feature gi|2618371599|emb|OY757634.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371599_1
+>Feature gi|2618371600|emb|OY757635.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	2618371600_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	2618371600_2
+>Feature gi|2618371601|emb|OY757636.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371601_1
+>Feature gi|2618371602|emb|OY757637.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371602_1
+>Feature gi|2618371616|emb|OY757651.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371616_1
+>Feature gi|2618371617|emb|OY757652.1|
+44	1070	gene
+			gene	NEP
+			gene_syn	NS2
+44	892	gene
+			gene	NS1
+44	79	CDS
+735	1070
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371617_1
+44	892	CDS
+			product	nonstructural protein 1
+			protein_id	2618371617_2
+>Feature gi|2618371618|emb|OY757653.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	2618371618_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	2618371618_2
+>Feature gi|2618371619|emb|OY757654.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371619_1
+>Feature gi|2618371620|emb|OY757655.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371620_1
+>Feature gi|2618371621|emb|OY757656.1|
+45	347	gene
+			gene	NB
+45	347	CDS
+			product	NB protein
+			protein_id	2618371621_1
+52	1452	gene
+			gene	NA
+52	1452	CDS
+			product	neuraminidase
+			protein_id	2618371621_2
+>Feature gi|2618371622|emb|OY757657.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371622_1
+>Feature gi|2618371623|emb|OY757658.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371623_1
+>Feature gi|2618371658|emb|OY757693.1|
+35	337	gene
+			gene	NB
+35	337	CDS
+			product	NB protein
+			protein_id	2618371658_1
+42	1442	gene
+			gene	NA
+42	1442	CDS
+			product	neuraminidase
+			protein_id	2618371658_2
+>Feature gi|2618371659|emb|OY757694.1|
+18	764	gene
+			gene	M1
+18	764	CDS
+			product	matrix protein 1
+			protein_id	2618371659_1
+764	1093	gene
+			gene	BM2
+764	1093	CDS
+			product	BM2 protein
+			protein_id	2618371659_2
+>Feature gi|2618371660|emb|OY757695.1|
+36	1059	gene
+			gene	NEP
+			gene_syn	NS2
+36	881	gene
+			gene	NS1
+36	68	CDS
+724	1059
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371660_1
+36	881	CDS
+			product	nonstructural protein 1
+			protein_id	2618371660_2
+>Feature gi|2618371661|emb|OY757696.1|
+20	1774	gene
+			gene	HA
+20	1774	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371661_1
+>Feature gi|2618371662|emb|OY757697.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371662_1
+>Feature gi|2618371663|emb|OY757698.1|
+18	2330	gene
+			gene	PB2
+18	2330	CDS
+			product	polymerase PB2
+			protein_id	2618371663_1
+>Feature gi|2618371664|emb|OY757699.1|
+22	2202	gene
+			gene	PA
+22	2202	CDS
+			product	polymerase PA
+			protein_id	2618371664_1
+>Feature gi|2618371665|emb|OY757700.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371665_1
+>Feature gi|2618371709|emb|OY757744.1|
+<1	1858	gene
+			gene	PB2
+<1	1858	CDS
+			product	polymerase PB2
+			codon_start	2
+			protein_id	2618371709_1
+>Feature gi|2618371710|emb|OY757745.1|
+<1	>1018	gene
+			gene	PA
+<1	>1018	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	2618371710_1
+>Feature gi|2618371711|emb|OY757746.1|
+<1	469	gene
+			gene	M1
+<1	469	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	2618371711_1
+469	798	gene
+			gene	BM2
+469	798	CDS
+			product	BM2 protein
+			protein_id	2618371711_2
+>Feature gi|2618371712|emb|OY757747.1|
+<1	>1629	gene
+			gene	NP
+<1	>1629	CDS
+			product	nucleoprotein
+			codon_start	2
+			protein_id	2618371712_1
+>Feature gi|2618371713|emb|OY757748.1|
+<1	>1103	gene
+			gene	HA
+<1	>1103	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	2618371713_1
+>Feature gi|2618371714|emb|OY757749.1|
+<1	>1468	gene
+			gene	PB1
+<1	>1468	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	2618371714_1
+>Feature gi|2618371715|emb|OY757750.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371715_1
+>Feature gi|2618371716|emb|OY757751.1|
+33	1059	gene
+			gene	NEP
+			gene_syn	NS2
+33	881	gene
+			gene	NS1
+33	68	CDS
+724	1059
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371716_1
+33	881	CDS
+			product	nonstructural protein 1
+			protein_id	2618371716_2
+>Feature gi|2618371717|emb|OY757752.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	2618371717_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	2618371717_2
+>Feature gi|2618371718|emb|OY757753.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371718_1
+>Feature gi|2618371719|emb|OY757754.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371719_1
+>Feature gi|2618371720|emb|OY757755.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	2618371720_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	2618371720_2
+>Feature gi|2618371721|emb|OY757756.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371721_1
+>Feature gi|2618371722|emb|OY757757.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371722_1
+>Feature gi|2618371741|emb|OY757776.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371741_1
+>Feature gi|2618371742|emb|OY757777.1|
+38	1064	gene
+			gene	NEP
+			gene_syn	NS2
+38	886	gene
+			gene	NS1
+38	73	CDS
+729	1064
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371742_1
+38	886	CDS
+			product	nonstructural protein 1
+			protein_id	2618371742_2
+>Feature gi|2618371743|emb|OY757778.1|
+23	769	gene
+			gene	M1
+23	769	CDS
+			product	matrix protein 1
+			protein_id	2618371743_1
+769	1098	gene
+			gene	BM2
+769	1098	CDS
+			product	BM2 protein
+			protein_id	2618371743_2
+>Feature gi|2618371744|emb|OY757779.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371744_1
+>Feature gi|2618371745|emb|OY757780.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371745_1
+>Feature gi|2618371746|emb|OY757781.1|
+37	339	gene
+			gene	NB
+37	339	CDS
+			product	NB protein
+			protein_id	2618371746_1
+44	1444	gene
+			gene	NA
+44	1444	CDS
+			product	neuraminidase
+			protein_id	2618371746_2
+>Feature gi|2618371747|emb|OY757782.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371747_1
+>Feature gi|2618371748|emb|OY757783.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371748_1
+>Feature gi|2618371759|emb|OY757794.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371759_1
+>Feature gi|2618371760|emb|OY757795.1|
+36	1062	gene
+			gene	NEP
+			gene_syn	NS2
+36	884	gene
+			gene	NS1
+36	71	CDS
+727	1062
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371760_1
+36	884	CDS
+			product	nonstructural protein 1
+			protein_id	2618371760_2
+>Feature gi|2618371761|emb|OY757796.1|
+20	766	gene
+			gene	M1
+20	766	CDS
+			product	matrix protein 1
+			protein_id	2618371761_1
+766	1095	gene
+			gene	BM2
+766	1095	CDS
+			product	BM2 protein
+			protein_id	2618371761_2
+>Feature gi|2618371762|emb|OY757797.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371762_1
+>Feature gi|2618371763|emb|OY757798.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371763_1
+>Feature gi|2618371764|emb|OY757799.1|
+32	334	gene
+			gene	NB
+32	334	CDS
+			product	NB protein
+			protein_id	2618371764_1
+39	1439	gene
+			gene	NA
+39	1439	CDS
+			product	neuraminidase
+			protein_id	2618371764_2
+>Feature gi|2618371765|emb|OY757800.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371765_1
+>Feature gi|2618371766|emb|OY757801.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371766_1
+>Feature gi|2618371771|emb|OY757806.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371771_1
+>Feature gi|2618371772|emb|OY757807.1|
+40	1066	gene
+			gene	NEP
+			gene_syn	NS2
+40	888	gene
+			gene	NS1
+40	75	CDS
+731	1066
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371772_1
+40	888	CDS
+			product	nonstructural protein 1
+			protein_id	2618371772_2
+>Feature gi|2618371773|emb|OY757808.1|
+23	769	gene
+			gene	M1
+23	769	CDS
+			product	matrix protein 1
+			protein_id	2618371773_1
+769	1098	gene
+			gene	BM2
+769	1098	CDS
+			product	BM2 protein
+			protein_id	2618371773_2
+>Feature gi|2618371774|emb|OY757809.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371774_1
+>Feature gi|2618371775|emb|OY757810.1|
+19	1767	gene
+			gene	HA
+19	1767	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371775_1
+>Feature gi|2618371776|emb|OY757811.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	2618371776_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	2618371776_2
+>Feature gi|2618371777|emb|OY757812.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371777_1
+>Feature gi|2618371778|emb|OY757813.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371778_1
+>Feature gi|2618371806|emb|OY757841.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	2618371806_1
+>Feature gi|2618371807|emb|OY757842.1|
+40	1066	gene
+			gene	NEP
+			gene_syn	NS2
+40	888	gene
+			gene	NS1
+40	75	CDS
+731	1066
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2618371807_1
+40	888	CDS
+			product	nonstructural protein 1
+			protein_id	2618371807_2
+>Feature gi|2618371808|emb|OY757843.1|
+16	762	gene
+			gene	M1
+16	762	CDS
+			product	matrix protein 1
+			protein_id	2618371808_1
+762	1091	gene
+			gene	BM2
+762	1091	CDS
+			product	BM2 protein
+			protein_id	2618371808_2
+>Feature gi|2618371809|emb|OY757844.1|
+47	1729	gene
+			gene	NP
+47	1729	CDS
+			product	nucleoprotein
+			protein_id	2618371809_1
+>Feature gi|2618371810|emb|OY757845.1|
+20	1768	gene
+			gene	HA
+20	1768	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2618371810_1
+>Feature gi|2618371811|emb|OY757846.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	2618371811_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	2618371811_2
+>Feature gi|2618371812|emb|OY757847.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	2618371812_1
+>Feature gi|2618371813|emb|OY757848.1|
+8	2266	gene
+			gene	PB1
+8	2266	CDS
+			product	polymerase PB1
+			protein_id	2618371813_1
+>Feature gi|2618371864|emb|OY757899.1|
+<1	>1675	gene
+			gene	PB2
+<1	>1675	CDS
+			product	polymerase PB2
+			codon_start	2
+			protein_id	2618371864_1
+>Feature gi|2618371865|emb|OY757900.1|
+<1	595	gene
+			gene	M1
+<1	595	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	2618371865_1
+595	>626	gene
+			gene	BM2
+595	>626	CDS
+			product	BM2 protein
+			protein_id	2618371865_2
+>Feature gi|2618371866|emb|OY757901.1|
+<1	1642	gene
+			gene	NP
+<1	1642	CDS
+			product	nucleoprotein
+			codon_start	2
+			protein_id	2618371866_1
+>Feature gi|2618371867|emb|OY757902.1|
+<1	264	gene
+			gene	NB
+<1	1369	gene
+			gene	NA
+<1	264	CDS
+			product	NB protein
+			codon_start	1
+			protein_id	2618371867_1
+<1	1369	CDS
+			product	neuraminidase
+			codon_start	2
+			protein_id	2618371867_2
+>Feature gi|2618371868|emb|OY757903.1|
+<1	2141	gene
+			gene	PB1
+<1	2141	CDS
+			product	polymerase PB1
+			codon_start	3
+			protein_id	2618371868_1

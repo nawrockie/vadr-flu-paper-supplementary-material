@@ -1,0 +1,3435 @@
+>Feature gi|6406226|dbj|AB027386.1|
+<1	>1032	gene
+			gene	HA
+<1	>1032	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6406226_1
+>Feature gi|6406251|dbj|AB027388.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6406251_1
+>Feature gi|6406269|dbj|AB027391.1|
+<1	>1035	gene
+			gene	HA
+<1	>1035	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6406269_1
+>Feature gi|6406294|dbj|AB027395.1|
+1	>1080	gene
+			gene	HA
+1	>1080	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	6406294_1
+>Feature gi|6406306|dbj|AB027397.1|
+1	>1083	gene
+			gene	HA
+1	>1083	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	6406306_1
+>Feature gi|6425149|dbj|AB027399.1|
+1	>1083	gene
+			gene	HA
+1	>1083	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	6425149_1
+>Feature gi|6406357|dbj|AB027400.1|
+1	>1086	gene
+			gene	HA
+1	>1086	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	6406357_1
+>Feature gi|6406374|dbj|AB027403.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6406374_1
+>Feature gi|6406386|dbj|AB027405.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6406386_1
+>Feature gi|6406404|dbj|AB027408.1|
+1	>1083	gene
+			gene	HA
+1	>1083	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	6406404_1
+>Feature gi|6406410|dbj|AB027409.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	6406410_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	6406410_1
+>Feature gi|6406428|dbj|AB027476.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	6406428_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	6406428_1
+>Feature gi|5509898|dbj|AB029617.1|
+<1	>1043	gene
+			gene	HA
+<1	>1043	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	5509898_1
+>Feature gi|5509908|dbj|AB029620.1|
+<1	>1056	gene
+			gene	HA
+<1	>1056	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	5509908_1
+>Feature gi|5509922|dbj|AB029627.1|
+<1	>1069	gene
+			gene	HA
+<1	>1069	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	5509922_1
+>Feature gi|5509932|dbj|AB029632.1|
+<1	>1076	gene
+			gene	HA
+<1	>1076	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	5509932_1
+>Feature gi|6139047|dbj|AB033826.1|
+<1	>1060	gene
+			gene	HA
+<1	>1060	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6139047_1
+>Feature gi|6683730|dbj|AB036449.1|
+<1	>1005	gene
+			gene	HA
+<1	>1005	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6683730_1
+>Feature gi|6683736|dbj|AB036452.1|
+<1	>1049	gene
+			gene	HA
+<1	>1049	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6683736_1
+>Feature gi|6683738|dbj|AB036453.1|
+<1	>1008	gene
+			gene	HA
+<1	>1008	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	6683738_1
+>Feature gi|12862771|dbj|AB036860.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	12862771_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	12862771_2
+>Feature gi|12862774|dbj|AB036861.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	12862774_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	12862774_2
+>Feature gi|12862780|dbj|AB036863.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	12862780_1
+>Feature gi|12862801|dbj|AB036871.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	12862801_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	12862801_2
+>Feature gi|12862816|dbj|AB036877.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	12862816_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	12862816_2
+>Feature gi|12862819|dbj|AB036878.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	12862819_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	12862819_2
+>Feature gi|12862822|dbj|AB036879.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	12862822_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	12862822_2
+>Feature gi|8698601|dbj|AB045010.1|
+<1	>1065	gene
+			gene	HA
+<1	>1065	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	8698601_1
+>Feature gi|12539426|dbj|AB054679.1|
+<1	>1042	gene
+			gene	HA
+<1	>1042	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	12539426_1
+>Feature gi|12539440|dbj|AB054686.1|
+<1	>1068	gene
+			gene	HA
+<1	>1068	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	12539440_1
+>Feature gi|27530639|dbj|AB059250.1|
+1	>1083	gene
+			gene	HA
+1	>1083	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	27530639_1
+>Feature gi|27530650|dbj|AB059255.1|
+1	>925	gene
+			gene	NP
+1	>925	CDS
+			product	nucleoprotein
+			protein_id	27530650_1
+>Feature gi|27530652|dbj|AB059256.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	27530652_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	27530652_2
+>Feature gi|15706351|dbj|AB071518.1|
+<1	>1078	gene
+			gene	HA
+<1	>1078	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	15706351_1
+>Feature gi|15706361|dbj|AB071523.1|
+<1	>1078	gene
+			gene	HA
+<1	>1078	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	15706361_1
+>Feature gi|15706365|dbj|AB071525.1|
+<1	>1074	gene
+			gene	HA
+<1	>1074	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	15706365_1
+>Feature gi|15706375|dbj|AB071530.1|
+<1	>656	gene
+			gene	HA
+<1	>656	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	15706375_1
+>Feature gi|15706381|dbj|AB071533.1|
+<1	>1077	gene
+			gene	HA
+<1	>1077	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	15706381_1
+>Feature gi|20135963|dbj|AB083182.1|
+<1	>979	gene
+			gene	HA
+<1	>979	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	20135963_1
+>Feature gi|20135965|dbj|AB083183.1|
+<1	>979	gene
+			gene	HA
+<1	>979	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	20135965_1
+>Feature gi|50300100|dbj|AB120227.1|
+1	>925	gene
+			gene	NP
+1	>925	CDS
+			product	nucleoprotein
+			protein_id	50300100_1
+>Feature gi|50300106|dbj|AB120230.1|
+1	>925	gene
+			gene	NP
+1	>925	CDS
+			product	nucleoprotein
+			protein_id	50300106_1
+>Feature gi|50300110|dbj|AB120232.1|
+1	>925	gene
+			gene	NP
+1	>925	CDS
+			product	nucleoprotein
+			protein_id	50300110_1
+>Feature gi|50300129|dbj|AB120241.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	50300129_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	50300129_2
+>Feature gi|50300156|dbj|AB120250.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	50300156_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	50300156_2
+>Feature gi|50300162|dbj|AB120252.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	50300162_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	50300162_2
+>Feature gi|50300168|dbj|AB120254.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	50300168_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	50300168_2
+>Feature gi|50300174|dbj|AB120256.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	50300174_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	50300174_2
+>Feature gi|50300189|dbj|AB120261.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	50300189_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	50300189_2
+>Feature gi|50300198|dbj|AB120264.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	50300198_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	50300198_2
+>Feature gi|50300201|dbj|AB120265.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	50300201_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	50300201_2
+>Feature gi|50300204|dbj|AB120266.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	50300204_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	50300204_2
+>Feature gi|50300231|dbj|AB120275.1|
+1	747	gene
+			gene	M1
+1	747	CDS
+			product	matrix protein 1
+			protein_id	50300231_1
+747	1076	gene
+			gene	BM2
+747	1076	CDS
+			product	BM2 protein
+			protein_id	50300231_2
+>Feature gi|50300236|dbj|AB120277.1|
+<1	>471	gene
+			gene	PB1
+<1	>471	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	50300236_1
+>Feature gi|50300238|dbj|AB120278.1|
+<1	>471	gene
+			gene	PB1
+<1	>471	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	50300238_1
+>Feature gi|50300254|dbj|AB120286.1|
+<1	>471	gene
+			gene	PB1
+<1	>471	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	50300254_1
+>Feature gi|50300266|dbj|AB120292.1|
+<1	>471	gene
+			gene	PB1
+<1	>471	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	50300266_1
+>Feature gi|50300276|dbj|AB120434.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	50300276_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	50300276_2
+>Feature gi|50300285|dbj|AB120437.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	50300285_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	50300285_2
+>Feature gi|50300288|dbj|AB120438.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	50300288_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	50300288_2
+>Feature gi|50300297|dbj|AB120441.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	50300297_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	50300297_2
+>Feature gi|50300300|dbj|AB120442.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	50300300_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	50300300_2
+>Feature gi|50300318|dbj|AB120448.1|
+1	1024	gene
+			gene	NEP
+			gene_syn	NS2
+1	846	gene
+			gene	NS1
+1	33	CDS
+689	1024
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	50300318_1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	50300318_2
+>Feature gi|50300340|dbj|AB120458.1|
+<1	>459	gene
+			gene	PA
+<1	>459	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	50300340_1
+>Feature gi|50300344|dbj|AB120460.1|
+<1	>459	gene
+			gene	PA
+<1	>459	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	50300344_1
+>Feature gi|50300348|dbj|AB120462.1|
+<1	>459	gene
+			gene	PA
+<1	>459	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	50300348_1
+>Feature gi|50300356|dbj|AB120466.1|
+<1	>459	gene
+			gene	PA
+<1	>459	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	50300356_1
+>Feature gi|50300364|dbj|AB120470.1|
+<1	>465	gene
+			gene	PB2
+<1	>465	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	50300364_1
+>Feature gi|50300392|dbj|AB120484.1|
+<1	>465	gene
+			gene	PB2
+<1	>465	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	50300392_1
+>Feature gi|50300396|dbj|AB120486.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	50300396_1
+>Feature gi|50300398|dbj|AB120487.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	50300398_1
+>Feature gi|50300416|dbj|AB120496.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	50300416_1
+>Feature gi|50300434|dbj|AB120505.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	50300434_1
+>Feature gi|50300436|dbj|AB120506.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	50300436_1
+>Feature gi|50300440|dbj|AB120508.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	50300440_1
+>Feature gi|38603582|dbj|AB126834.1|
+<1	>1008	gene
+			gene	HA
+<1	>1008	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	38603582_1
+>Feature gi|38603584|dbj|AB126835.1|
+<1	>1007	gene
+			gene	HA
+<1	>1007	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	38603584_1
+>Feature gi|38603594|dbj|AB126840.1|
+<1	>692	gene
+			gene	HA
+<1	>692	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	38603594_1
+>Feature gi|38603598|dbj|AB126842.1|
+<1	>1008	gene
+			gene	HA
+<1	>1008	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	38603598_1
+>Feature gi|53147594|dbj|AB158792.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147594_1
+>Feature gi|53147611|dbj|AB158794.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147611_1
+>Feature gi|53147620|dbj|AB158795.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147620_1
+>Feature gi|53147628|dbj|AB158796.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147628_1
+>Feature gi|53147645|dbj|AB158798.1|
+<1	>1041	gene
+			gene	HA
+<1	>1041	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147645_1
+>Feature gi|53147659|dbj|AB158800.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147659_1
+>Feature gi|53147668|dbj|AB158801.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53147668_1
+>Feature gi|56541550|dbj|AB196142.1|
+<1	>1009	gene
+			gene	HA
+<1	>1009	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	56541550_1
+>Feature gi|56541554|dbj|AB196144.1|
+<1	>1009	gene
+			gene	HA
+<1	>1009	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	56541554_1
+>Feature gi|168086041|dbj|AB381880.1|
+<1	>1005	gene
+			gene	HA
+<1	>1005	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	168086041_1
+>Feature gi|168085424|dbj|AB381881.1|
+<1	>1004	gene
+			gene	HA
+<1	>1004	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	168085424_1
+>Feature gi|168693396|dbj|AB385604.1|
+<1	>1003	gene
+			gene	HA
+<1	>1003	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	168693396_1
+>Feature gi|168693406|dbj|AB385609.1|
+<1	>1003	gene
+			gene	HA
+<1	>1003	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	168693406_1
+>Feature gi|169659108|dbj|AB426532.1|
+<1	>1003	gene
+			gene	HA
+<1	>1003	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	169659108_1
+>Feature gi|169659114|dbj|AB426535.1|
+<1	>999	gene
+			gene	HA
+<1	>999	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	169659114_1
+>Feature gi|169659116|dbj|AB426536.1|
+<1	>1002	gene
+			gene	HA
+<1	>1002	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	169659116_1
+>Feature gi|169659118|dbj|AB426537.1|
+<1	>1005	gene
+			gene	HA
+<1	>1005	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	169659118_1
+>Feature gi|169659128|dbj|AB426542.1|
+<1	>1003	gene
+			gene	HA
+<1	>1003	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	169659128_1
+>Feature gi|208609615|dbj|AB462368.1|
+<1	209	gene
+			gene	NB
+<1	209	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	208609615_1
+<1	>1311	gene
+			gene	NA
+<1	>1311	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	208609615_2
+>Feature gi|208609617|dbj|AB462369.1|
+<1	>491	gene
+			gene	NA
+<1	>491	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	208609617_1
+>Feature gi|219687597|dbj|AB470355.1|
+<1	>340	gene
+			gene	HA
+<1	>340	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	219687597_1
+>Feature gi|474441685|dbj|AB679576.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474441685_1
+>Feature gi|474441734|dbj|AB679588.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474441734_1
+>Feature gi|474441750|dbj|AB679592.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474441750_1
+>Feature gi|474442849|dbj|AB679595.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474442849_1
+>Feature gi|474420379|dbj|AB679597.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420379_1
+>Feature gi|474442857|dbj|AB679599.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474442857_1
+>Feature gi|474442865|dbj|AB679601.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474442865_1
+>Feature gi|474420396|dbj|AB679603.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420396_1
+>Feature gi|474420403|dbj|AB679605.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420403_1
+>Feature gi|474420409|dbj|AB679607.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420409_1
+>Feature gi|474420412|dbj|AB679608.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420412_1
+>Feature gi|474420414|dbj|AB679609.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420414_1
+>Feature gi|474420421|dbj|AB679611.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420421_1
+>Feature gi|474420439|dbj|AB679616.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420439_1
+>Feature gi|474420442|dbj|AB679617.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420442_1
+>Feature gi|474420445|dbj|AB679618.1|
+<1	>208	gene
+			gene	HA
+<1	>208	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	474420445_1
+>Feature gi|402726320|dbj|AB744211.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	402726320_1
+>Feature gi|402726322|dbj|AB744212.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	402726322_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	402726322_2
+>Feature gi|693012401|dbj|AB915356.1|
+<1	>609	gene
+			gene	HA
+<1	>609	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	693012401_1
+>Feature gi|693012403|dbj|AB915357.1|
+<1	>609	gene
+			gene	HA
+<1	>609	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	693012403_1
+>Feature gi|703999316|dbj|AB998211.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999316_1
+>Feature gi|703999328|dbj|AB998217.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999328_1
+>Feature gi|703999330|dbj|AB998218.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999330_1
+>Feature gi|703999342|dbj|AB998224.1|
+<1	>517	gene
+			gene	HA
+<1	>517	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999342_1
+>Feature gi|703999346|dbj|AB998226.1|
+<1	>517	gene
+			gene	HA
+<1	>517	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999346_1
+>Feature gi|703999350|dbj|AB998228.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999350_1
+>Feature gi|703999354|dbj|AB998230.1|
+<1	>517	gene
+			gene	HA
+<1	>517	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999354_1
+>Feature gi|703999356|dbj|AB998231.1|
+<1	>517	gene
+			gene	HA
+<1	>517	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999356_1
+>Feature gi|703999366|dbj|AB998236.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999366_1
+>Feature gi|703999378|dbj|AB998242.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999378_1
+>Feature gi|703999382|dbj|AB998244.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999382_1
+>Feature gi|703999394|dbj|AB998250.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999394_1
+>Feature gi|703999402|dbj|AB998254.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999402_1
+>Feature gi|703999406|dbj|AB998256.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999406_1
+>Feature gi|703999408|dbj|AB998257.1|
+<1	>520	gene
+			gene	HA
+<1	>520	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999408_1
+>Feature gi|703999424|dbj|AB998265.1|
+<1	>517	gene
+			gene	HA
+<1	>517	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	703999424_1
+>Feature gi|21628548|emb|AJ419091.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628548_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628548_1
+>Feature gi|21628552|emb|AJ419093.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628552_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628552_1
+>Feature gi|21628554|emb|AJ419094.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628554_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628554_1
+>Feature gi|21628558|emb|AJ419096.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628558_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628558_1
+>Feature gi|21628568|emb|AJ419101.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628568_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628568_1
+>Feature gi|21628572|emb|AJ419103.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628572_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628572_1
+>Feature gi|21628576|emb|AJ419105.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628576_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628576_1
+>Feature gi|21628578|emb|AJ419106.1|
+1	846	gene
+			gene	NS1
+1	846	CDS
+			product	nonstructural protein 1
+			protein_id	21628578_2
+1	>846	gene
+			gene	NEP
+			gene_syn	NS2
+1	33	CDS
+689	>846
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	21628578_1
+>Feature gi|21628582|emb|AJ419108.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628582_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628582_2
+>Feature gi|21628588|emb|AJ419110.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628588_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628588_2
+>Feature gi|21628594|emb|AJ419112.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628594_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628594_2
+>Feature gi|21628597|emb|AJ419113.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628597_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628597_2
+>Feature gi|21628603|emb|AJ419115.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628603_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628603_2
+>Feature gi|21628612|emb|AJ419118.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628612_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628612_2
+>Feature gi|21628630|emb|AJ419124.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628630_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628630_2
+>Feature gi|21628633|emb|AJ419125.1|
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	21628633_1
+8	>568	gene
+			gene	NA
+8	>568	CDS
+			product	neuraminidase
+			protein_id	21628633_2
+>Feature gi|16945340|emb|AJ419580.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	16945340_1
+>Feature gi|16945342|emb|AJ419581.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	16945342_1
+>Feature gi|16945348|emb|AJ419584.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	16945348_1
+>Feature gi|16945350|emb|AJ419585.1|
+<1	>1038	gene
+			gene	HA
+<1	>1038	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	16945350_1
+>Feature gi|21955853|emb|AJ489315.1|
+<1	>710	gene
+			gene	HA
+<1	>710	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	21955853_1
+>Feature gi|66350975|emb|AJ716208.1|
+1	>2161	gene
+			gene	PA
+1	>2161	CDS
+			product	polymerase PA
+			protein_id	66350975_1
+>Feature gi|66350991|emb|AJ716216.1|
+<1	>2141	gene
+			gene	PA
+<1	>2141	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	66350991_1
+>Feature gi|66351003|emb|AJ716222.1|
+10	>2179	gene
+			gene	PA
+10	>2179	CDS
+			product	polymerase PA
+			protein_id	66351003_1
+>Feature gi|66351005|emb|AJ716223.1|
+10	>2165	gene
+			gene	PA
+10	>2165	CDS
+			product	polymerase PA
+			protein_id	66351005_1
+>Feature gi|68655057|emb|AJ781174.1|
+<1	>2218	gene
+			gene	PB1
+<1	>2218	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	68655057_1
+>Feature gi|68655105|emb|AJ781184.1|
+<1	>2230	gene
+			gene	PB1
+<1	>2230	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	68655105_1
+>Feature gi|68655121|emb|AJ781186.1|
+<1	>2226	gene
+			gene	PB1
+<1	>2226	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	68655121_1
+>Feature gi|68655134|emb|AJ781189.1|
+<1	>2236	gene
+			gene	PB1
+<1	>2236	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	68655134_1
+>Feature gi|68655138|emb|AJ781190.1|
+<1	>2235	gene
+			gene	PB1
+<1	>2235	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	68655138_1
+>Feature gi|68655147|emb|AJ781192.1|
+10	>2319	gene
+			gene	PB2
+10	>2319	CDS
+			product	polymerase PB2
+			protein_id	68655147_1
+>Feature gi|68655173|emb|AJ781199.1|
+1	>2292	gene
+			gene	PB2
+1	>2292	CDS
+			product	polymerase PB2
+			protein_id	68655173_1
+>Feature gi|68655202|emb|AJ781205.1|
+10	>2306	gene
+			gene	PB2
+10	>2306	CDS
+			product	polymerase PB2
+			protein_id	68655202_1
+>Feature gi|68655217|emb|AJ781208.1|
+1	>2297	gene
+			gene	PB2
+1	>2297	CDS
+			product	polymerase PB2
+			protein_id	68655217_1
+>Feature gi|68655221|emb|AJ781209.1|
+7	>2304	gene
+			gene	PB2
+7	>2304	CDS
+			product	polymerase PB2
+			protein_id	68655221_1
+>Feature gi|68655228|emb|AJ781211.1|
+7	>2293	gene
+			gene	PB2
+7	>2293	CDS
+			product	polymerase PB2
+			protein_id	68655228_1
+>Feature gi|68672561|emb|AJ781273.1|
+<1	813	gene
+			gene	NS1
+<1	813	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672561_2
+<1	>975	gene
+			gene	NEP
+			gene_syn	NS2
+<656	>975	CDS
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672561_1
+>Feature gi|68672567|emb|AJ781274.1|
+<1	813	gene
+			gene	NS1
+<1	813	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672567_2
+<1	>970	gene
+			gene	NEP
+			gene_syn	NS2
+<656	>970	CDS
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672567_1
+>Feature gi|68672614|emb|AJ781281.1|
+<1	819	gene
+			gene	NS1
+<1	819	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672614_2
+<1	>986	gene
+			gene	NEP
+			gene_syn	NS2
+<1	6	CDS
+662	>986
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672614_1
+>Feature gi|68672627|emb|AJ781283.1|
+<1	819	gene
+			gene	NS1
+<1	819	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672627_2
+<1	>984	gene
+			gene	NEP
+			gene_syn	NS2
+<1	6	CDS
+662	>984
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672627_1
+>Feature gi|68672651|emb|AJ781287.1|
+<1	819	gene
+			gene	NS1
+<1	819	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672651_2
+<1	>992	gene
+			gene	NEP
+			gene_syn	NS2
+<1	3	CDS
+662	>992
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672651_1
+>Feature gi|68672669|emb|AJ781290.1|
+<1	813	gene
+			gene	NS1
+<1	813	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672669_2
+<1	>975	gene
+			gene	NEP
+			gene_syn	NS2
+<656	>975	CDS
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672669_1
+>Feature gi|68672685|emb|AJ781292.1|
+<1	831	gene
+			gene	NS1
+<1	831	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	68672685_2
+<1	>990	gene
+			gene	NEP
+			gene_syn	NS2
+<1	18	CDS
+674	>990
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	68672685_1
+>Feature gi|66710531|emb|AJ783375.1|
+<1	732	gene
+			gene	M1
+<1	732	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710531_1
+732	1061	gene
+			gene	BM2
+732	1061	CDS
+			product	BM2 protein
+			protein_id	66710531_2
+>Feature gi|66710543|emb|AJ783380.1|
+<1	660	gene
+			gene	M1
+<1	660	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710543_1
+660	989	gene
+			gene	BM2
+660	989	CDS
+			product	BM2 protein
+			protein_id	66710543_2
+>Feature gi|66710549|emb|AJ783382.1|
+<1	729	gene
+			gene	M1
+<1	729	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710549_1
+729	1058	gene
+			gene	BM2
+729	1058	CDS
+			product	BM2 protein
+			protein_id	66710549_2
+>Feature gi|66710555|emb|AJ783384.1|
+<1	708	gene
+			gene	M1
+<1	708	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710555_1
+708	1037	gene
+			gene	BM2
+708	1037	CDS
+			product	BM2 protein
+			protein_id	66710555_2
+>Feature gi|66710558|emb|AJ783385.1|
+<1	717	gene
+			gene	M1
+<1	717	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710558_1
+717	1046	gene
+			gene	BM2
+717	1046	CDS
+			product	BM2 protein
+			protein_id	66710558_2
+>Feature gi|66710573|emb|AJ783390.1|
+<1	699	gene
+			gene	M1
+<1	699	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710573_1
+699	1028	gene
+			gene	BM2
+699	1028	CDS
+			product	BM2 protein
+			protein_id	66710573_2
+>Feature gi|66710585|emb|AJ783394.1|
+<1	735	gene
+			gene	M1
+<1	735	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	66710585_1
+735	1064	gene
+			gene	BM2
+735	1064	CDS
+			product	BM2 protein
+			protein_id	66710585_2
+>Feature gi|68672759|emb|AJ784050.1|
+<1	>1033	gene
+			gene	HA
+<1	>1033	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	68672759_1
+>Feature gi|68672864|emb|AJ784069.1|
+<1	1665	gene
+			gene	NP
+<1	1665	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	68672864_1
+>Feature gi|68672896|emb|AJ784074.1|
+<1	>1671	gene
+			gene	NP
+<1	>1671	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	68672896_1
+>Feature gi|68672904|emb|AJ784076.1|
+<1	>1659	gene
+			gene	NP
+<1	>1659	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	68672904_1
+>Feature gi|68672921|emb|AJ784078.1|
+<1	>1662	gene
+			gene	NP
+<1	>1662	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	68672921_1
+>Feature gi|68672931|emb|AJ784080.1|
+<1	>1665	gene
+			gene	NP
+<1	>1665	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	68672931_1
+>Feature gi|68672936|emb|AJ784081.1|
+<1	1653	gene
+			gene	NP
+<1	1653	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	68672936_1
+>Feature gi|68672958|emb|AJ784088.1|
+10	312	gene
+			gene	NB
+10	312	CDS
+			product	NB protein
+			protein_id	68672958_1
+17	1417	gene
+			gene	NA
+17	1417	CDS
+			product	neuraminidase
+			protein_id	68672958_2
+>Feature gi|68672983|emb|AJ784091.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	68672983_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	68672983_2
+>Feature gi|68673004|emb|AJ784094.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	68673004_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	68673004_2
+>Feature gi|68673014|emb|AJ784096.1|
+43	345	gene
+			gene	NB
+43	345	CDS
+			product	NB protein
+			protein_id	68673014_1
+50	1450	gene
+			gene	NA
+50	1450	CDS
+			product	neuraminidase
+			protein_id	68673014_2
+>Feature gi|68673020|emb|AJ784097.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	68673020_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	68673020_2
+>Feature gi|68673026|emb|AJ784098.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	68673026_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	68673026_2
+>Feature gi|53748232|emb|AJ842056.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748232_1
+>Feature gi|53748242|emb|AJ842061.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748242_1
+>Feature gi|53748252|emb|AJ842066.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748252_1
+>Feature gi|53748254|emb|AJ842067.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748254_1
+>Feature gi|53748256|emb|AJ842068.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748256_1
+>Feature gi|53748260|emb|AJ842070.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748260_1
+>Feature gi|53748276|emb|AJ842078.1|
+<1	>1000	gene
+			gene	HA
+<1	>1000	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748276_1
+>Feature gi|53748280|emb|AJ842080.1|
+<1	>997	gene
+			gene	HA
+<1	>997	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748280_1
+>Feature gi|53748282|emb|AJ842081.1|
+<1	>997	gene
+			gene	HA
+<1	>997	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748282_1
+>Feature gi|53748284|emb|AJ842082.1|
+<1	>997	gene
+			gene	HA
+<1	>997	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748284_1
+>Feature gi|53748286|emb|AJ842083.1|
+<1	>997	gene
+			gene	HA
+<1	>997	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748286_1
+>Feature gi|53748290|emb|AJ842085.1|
+<1	>997	gene
+			gene	HA
+<1	>997	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748290_1
+>Feature gi|53748298|emb|AJ842089.1|
+<1	>986	gene
+			gene	HA
+<1	>986	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748298_1
+>Feature gi|53748302|emb|AJ842091.1|
+<1	>895	gene
+			gene	HA
+<1	>895	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	53748302_1
+>Feature gi|53748308|emb|AJ842094.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748308_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748308_2
+>Feature gi|53748312|emb|AJ842096.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748312_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748312_2
+>Feature gi|53748316|emb|AJ842098.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748316_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748316_2
+>Feature gi|53748322|emb|AJ842101.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748322_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748322_2
+>Feature gi|53748330|emb|AJ842105.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748330_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748330_2
+>Feature gi|53748334|emb|AJ842107.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748334_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748334_2
+>Feature gi|53748338|emb|AJ842109.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748338_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748338_2
+>Feature gi|53748342|emb|AJ842111.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748342_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748342_2
+>Feature gi|53748346|emb|AJ842113.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748346_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748346_2
+>Feature gi|53748350|emb|AJ842115.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748350_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748350_2
+>Feature gi|53748360|emb|AJ842120.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748360_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748360_2
+>Feature gi|53748362|emb|AJ842121.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748362_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748362_2
+>Feature gi|53748376|emb|AJ842128.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748376_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748376_2
+>Feature gi|53748382|emb|AJ842131.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	53748382_1
+1	>1398	gene
+			gene	NA
+1	>1398	CDS
+			product	neuraminidase
+			protein_id	53748382_2
+>Feature gi|115353992|emb|AM295322.1|
+<1	>377	gene
+			gene	HA
+<1	>377	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	115353992_1
+>Feature gi|115353994|emb|AM295323.1|
+<1	>377	gene
+			gene	HA
+<1	>377	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	115353994_1
+>Feature gi|115354000|emb|AM295326.1|
+<1	>377	gene
+			gene	HA
+<1	>377	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	115354000_1
+>Feature gi|115354006|emb|AM295329.1|
+<1	>374	gene
+			gene	HA
+<1	>374	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	115354006_1
+>Feature gi|115354008|emb|AM295330.1|
+<1	>365	gene
+			gene	NP
+<1	>365	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	115354008_1
+>Feature gi|115354010|emb|AM295331.1|
+<1	>365	gene
+			gene	NP
+<1	>365	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	115354010_1
+>Feature gi|115354022|emb|AM295337.1|
+<1	>341	gene
+			gene	NP
+<1	>341	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	115354022_1
+>Feature gi|534865|dbj|D14542.1|FLBNW
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	534865_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	534865_2
+>Feature gi|534867|dbj|D14855.1|FLBNMB
+1	303	gene
+			gene	NB
+1	303	CDS
+			product	NB protein
+			protein_id	534867_1
+8	1408	gene
+			gene	NA
+8	1408	CDS
+			product	neuraminidase
+			protein_id	534867_2
+>Feature gi|563762|dbj|D38645.1|FLBHA1C
+1	>1135	gene
+			gene	HA
+1	>1135	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	563762_1
+>Feature gi|563764|dbj|D38646.1|FLBHA1D
+1	>1135	gene
+			gene	HA
+1	>1135	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	563764_1
+>Feature gi|440583646|emb|HE803088.1|
+<1	>212	gene
+			gene	M1
+<1	>212	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	440583646_1
+>Feature gi|440583650|emb|HE803090.1|
+<1	>212	gene
+			gene	M1
+<1	>212	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	440583650_1
+>Feature gi|440583652|emb|HE803091.1|
+<1	>212	gene
+			gene	M1
+<1	>212	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	440583652_1
+>Feature gi|440583658|emb|HE803094.1|
+<1	>212	gene
+			gene	M1
+<1	>212	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	440583658_1
+>Feature gi|767169039|dbj|LC032899.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	767169039_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	767169039_2
+>Feature gi|767169102|dbj|LC032926.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169102_1
+>Feature gi|767169110|dbj|LC032930.1|
+1	1683	gene
+			gene	NP
+1	1683	CDS
+			product	nucleoprotein
+			protein_id	767169110_1
+>Feature gi|767169131|dbj|LC032939.1|
+48	350	gene
+			gene	NB
+48	350	CDS
+			product	NB protein
+			protein_id	767169131_1
+55	1455	gene
+			gene	NA
+55	1455	CDS
+			product	neuraminidase
+			protein_id	767169131_2
+>Feature gi|767169134|dbj|LC032940.1|
+20	766	gene
+			gene	M1
+20	766	CDS
+			product	matrix protein 1
+			protein_id	767169134_1
+766	1095	gene
+			gene	BM2
+766	1095	CDS
+			product	BM2 protein
+			protein_id	767169134_2
+>Feature gi|767169137|dbj|LC032941.1|
+44	1067	gene
+			gene	NEP
+			gene_syn	NS2
+44	889	gene
+			gene	NS1
+44	76	CDS
+732	1067
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169137_1
+44	889	CDS
+			product	nonstructural protein 1
+			protein_id	767169137_2
+>Feature gi|767169153|dbj|LC032948.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	767169153_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	767169153_2
+>Feature gi|767169156|dbj|LC032949.1|
+40	1063	gene
+			gene	NEP
+			gene_syn	NS2
+40	885	gene
+			gene	NS1
+40	72	CDS
+728	1063
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169156_1
+40	885	CDS
+			product	nonstructural protein 1
+			protein_id	767169156_2
+>Feature gi|767169159|dbj|LC032950.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169159_1
+>Feature gi|767169172|dbj|LC032956.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	767169172_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	767169172_2
+>Feature gi|767169194|dbj|LC032965.1|
+44	1067	gene
+			gene	NEP
+			gene_syn	NS2
+44	889	gene
+			gene	NS1
+44	76	CDS
+732	1067
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169194_1
+44	889	CDS
+			product	nonstructural protein 1
+			protein_id	767169194_2
+>Feature gi|767169297|dbj|LC033011.1|
+48	350	gene
+			gene	NB
+48	350	CDS
+			product	NB protein
+			protein_id	767169297_1
+55	1455	gene
+			gene	NA
+55	1455	CDS
+			product	neuraminidase
+			protein_id	767169297_2
+>Feature gi|767169308|dbj|LC033015.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767169308_1
+>Feature gi|767169310|dbj|LC033016.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	767169310_1
+>Feature gi|767169316|dbj|LC033019.1|
+48	350	gene
+			gene	NB
+48	350	CDS
+			product	NB protein
+			protein_id	767169316_1
+55	1455	gene
+			gene	NA
+55	1455	CDS
+			product	neuraminidase
+			protein_id	767169316_2
+>Feature gi|767169341|dbj|LC033029.1|
+41	1064	gene
+			gene	NEP
+			gene_syn	NS2
+41	886	gene
+			gene	NS1
+41	73	CDS
+729	1064
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169341_1
+41	886	CDS
+			product	nonstructural protein 1
+			protein_id	767169341_2
+>Feature gi|767169344|dbj|LC033030.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169344_1
+>Feature gi|767169352|dbj|LC033034.1|
+1	1683	gene
+			gene	NP
+1	1683	CDS
+			product	nucleoprotein
+			protein_id	767169352_1
+>Feature gi|767169354|dbj|LC033035.1|
+48	350	gene
+			gene	NB
+48	350	CDS
+			product	NB protein
+			protein_id	767169354_1
+55	1455	gene
+			gene	NA
+55	1455	CDS
+			product	neuraminidase
+			protein_id	767169354_2
+>Feature gi|767169417|dbj|LC033062.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169417_1
+>Feature gi|767169419|dbj|LC033063.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767169419_1
+>Feature gi|767169421|dbj|LC033064.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	767169421_1
+>Feature gi|767169423|dbj|LC033065.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	767169423_1
+>Feature gi|767169433|dbj|LC033069.1|
+44	1067	gene
+			gene	NEP
+			gene_syn	NS2
+44	889	gene
+			gene	NS1
+44	76	CDS
+732	1067
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169433_1
+44	889	CDS
+			product	nonstructural protein 1
+			protein_id	767169433_2
+>Feature gi|767169438|dbj|LC033071.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767169438_1
+>Feature gi|767169449|dbj|LC033076.1|
+23	769	gene
+			gene	M1
+23	769	CDS
+			product	matrix protein 1
+			protein_id	767169449_1
+769	1098	gene
+			gene	BM2
+769	1098	CDS
+			product	BM2 protein
+			protein_id	767169449_2
+>Feature gi|767169452|dbj|LC033077.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169452_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	767169452_2
+>Feature gi|767169623|dbj|LC033153.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	767169623_1
+>Feature gi|767169625|dbj|LC033154.1|
+1	1683	gene
+			gene	NP
+1	1683	CDS
+			product	nucleoprotein
+			protein_id	767169625_1
+>Feature gi|767169627|dbj|LC033155.1|
+36	338	gene
+			gene	NB
+36	338	CDS
+			product	NB protein
+			protein_id	767169627_1
+43	1443	gene
+			gene	NA
+43	1443	CDS
+			product	neuraminidase
+			protein_id	767169627_2
+>Feature gi|767169642|dbj|LC033161.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	767169642_1
+>Feature gi|767169657|dbj|LC033167.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767169657_1
+>Feature gi|767169668|dbj|LC033172.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	767169668_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	767169668_2
+>Feature gi|767169676|dbj|LC033175.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767169676_1
+>Feature gi|767169678|dbj|LC033176.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	767169678_1
+>Feature gi|767169693|dbj|LC033182.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169693_1
+>Feature gi|767169712|dbj|LC033190.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169712_1
+>Feature gi|767169754|dbj|LC033208.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	767169754_1
+>Feature gi|767169756|dbj|LC033209.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	767169756_1
+>Feature gi|767169769|dbj|LC033214.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767169769_1
+>Feature gi|767169779|dbj|LC033219.1|
+49	351	gene
+			gene	NB
+49	351	CDS
+			product	NB protein
+			protein_id	767169779_1
+56	1456	gene
+			gene	NA
+56	1456	CDS
+			product	neuraminidase
+			protein_id	767169779_2
+>Feature gi|767169785|dbj|LC033221.1|
+42	1065	gene
+			gene	NEP
+			gene_syn	NS2
+42	887	gene
+			gene	NS1
+42	74	CDS
+730	1065
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169785_1
+42	887	CDS
+			product	nonstructural protein 1
+			protein_id	767169785_2
+>Feature gi|767169790|dbj|LC033223.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767169790_1
+>Feature gi|767169796|dbj|LC033226.1|
+<1	1674	gene
+			gene	NP
+<1	1674	CDS
+			product	nucleoprotein
+			codon_start	1
+			protein_id	767169796_1
+>Feature gi|767169804|dbj|LC033229.1|
+43	1066	gene
+			gene	NEP
+			gene_syn	NS2
+43	888	gene
+			gene	NS1
+43	75	CDS
+731	1066
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169804_1
+43	888	CDS
+			product	nonstructural protein 1
+			protein_id	767169804_2
+>Feature gi|767170063|dbj|LC033344.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	767170063_1
+>Feature gi|767170067|dbj|LC033346.1|
+1	1683	gene
+			gene	NP
+1	1683	CDS
+			product	nucleoprotein
+			protein_id	767170067_1
+>Feature gi|767170078|dbj|LC033350.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767170078_1
+>Feature gi|767170084|dbj|LC033353.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	767170084_1
+>Feature gi|767170086|dbj|LC033354.1|
+1	1683	gene
+			gene	NP
+1	1683	CDS
+			product	nucleoprotein
+			protein_id	767170086_1
+>Feature gi|767170088|dbj|LC033355.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	767170088_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	767170088_2
+>Feature gi|767170091|dbj|LC033356.1|
+24	770	gene
+			gene	M1
+24	770	CDS
+			product	matrix protein 1
+			protein_id	767170091_1
+770	1099	gene
+			gene	BM2
+770	1099	CDS
+			product	BM2 protein
+			protein_id	767170091_2
+>Feature gi|767170094|dbj|LC033357.1|
+44	1070	gene
+			gene	NEP
+			gene_syn	NS2
+44	892	gene
+			gene	NS1
+44	79	CDS
+735	1070
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767170094_1
+44	892	CDS
+			product	nonstructural protein 1
+			protein_id	767170094_2
+>Feature gi|767170101|dbj|LC033360.1|
+1	2181	gene
+			gene	PA
+1	2181	CDS
+			product	polymerase PA
+			protein_id	767170101_1
+>Feature gi|767170116|dbj|LC033366.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767170116_1
+>Feature gi|767170126|dbj|LC033371.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	767170126_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	767170126_2
+>Feature gi|767170132|dbj|LC033373.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767170132_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	767170132_2
+>Feature gi|767170135|dbj|LC033374.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767170135_1
+>Feature gi|767170137|dbj|LC033375.1|
+1	2259	gene
+			gene	PB1
+1	2259	CDS
+			product	polymerase PB1
+			protein_id	767170137_1
+>Feature gi|767170145|dbj|LC033379.1|
+49	351	gene
+			gene	NB
+49	351	CDS
+			product	NB protein
+			protein_id	767170145_1
+56	1456	gene
+			gene	NA
+56	1456	CDS
+			product	neuraminidase
+			protein_id	767170145_2
+>Feature gi|767170148|dbj|LC033380.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	767170148_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	767170148_2
+>Feature gi|767170154|dbj|LC033382.1|
+1	2313	gene
+			gene	PB2
+1	2313	CDS
+			product	polymerase PB2
+			protein_id	767170154_1
+>Feature gi|767170167|dbj|LC033388.1|
+25	771	gene
+			gene	M1
+25	771	CDS
+			product	matrix protein 1
+			protein_id	767170167_1
+771	1100	gene
+			gene	BM2
+771	1100	CDS
+			product	BM2 protein
+			protein_id	767170167_2
+>Feature gi|767170179|dbj|LC033393.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	767170179_1
+>Feature gi|1123644615|dbj|LC107150.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644615_1
+>Feature gi|1123644627|dbj|LC107156.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644627_1
+>Feature gi|1123644631|dbj|LC107158.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644631_1
+>Feature gi|1123644633|dbj|LC107159.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644633_1
+>Feature gi|1123644637|dbj|LC107161.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644637_1
+>Feature gi|1123644639|dbj|LC107162.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644639_1
+>Feature gi|1123644643|dbj|LC107164.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644643_1
+>Feature gi|1123644647|dbj|LC107166.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644647_1
+>Feature gi|1123644649|dbj|LC107167.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644649_1
+>Feature gi|1123644653|dbj|LC107169.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644653_1
+>Feature gi|1123644665|dbj|LC107175.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644665_1
+>Feature gi|1123644669|dbj|LC107177.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644669_1
+>Feature gi|1123644691|dbj|LC107188.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644691_1
+>Feature gi|1123644693|dbj|LC107189.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644693_1
+>Feature gi|1123644703|dbj|LC107194.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644703_1
+>Feature gi|1123644705|dbj|LC107195.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644705_1
+>Feature gi|1123644711|dbj|LC107198.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644711_1
+>Feature gi|1123644715|dbj|LC107200.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644715_1
+>Feature gi|1123644719|dbj|LC107202.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644719_1
+>Feature gi|1123644723|dbj|LC107204.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644723_1
+>Feature gi|1123644737|dbj|LC107211.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644737_1
+>Feature gi|1123644757|dbj|LC107221.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644757_1
+>Feature gi|1123644765|dbj|LC107225.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644765_1
+>Feature gi|1123644775|dbj|LC107230.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644775_1
+>Feature gi|1123644781|dbj|LC107233.1|
+1	1755	gene
+			gene	HA
+1	1755	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644781_1
+>Feature gi|1123644787|dbj|LC107236.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644787_1
+>Feature gi|1123644795|dbj|LC107240.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644795_1
+>Feature gi|1123644801|dbj|LC107243.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644801_1
+>Feature gi|1123644805|dbj|LC107245.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644805_1
+>Feature gi|1123644815|dbj|LC107250.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644815_1
+>Feature gi|1123644817|dbj|LC107251.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644817_1
+>Feature gi|1123644825|dbj|LC107255.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644825_1
+>Feature gi|1123644831|dbj|LC107258.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644831_1
+>Feature gi|1123644845|dbj|LC107265.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644845_1
+>Feature gi|1123644849|dbj|LC107267.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644849_1
+>Feature gi|1123644851|dbj|LC107268.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644851_1
+>Feature gi|1123644855|dbj|LC107270.1|
+1	1758	gene
+			gene	HA
+1	1758	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1123644855_1
+>Feature gi|1431116548|dbj|LC409180.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	1431116548_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	1431116548_2
+>Feature gi|1431116564|dbj|LC409188.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	1431116564_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	1431116564_2
+>Feature gi|1431116574|dbj|LC409193.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	1431116574_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	1431116574_2
+>Feature gi|1431116580|dbj|LC409196.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	1431116580_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	1431116580_2
+>Feature gi|1431116586|dbj|LC409199.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116586_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116586_2
+>Feature gi|1431116588|dbj|LC409200.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116588_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116588_2
+>Feature gi|1431116600|dbj|LC409206.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116600_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116600_2
+>Feature gi|1431116612|dbj|LC409212.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116612_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116612_2
+>Feature gi|1431116630|dbj|LC409221.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116630_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116630_2
+>Feature gi|1431116634|dbj|LC409223.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116634_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116634_2
+>Feature gi|1431116636|dbj|LC409224.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116636_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116636_2
+>Feature gi|1431116638|dbj|LC409225.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116638_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116638_2
+>Feature gi|1431116660|dbj|LC409236.1|
+<1	299	gene
+			gene	NB
+<1	299	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116660_1
+1	1404	gene
+			gene	NA
+1	1404	CDS
+			product	neuraminidase
+			protein_id	1431116660_2
+>Feature gi|1431116662|dbj|LC409237.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116662_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116662_2
+>Feature gi|1431116664|dbj|LC409238.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116664_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116664_2
+>Feature gi|1431116666|dbj|LC409239.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116666_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116666_2
+>Feature gi|1431116680|dbj|LC409246.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116680_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116680_2
+>Feature gi|1431116682|dbj|LC409247.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116682_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116682_2
+>Feature gi|1431116696|dbj|LC409254.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116696_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116696_2
+>Feature gi|1431116700|dbj|LC409256.1|
+<1	296	gene
+			gene	NB
+<1	296	CDS
+			product	NB protein
+			codon_start	3
+			protein_id	1431116700_1
+1	1401	gene
+			gene	NA
+1	1401	CDS
+			product	neuraminidase
+			protein_id	1431116700_2
+>Feature gi|2018804257|dbj|LC620418.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804257_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804257_2
+>Feature gi|2018804266|dbj|LC620421.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804266_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804266_2
+>Feature gi|2018804269|dbj|LC620422.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804269_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804269_2
+>Feature gi|2018804293|dbj|LC620430.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804293_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804293_2
+>Feature gi|2018804302|dbj|LC620433.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804302_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804302_2
+>Feature gi|2018804540|dbj|LC620437.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804540_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804540_2
+>Feature gi|2018804543|dbj|LC620438.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804543_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804543_2
+>Feature gi|2018804573|dbj|LC620448.1|
+29	331	gene
+			gene	NB
+29	331	CDS
+			product	NB protein
+			protein_id	2018804573_1
+36	1436	gene
+			gene	NA
+36	1436	CDS
+			product	neuraminidase
+			protein_id	2018804573_2
+>Feature gi|2278963978|dbj|LC720257.1|
+61	1743	gene
+			gene	NP
+61	1743	CDS
+			product	nucleoprotein
+			protein_id	2278963978_1
+>Feature gi|2278963997|dbj|LC720265.1|
+61	1743	gene
+			gene	NP
+61	1743	CDS
+			product	nucleoprotein
+			protein_id	2278963997_1
+>Feature gi|2278964003|dbj|LC720268.1|
+24	2336	gene
+			gene	PB2
+24	2336	CDS
+			product	polymerase PB2
+			protein_id	2278964003_1
+>Feature gi|2278964005|dbj|LC720269.1|
+33	1787	gene
+			gene	HA
+33	1787	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2278964005_1
+>Feature gi|2278964018|dbj|LC720274.1|
+30	2210	gene
+			gene	PA
+30	2210	CDS
+			product	polymerase PA
+			protein_id	2278964018_1
+>Feature gi|2278964025|dbj|LC720277.1|
+34	1782	gene
+			gene	HA
+34	1782	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2278964025_1
+>Feature gi|60723|emb|X13551.1|
+<1	1738	gene
+			gene	HA
+<1	1738	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	60723_1
+>Feature gi|60733|emb|X13553.1|
+<1	1738	gene
+			gene	HA
+<1	1738	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	60733_1
+>Feature gi|60499|emb|X17222.1|
+<1	1739	gene
+			gene	HA
+<1	1739	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	60499_1
+>Feature gi|60743|emb|X53060.1|
+10	>1145	gene
+			gene	HA
+10	>1145	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	60743_1

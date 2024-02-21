@@ -1,0 +1,15 @@
+#       seq                                      ftr   ftr                      ftr  alert           alert                              seq  seq         mdl  mdl  alert 
+#idx    name                           model     type  name                     idx  code      fail  description                     coords  len      coords  len  detail
+#-----  -----------------------------  --------  ----  -----------------------  ---  --------  ----  --------------------------  ----------  ---  ----------  ---  ------
+# 
+11.1.1  gi|2619686165|emb|OY759012.1|  AY504614  gene  NEP                        1  ambgnt5f  no    AMBIGUITY_AT_FEATURE_START    28..28:+    1    44..44:+    1  first nucleotide of non-CDS feature is an ambiguous nucleotide [-]
+11.2.1  gi|2619686165|emb|OY759012.1|  AY504614  CDS   nuclear_export_protein     2  ambgnt5c  no    AMBIGUITY_AT_CDS_START        28..28:+    1    44..44:+    1  first nucleotide of CDS is an ambiguous nucleotide [-]
+11.3.1  gi|2619686165|emb|OY759012.1|  AY504614  gene  NS1                        3  ambgnt5f  no    AMBIGUITY_AT_FEATURE_START    28..28:+    1    44..44:+    1  first nucleotide of non-CDS feature is an ambiguous nucleotide [-]
+11.3.2  gi|2619686165|emb|OY759012.1|  AY504614  gene  NS1                        3  ambgnt3f  no    AMBIGUITY_AT_FEATURE_END    869..876:+    8  882..889:+    8  final nucleotide of non-CDS feature is an ambiguous nucleotide [-]
+11.4.1  gi|2619686165|emb|OY759012.1|  AY504614  CDS   nonstructural_protein_1    4  ambgnt5c  no    AMBIGUITY_AT_CDS_START        28..28:+    1    44..44:+    1  first nucleotide of CDS is an ambiguous nucleotide [-]
+11.4.2  gi|2619686165|emb|OY759012.1|  AY504614  CDS   nonstructural_protein_1    4  ambgnt3c  no    AMBIGUITY_AT_CDS_END        869..876:+    8  882..889:+    8  final nucleotide of CDS is an ambiguous nucleotide [-]
+# 
+14.1.1  gi|2619686168|emb|OY759015.1|  AF387493  -     -                          -  ambgntrp  no    N_RICH_REGION_NOT_REPLACED  540..590:+   51  554..610:+   57  N-rich region of unexpected length not replaced [seqlen:51,mdllen:57,lendiff:6,Nct:49/51,Nfract:0.961,nonNmatches:1/2;]
+# 
+15.1.1  gi|2619686169|emb|OY759016.1|  AY191501  gene  NB                         1  ambgnt3f  no    AMBIGUITY_AT_FEATURE_END    291..293:+    3  347..349:+    3  final nucleotide of non-CDS feature is an ambiguous nucleotide [-]
+15.2.1  gi|2619686169|emb|OY759016.1|  AY191501  CDS   NB_protein                 2  ambgnt3c  no    AMBIGUITY_AT_CDS_END        291..293:+    3  347..349:+    3  final nucleotide of CDS is an ambiguous nucleotide [-]

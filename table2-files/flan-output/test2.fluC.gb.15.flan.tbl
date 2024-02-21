@@ -1,0 +1,237 @@
+>Feature gi|2474338244|gb|OQ733368.1|
+<1	2253	gene		
+			gene	PB1
+<1	2253	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2253 nucleotides
+ INFO: Segment: 2 (PB1)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza C
+ WARNING: The coding region of PB1 has no start codon
+ WARNING: This sequence lacks 12 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2474338246|gb|OQ733369.1|
+21	761	gene		
+			gene	NS1
+21	761	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+21	882	gene		
+			gene	NEP
+			gene_syn	NS2
+21	207	CDS		
+521	882			
+			product	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 918 nucleotides
+ INFO: Segment: 7 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338249|gb|OQ733370.1|
+1	1968	gene		
+			gene	HE
+1	1968	CDS		
+			product	hemagglutinin-esterase
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HE
+    
+ INFO: Length: 1968 nucleotides
+ INFO: Segment: 4 (HE)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338251|gb|OQ733371.1|
+1	957	gene		
+			gene	M1
+1	728	CDS		
+957	957			
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+706	1125	gene		
+			gene	CM2
+706	1125	CDS		
+			product	CM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	CM2
+    
+ INFO: Length: 1125 nucleotides
+ INFO: Segment: 6 (unknown)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338254|gb|OQ733372.1|
+1	1698	gene		
+			gene	NP
+1	1698	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1769 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338256|gb|OQ733373.1|
+1	2325	gene		
+			gene	PB2
+1	2325	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2325 nucleotides
+ INFO: Segment: 1 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338258|gb|OQ733374.1|
+1	2130	gene		
+			gene	P3
+1	2130	CDS		
+			product	polymerase P3
+			protein_id	gnl|NCBI|p1
+			gene	P3
+    
+ INFO: Length: 2130 nucleotides
+ INFO: Segment: 3 (P3)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338260|gb|OQ733375.1|
+20	760	gene		
+			gene	NS1
+20	760	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+20	881	gene		
+			gene	NEP
+			gene_syn	NS2
+20	206	CDS		
+520	881			
+			product	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 892 nucleotides
+ INFO: Segment: 7 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 257
+===================================================================
+>Feature gi|2474338263|gb|OQ733376.1|
+1	957	gene		
+			gene	M1
+1	728	CDS		
+957	957			
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+706	1125	gene		
+			gene	CM2
+706	1125	CDS		
+			product	CM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	CM2
+    
+ INFO: Length: 1125 nucleotides
+ INFO: Segment: 6 (unknown)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338266|gb|OQ733377.1|
+1	2130	gene		
+			gene	P3
+1	2130	CDS		
+			product	polymerase P3
+			protein_id	gnl|NCBI|p1
+			gene	P3
+    
+ INFO: Length: 2130 nucleotides
+ INFO: Segment: 3 (P3)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338268|gb|OQ733378.1|
+1	2265	gene		
+			gene	PB1
+1	2265	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2265 nucleotides
+ INFO: Segment: 2 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338270|gb|OQ733379.1|
+1	2325	gene		
+			gene	PB2
+1	2325	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2325 nucleotides
+ INFO: Segment: 1 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338272|gb|OQ733380.1|
+20	760	gene		
+			gene	NS1
+20	760	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+20	881	gene		
+			gene	NEP
+			gene_syn	NS2
+20	206	CDS		
+520	881			
+			product	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 921 nucleotides
+ INFO: Segment: 7 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338275|gb|OQ733381.1|
+1	1698	gene		
+			gene	NP
+1	1698	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1768 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C
+===================================================================
+>Feature gi|2474338277|gb|OQ733382.1|
+1	1968	gene		
+			gene	HE
+1	1968	CDS		
+			product	hemagglutinin-esterase
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HE
+    
+ INFO: Length: 1968 nucleotides
+ INFO: Segment: 4 (HE)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza C

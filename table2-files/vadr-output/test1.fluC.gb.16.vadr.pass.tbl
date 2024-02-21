@@ -1,0 +1,144 @@
+>Feature gi|1229195671|gb|CY239434.1|
+<1	945	gene
+			gene	M1
+<1	716	CDS
+945	945
+			product	matrix protein 1
+			codon_start	1
+			protein_id	1229195671_1
+694	>952	gene
+			gene	CM2
+694	>952	CDS
+			product	CM2 protein
+			protein_id	1229195671_2
+>Feature gi|1229195737|gb|CY239461.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195737_1
+>Feature gi|1229195767|gb|CY239473.1|
+5	1972	gene
+			gene	HE
+5	1972	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195767_1
+>Feature gi|392843162|gb|JX133153.1|
+<1	898	gene
+			gene	M1
+<1	669	CDS
+898	898
+			product	matrix protein 1
+			codon_start	2
+			protein_id	392843162_1
+647	>963	gene
+			gene	CM2
+647	>963	CDS
+			product	CM2 protein
+			protein_id	392843162_2
+>Feature gi|392843165|gb|JX133154.1|
+<1	898	gene
+			gene	M1
+<1	669	CDS
+898	898
+			product	matrix protein 1
+			codon_start	2
+			protein_id	392843165_1
+647	>963	gene
+			gene	CM2
+647	>963	CDS
+			product	CM2 protein
+			protein_id	392843165_2
+>Feature gi|410444582|gb|JX963125.1|
+<1	>2209	gene
+			gene	PB1
+<1	>2209	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	410444582_1
+>Feature gi|939462719|gb|KT835362.1|
+<1	899	gene
+			gene	M1
+<1	670	CDS
+899	899
+			product	matrix protein 1
+			codon_start	3
+			protein_id	939462719_1
+648	>982	gene
+			gene	CM2
+648	>982	CDS
+			product	CM2 protein
+			protein_id	939462719_2
+>Feature gi|1516261929|gb|MK050100.1|
+1	1698	gene
+			gene	NP
+1	1698	CDS
+			product	nucleoprotein
+			protein_id	1516261929_1
+>Feature gi|2047528789|gb|MZ330894.1|
+1	2325	gene
+			gene	PB2
+1	2325	CDS
+			product	polymerase PB2
+			protein_id	2047528789_1
+>Feature gi|2047528828|gb|MZ330911.1|
+1	1698	gene
+			gene	NP
+1	1698	CDS
+			product	nucleoprotein
+			protein_id	2047528828_1
+>Feature gi|2047528953|gb|MZ330966.1|
+1	957	gene
+			gene	M1
+1	728	CDS
+957	957
+			product	matrix protein 1
+			protein_id	2047528953_1
+706	1125	gene
+			gene	CM2
+706	1125	CDS
+			product	CM2 protein
+			protein_id	2047528953_2
+>Feature gi|2047529036|gb|MZ331002.1|
+1	1698	gene
+			gene	NP
+1	1698	CDS
+			product	nucleoprotein
+			protein_id	2047529036_1
+>Feature gi|2047529054|gb|MZ331010.1|
+1	862	gene
+			gene	NEP
+			gene_syn	NS2
+1	741	gene
+			gene	NS1
+1	187	CDS
+501	862
+			product	nonstructural protein 2
+			protein_id	2047529054_1
+1	741	CDS
+			product	nonstructural protein 1
+			protein_id	2047529054_2
+>Feature gi|2099548083|gb|OK254894.1|
+1	2325	gene
+			gene	PB2
+1	2325	CDS
+			product	polymerase PB2
+			protein_id	2099548083_1
+>Feature gi|2413542389|gb|OQ030185.1|
+1	>1965	gene
+			gene	HE
+1	>1965	CDS
+			product	hemagglutinin-esterase
+			protein_id	2413542389_1
+>Feature gi|2413542407|gb|OQ030193.1|
+1	957	gene
+			gene	M1
+1	728	CDS
+957	957
+			product	matrix protein 1
+			protein_id	2413542407_1
+706	>1122	gene
+			gene	CM2
+706	>1122	CDS
+			product	CM2 protein
+			protein_id	2413542407_2

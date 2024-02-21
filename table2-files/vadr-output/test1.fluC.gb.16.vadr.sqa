@@ -1,0 +1,19 @@
+#seq  seq                            seq             best                  sub                             seq   
+#idx  name                           len  p/f   ant  model      grp        grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------------------------  ----  ----  ---  ---------  ---------  ---  ---  ---  ---  ---  -----  ------
+1     gi|1229195671|gb|CY239434.1|   952  PASS  yes  NC_006312  fluC-seg6  -      4    0    2    2      0  -     
+2     gi|1229195737|gb|CY239461.1|  2001  PASS  yes  NC_006310  fluC-seg4  -      2    0    0    0      0  -     
+3     gi|1229195767|gb|CY239473.1|  2036  PASS  yes  NC_006310  fluC-seg4  -      2    0    0    0      0  -     
+4     gi|392843162|gb|JX133153.1|    963  PASS  yes  NC_006312  fluC-seg6  -      4    0    2    2      0  -     
+5     gi|392843165|gb|JX133154.1|    963  PASS  yes  NC_006312  fluC-seg6  -      4    0    2    2      0  -     
+6     gi|410444582|gb|JX963125.1|   2209  PASS  yes  NC_006308  fluC-seg2  -      2    0    2    2      0  -     
+7     gi|939462719|gb|KT835362.1|    982  PASS  yes  NC_006312  fluC-seg6  -      4    0    2    2      0  -     
+8     gi|1516261929|gb|MK050100.1|  1747  PASS  yes  NC_006311  fluC-seg5  -      2    0    0    0      0  -     
+9     gi|2047528789|gb|MZ330894.1|  2325  PASS  yes  NC_006307  fluC-seg1  -      2    0    0    0      0  -     
+10    gi|2047528828|gb|MZ330911.1|  1698  PASS  yes  NC_006311  fluC-seg5  -      2    0    0    0      0  -     
+11    gi|2047528953|gb|MZ330966.1|  1125  PASS  yes  NC_006312  fluC-seg6  -      4    0    0    0      0  -     
+12    gi|2047529036|gb|MZ331002.1|  1698  PASS  yes  NC_006311  fluC-seg5  -      2    0    0    0      0  -     
+13    gi|2047529054|gb|MZ331010.1|   862  PASS  yes  NC_006306  fluC-seg7  -      4    0    0    0      0  -     
+14    gi|2099548083|gb|OK254894.1|  2325  PASS  yes  NC_006307  fluC-seg1  -      2    0    0    0      0  -     
+15    gi|2413542389|gb|OQ030185.1|  1965  PASS  yes  NC_006310  fluC-seg4  -      2    0    0    2      0  -     
+16    gi|2413542407|gb|OQ030193.1|  1122  PASS  yes  NC_006312  fluC-seg6  -      4    0    0    2      0  -     

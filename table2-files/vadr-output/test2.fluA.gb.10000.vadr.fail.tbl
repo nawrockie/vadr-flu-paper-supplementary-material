@@ -1,0 +1,233 @@
+>Feature gi|2482132627|gb|OQ780921.1|
+71	2221	gene
+			gene	PA
+71	830	gene
+			gene	PA-X
+71	2221	CDS
+			product	polymerase PA
+			protein_id	2482132627_1
+71	640	CDS
+642	830
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	2482132627_2
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 2,1, mdl order: 1,2]; seq-coords:54..2276:+,2..53:+; mdl-coords:8..2230:+,583..634:+; mdl:CY003645;
+ERROR: DUPLICATE_REGIONS: (*sequence*) similarity to a model region occurs more than once [583..634:+ (len 52>=20) hits 1 (1628.2 bits) and 2 (22.6 bits)]; seq-coords:54..2276:+,2..53:+; mdl-coords:8..2230:+,583..634:+; mdl:CY003645;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [47 extra nucleotides]; seq-coords:1..47:+; mdl-coords:0..0:+; mdl:CY003645;
+>Feature gi|2472504797|gb|OQ722117.1|
+1	2319	gene
+			gene	PB1
+1	2319	CDS
+			product	polymerase PB1
+			protein_id	2472504797_1
+95	367	gene
+			gene	PB1-F2
+95	367	CDS
+			product	PB1-F2 protein
+			protein_id	2472504797_2
+
+Additional note(s) to submitter:
+ERROR: INSERTION_OF_NT: (CDS:polymerase PB1) too large of an insertion in protein-based alignment [45>27]; seq-coords:2016..2060:+; mdl-coords:2040..2040:+; mdl:CY003646;
+>Feature gi|2545917770|gb|OR269884.1|
+92	2371	gene
+			gene	PB2
+92	2371	CDS
+			product	polymerase PB2
+			protein_id	2545917770_1
+
+Additional note(s) to submitter:
+ERROR: DISCONTINUOUS_SIMILARITY: (*sequence*) not all hits are in the same order in the sequence and the homology model [seq order: 2,1, mdl order: 1,2]; seq-coords:67..2404:+,3..55:+; mdl-coords:3..2340:+,367..419:+; mdl:CY002079;
+ERROR: DUPLICATE_REGIONS: (*sequence*) similarity to a model region occurs more than once [367..419:+ (len 53>=20) hits 1 (1765.8 bits) and 2 (16.2 bits)]; seq-coords:67..2404:+,3..55:+; mdl-coords:3..2340:+,367..419:+; mdl:CY002079;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [64 extra nucleotides]; seq-coords:1..64:+; mdl-coords:0..0:+; mdl:CY002079;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 11]; seq-coords:56..66:+; mdl-coords:0..2:+; mdl:CY002079;
+>Feature gi|2592608860|gb|OR674146.1|
+19	1000	gene
+			gene	M2
+19	777	gene
+			gene	M1
+19	44	CDS
+733	1000
+			product	matrix protein 2
+			protein_id	2592608860_1
+19	777	CDS
+			product	matrix protein 1
+			protein_id	2592608860_2
+
+Additional note(s) to submitter:
+ERROR: DUPLICATE_REGIONS: (*sequence*) similarity to a model region occurs more than once [739..1014:+ (len 276>=20) hits 1 (852.6 bits) and 2 (141.6 bits)]; seq-coords:2..1018:+,1030..1275:+; mdl-coords:10..1025:+,739..1014:+; mdl:CY002009;
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [256 extra nucleotides]; seq-coords:1021..1276:+; mdl-coords:1027..1027:+; mdl:CY002009;
+ERROR: LOW_SIMILARITY: (*sequence*) internal region without significant similarity [low similarity region of length 11]; seq-coords:1019..1029:+; mdl-coords:1026..1027:+; mdl:CY002009;
+>Feature gi|2495946710|gb|OQ861235.1|
+35	2314	gene
+			gene	PB2
+35	2314	CDS
+			product	polymerase PB2
+			protein_id	2495946710_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [8 extra nucleotides]; seq-coords:1..8:+; mdl-coords:0..0:+; mdl:CY002079;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 20]; seq-coords:1..20:+; mdl-coords:0..13:+; mdl:CY002079;
+>Feature gi|2482338733|gb|OQ781374.1|
+<1	>276	gene
+			gene	HA
+<1	>276	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	2482338733_1
+26	>276	mat_peptide
+			product	HA2
+			protein_id	2482338733_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [22>5]; seq-coords:1..22:+; mdl-coords:34..34:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+>Feature gi|2592619032|gb|OR675318.1|
+35	1732	gene
+			gene	HA
+35	1732	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2592619032_1
+35	82	sig_peptide
+			protein_id	2592619032_1
+83	1060	mat_peptide
+			product	HA1
+			protein_id	2592619032_1
+1061	1729	mat_peptide
+			product	HA2
+			protein_id	2592619032_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY006005;
+>Feature gi|2581376278|gb|OR592474.1|
+<1	612	mat_peptide
+			product	HA2
+			protein_id	2581376278_1
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	2581376278_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:1..6:+; mdl-coords:34..34:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+>Feature gi|2483808010|gb|OQ795827.1|
+1	2118	gene
+			gene	PA
+1	727	gene
+			gene	PA-X
+1	2118	CDS
+			product	polymerase PA
+			protein_id	2483808010_1
+1	537	misc_feature
+539	727
+			note	similar to PA-X protein
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_NT: (CDS:polymerase PA) too large of a deletion in protein-based alignment [33>27]; seq-coords:114..114:+; mdl-coords:139..171:+; mdl:CY003645;
+>Feature gi|2574840851|gb|OR528590.1|
+1	>1493	gene
+			gene	NP
+1	>1493	CDS
+			product	nucleocapsid protein
+			protein_id	2574840851_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleocapsid protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [8>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1486..1493:+; mdl-coords:1542..1542:+; mdl:CY006079;
+>Feature gi|2576024694|gb|OR539361.1|
+17	2290	gene
+			gene	PB1
+17	2290	CDS
+			product	polymerase PB1
+			protein_id	2576024694_1
+111	383	gene
+			gene	PB1-F2
+111	383	CDS
+			product	PB1-F2 protein
+			protein_id	2576024694_2
+
+Additional note(s) to submitter:
+ERROR: DUPLICATE_REGIONS: (*sequence*) similarity to a model region occurs more than once [120..391:+ (len 272>=20) hits 1 (1891.7 bits) and 2 (208.1 bits)]; seq-coords:6..2327:+,2328..2599:+; mdl-coords:14..2335:+,120..391:+; mdl:CY003646;
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [266 extra nucleotides]; seq-coords:2334..2599:+; mdl-coords:2341..2341:+; mdl:CY003646;
+>Feature gi|2564921055|gb|OR457767.1|
+1	>2274	gene
+			gene	PB1
+1	>2274	CDS
+			product	polymerase PB1
+			protein_id	2564921055_1
+95	367	gene
+			gene	PB1-F2
+95	367	CDS
+			product	PB1-F2 protein
+			protein_id	2564921055_2
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:2268,M:2293(1); frame:1(3)>; length:2268:(6)>; shifted_avgpp:0.854; exp_avgpp:0.975;]; seq-coords:2269..2274:+; mdl-coords:2293..2299:+; mdl:CY003646;
+>Feature gi|2463960812|gb|OQ683476.1|
+6	1415	gene
+			gene	NA
+6	1415	CDS
+			product	neuraminidase
+			protein_id	2463960812_1
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 21]; seq-coords:1422..1442:+; mdl-coords:1440..1459:+; mdl:CY002538;
+>Feature gi|2468229493|gb|OP873080.1|
+<1	>401	gene
+			gene	PB1
+<1	>401	CDS
+			product	polymerase PB1
+			codon_start	1
+			protein_id	2468229493_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB1) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:392(1),M:1639; frame:<1(2)>; length:<391:(10)>; shifted_avgpp:0.820; exp_avgpp:0.974;]; seq-coords:392..401:+; mdl-coords:1640..1648:+; mdl:CY003646;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:polymerase PB1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [11>5, no valid stop codon in nucleotide-based prediction]; seq-coords:391..401:+; mdl-coords:2298..2298:+; mdl:CY003646;
+>Feature gi|2502647810|gb|OQ964879.1|
+1	982	gene
+			gene	M2
+1	759	gene
+			gene	M1
+1	26	CDS
+715	982
+			product	matrix protein 2
+			protein_id	2502647810_1
+1	759	CDS
+			product	matrix protein 1
+			protein_id	2502647810_2
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_END: (CDS:matrix protein 2) expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon [-]; seq-coords:-; mdl-coords:-; mdl:CY002009;
+>Feature gi|2592619084|gb|OR675339.1|
+23	2302	gene
+			gene	PB2
+23	2302	CDS
+			product	polymerase PB2
+			protein_id	2592619084_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [11 extra nucleotides]; seq-coords:2338..2348:+; mdl-coords:2341..2341:+; mdl:CY002079;
+>Feature gi|2572233334|gb|OR504504.1|
+19	1701	gene
+			gene	HA
+19	1701	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2572233334_1
+19	72	sig_peptide
+			protein_id	2572233334_1
+73	1032	mat_peptide
+			product	HA1
+			protein_id	2572233334_1
+1033	1698	mat_peptide
+			product	HA2
+			protein_id	2572233334_1
+
+Additional note(s) to submitter:
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:2..23:+; mdl:CY004642;

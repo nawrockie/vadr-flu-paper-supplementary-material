@@ -1,0 +1,2989 @@
+>Feature gi|38524535|dbj|AB126622.1|
+1	51	sig_peptide
+			protein_id	38524535_1
+1	>1144	gene
+			gene	HA
+1	>1144	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	38524535_1
+52	1029	mat_peptide
+			product	HA1
+			protein_id	38524535_1
+1030	>1144	mat_peptide
+			product	HA2
+			protein_id	38524535_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [7>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1138..1144:+; mdl-coords:1733..1733:+; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+>Feature gi|38524550|dbj|AB126629.1|
+1	982	gene
+			gene	M2
+1	759	gene
+			gene	M1
+1	26	CDS
+715	982
+			product	matrix protein 2
+			protein_id	38524550_1
+1	759	CDS
+			product	matrix protein 1
+			protein_id	38524550_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1003..1003:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|38524568|dbj|AB126637.1|
+1	982	gene
+			gene	M2
+1	759	gene
+			gene	M1
+1	26	CDS
+715	982
+			product	matrix protein 2
+			protein_id	38524568_1
+1	759	CDS
+			product	matrix protein 1
+			protein_id	38524568_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1003..1003:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|2441053285|emb|OX422048.1|
+22	1002	gene
+			gene	M2
+22	780	gene
+			gene	M1
+22	47	CDS
+736	1002
+			product	matrix protein 2
+			protein_id	2441053285_1
+22	780	CDS
+			product	matrix protein 1
+			protein_id	2441053285_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:77,M:77]; seq-coords:923..925:+; mdl-coords:928..930:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:848,M:853(1); frame:1(3); length:139:(154); shifted_avgpp:0.969; exp_avgpp:0.967;]; seq-coords:849..1002:+; mdl-coords:853..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [137>5]; seq-coords:22..846:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [293]; seq-coords:22..47:+,736..1002:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|2441053274|emb|OX422037.1|
+22	1001	gene
+			gene	M2
+22	780	gene
+			gene	M1
+22	47	CDS
+736	1001
+			product	matrix protein 2
+			protein_id	2441053274_1
+22	780	CDS
+			product	matrix protein 1
+			protein_id	2441053274_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:115,M:115]; seq-coords:884..886:+; mdl-coords:890..892:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:847,M:852..853(2); frame:1(2); length:138:(154); shifted_avgpp:0.968; exp_avgpp:0.969;]; seq-coords:848..1001:+; mdl-coords:852..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [133>5]; seq-coords:22..842:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [292]; seq-coords:22..47:+,736..1001:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|126364378|dbj|AB271698.1|
+21	1430	gene
+			gene	NA
+21	1430	CDS
+			product	neuraminidase
+			protein_id	126364378_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364382|dbj|AB271700.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364382_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364384|dbj|AB271701.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364384_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364392|dbj|AB271705.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364392_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364398|dbj|AB271708.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364398_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364400|dbj|AB271709.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364400_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364408|dbj|AB271713.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364408_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364414|dbj|AB271716.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364414_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364416|dbj|AB271717.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364416_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364418|dbj|AB271718.1|
+24	1433	gene
+			gene	NA
+24	1433	CDS
+			product	neuraminidase
+			protein_id	126364418_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364422|dbj|AB271720.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364422_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364424|dbj|AB271721.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364424_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364426|dbj|AB271722.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364426_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364432|dbj|AB271725.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364432_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364438|dbj|AB271728.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364438_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364442|dbj|AB271730.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364442_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364450|dbj|AB271734.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364450_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364472|dbj|AB271786.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364472_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364476|dbj|AB271788.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364476_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364478|dbj|AB271789.1|
+24	1433	gene
+			gene	NA
+24	1433	CDS
+			product	neuraminidase
+			protein_id	126364478_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364484|dbj|AB271792.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364484_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364490|dbj|AB271795.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364490_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364494|dbj|AB271797.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364494_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364500|dbj|AB271800.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364500_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364504|dbj|AB271802.1|
+23	1432	gene
+			gene	NA
+23	1432	CDS
+			product	neuraminidase
+			protein_id	126364504_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364506|dbj|AB271803.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	126364506_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364516|dbj|AB271808.1|
+21	1430	gene
+			gene	NA
+21	1430	CDS
+			product	neuraminidase
+			protein_id	126364516_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|126364518|dbj|AB271809.1|
+<1	32	sig_peptide
+			protein_id	126364518_1
+<1	>1015	gene
+			gene	HA
+<1	>1015	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	126364518_1
+33	>1015	mat_peptide
+			product	HA1
+			protein_id	126364518_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:10,M:55(1); frame:<1(3)>; length:<10:(1005)>; shifted_avgpp:0.975; exp_avgpp:0.950;]; seq-coords:11..1015:+; mdl-coords:55..1060:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364520|dbj|AB271810.1|
+<1	34	sig_peptide
+			protein_id	126364520_1
+<1	>1017	gene
+			gene	HA
+<1	>1017	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	126364520_1
+35	>1017	mat_peptide
+			product	HA1
+			protein_id	126364520_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:12,M:55(1); frame:<3(2)>; length:<12:(1005)>; shifted_avgpp:0.975; exp_avgpp:0.954;]; seq-coords:13..1017:+; mdl-coords:55..1060:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364526|dbj|AB271813.1|
+<1	36	sig_peptide
+			protein_id	126364526_1
+<1	>1018	gene
+			gene	HA
+<1	>1018	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	126364526_1
+37	>1018	mat_peptide
+			product	HA1
+			protein_id	126364526_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:14,M:55(1); frame:<2(1)>; length:<14:(1004)>; shifted_avgpp:0.975; exp_avgpp:0.957;]; seq-coords:15..1018:+; mdl-coords:55..1059:+; mdl:CY002000;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [15>5]; seq-coords:1..15:+; mdl-coords:30..30:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364530|dbj|AB271815.1|
+<1	36	sig_peptide
+			protein_id	126364530_1
+<1	>1019	gene
+			gene	HA
+<1	>1019	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	126364530_1
+37	>1019	mat_peptide
+			product	HA1
+			protein_id	126364530_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:14,M:55(1); frame:<2(1)>; length:<14:(1005)>; shifted_avgpp:0.974; exp_avgpp:0.962;]; seq-coords:15..1019:+; mdl-coords:55..1060:+; mdl:CY002000;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [18>5]; seq-coords:1..18:+; mdl-coords:30..30:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364538|dbj|AB271819.1|
+<1	33	sig_peptide
+			protein_id	126364538_1
+<1	>1016	gene
+			gene	HA
+<1	>1016	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	126364538_1
+34	>1016	mat_peptide
+			product	HA1
+			protein_id	126364538_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:13,M:57(1); frame:<2(1)>; length:<13:(1003)>; shifted_avgpp:0.975; exp_avgpp:0.904;]; seq-coords:14..1016:+; mdl-coords:57..1060:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364554|dbj|AB271827.1|
+<1	32	sig_peptide
+			protein_id	126364554_1
+<1	>1017	gene
+			gene	HA
+<1	>1017	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	126364554_1
+33	>1017	mat_peptide
+			product	HA1
+			protein_id	126364554_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:10,M:55(1); frame:<1(32)>; length:<10:(989:18)>; shifted_avgpp:0.974; exp_avgpp:0.950; intermediate:delete,S:999,M:1045(1);]; seq-coords:11..1017:+; mdl-coords:55..1063:+; mdl:CY002000;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [19>5, no valid stop codon in nucleotide-based prediction]; seq-coords:999..1017:+; mdl-coords:1730..1730:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364560|dbj|AB271830.1|
+<1	39	sig_peptide
+			protein_id	126364560_1
+<1	>1028	gene
+			gene	HA
+<1	>1028	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	126364560_1
+40	1025	mat_peptide
+			product	HA1
+			protein_id	126364560_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1006,M:1045(1); frame:<1(3)>; length:<1006:(22)>; shifted_avgpp:0.964; exp_avgpp:0.975;]; seq-coords:1007..1028:+; mdl-coords:1045..1067:+; mdl:CY002000;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [23>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1006..1028:+; mdl-coords:1730..1730:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA1) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [986]; seq-coords:40..1025:+; mdl-coords:78..1064:+; mdl:CY002000;
+>Feature gi|126364562|dbj|AB271831.1|
+<1	32	sig_peptide
+			protein_id	126364562_1
+<1	>1011	gene
+			gene	HA
+<1	>1011	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	126364562_1
+33	>1011	mat_peptide
+			product	HA1
+			protein_id	126364562_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:10,M:55(1); frame:<1(3)>; length:<10:(1001)>; shifted_avgpp:0.975; exp_avgpp:0.950;]; seq-coords:11..1011:+; mdl-coords:55..1056:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364564|dbj|AB271832.1|
+<1	33	sig_peptide
+			protein_id	126364564_1
+<1	>1016	gene
+			gene	HA
+<1	>1016	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	126364564_1
+34	>1016	mat_peptide
+			product	HA1
+			protein_id	126364564_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:11,M:55(1); frame:<2(1)>; length:<11:(1005)>; shifted_avgpp:0.975; exp_avgpp:0.952;]; seq-coords:12..1016:+; mdl-coords:55..1060:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364570|dbj|AB271835.1|
+<1	32	sig_peptide
+			protein_id	126364570_1
+<1	>1013	gene
+			gene	HA
+<1	>1013	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	126364570_1
+33	>1013	mat_peptide
+			product	HA1
+			protein_id	126364570_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:10,M:55(1); frame:<1(3)>; length:<10:(1003)>; shifted_avgpp:0.975; exp_avgpp:0.950;]; seq-coords:11..1013:+; mdl-coords:55..1058:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364584|dbj|AB271842.1|
+<1	32	sig_peptide
+			protein_id	126364584_1
+<1	>1015	gene
+			gene	HA
+<1	>1015	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	126364584_1
+33	>1015	mat_peptide
+			product	HA1
+			protein_id	126364584_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:10,M:55(1); frame:<1(3)>; length:<10:(1005)>; shifted_avgpp:0.975; exp_avgpp:0.950;]; seq-coords:11..1015:+; mdl-coords:55..1060:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|126364598|dbj|AB271849.1|
+<1	34	sig_peptide
+			protein_id	126364598_1
+<1	>1013	gene
+			gene	HA
+<1	>1013	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	126364598_1
+35	>1013	mat_peptide
+			product	HA1
+			protein_id	126364598_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:12,M:55(1); frame:<3(2)>; length:<12:(1001)>; shifted_avgpp:0.975; exp_avgpp:0.954;]; seq-coords:13..1013:+; mdl-coords:55..1056:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|118123392|dbj|AB282878.1|
+<1	>476	gene
+			gene	PA
+<1	>476	CDS
+			product	polymerase PA
+			codon_start	2
+			protein_id	118123392_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PA) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:14,M:785(1); frame:<2(1)>; length:<14:(462)>; shifted_avgpp:0.974; exp_avgpp:0.943;]; seq-coords:15..476:+; mdl-coords:785..1247:+; mdl:CY003645;
+>Feature gi|118197099|dbj|AB284067.1|
+<1	634	gene
+			gene	NS1
+<1	634	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	118197099_2
+<1	>634	gene
+			gene	NEP
+			gene_syn	NS2
+<444	>634	CDS
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	118197099_1
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_SPLICE_SITE: (CDS:nuclear export protein) expected splice site at 3' end of intron (AG) could not be identified [AC, intron#1]; seq-coords:442..443:+; mdl-coords:527..528:+; mdl:CY002284;
+>Feature gi|133778384|dbj|AB297926.1|
+1	1311	gene
+			gene	NA
+1	1311	CDS
+			product	neuraminidase
+			protein_id	133778384_1
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_NT: (CDS:neuraminidase) too large of a deletion in protein-based alignment [102>27]; seq-coords:111..111:+; mdl-coords:134..235:+; mdl:CY004435;
+>Feature gi|213384919|dbj|AB441934.1|
+25	2304	gene
+			gene	PB2
+25	2304	CDS
+			product	polymerase PB2
+			protein_id	213384919_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2339..2339:+; mdl-coords:2341..2341:+; mdl:CY002079;
+>Feature gi|213384939|dbj|AB441943.1|
+25	2298	gene
+			gene	PB1
+25	2298	CDS
+			product	polymerase PB1
+			protein_id	213384939_1
+119	391	gene
+			gene	PB1-F2
+119	391	CDS
+			product	PB1-F2 protein
+			protein_id	213384939_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2342..2342:+; mdl-coords:2341..2341:+; mdl:CY003646;
+>Feature gi|213384960|dbj|AB441950.1|
+16	2289	gene
+			gene	PB1
+16	2289	CDS
+			product	polymerase PB1
+			protein_id	213384960_1
+110	382	gene
+			gene	PB1-F2
+110	382	CDS
+			product	PB1-F2 protein
+			protein_id	213384960_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2333..2333:+; mdl-coords:2341..2341:+; mdl:CY003646;
+>Feature gi|213384963|dbj|AB441951.1|
+25	2175	gene
+			gene	PA
+25	784	gene
+			gene	PA-X
+25	2175	CDS
+			product	polymerase PA
+			protein_id	213384963_1
+25	594	CDS
+596	784
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	213384963_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2232..2232:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|213384965|dbj|AB441952.1|
+25	2175	gene
+			gene	PA
+25	784	gene
+			gene	PA-X
+25	2175	CDS
+			product	polymerase PA
+			protein_id	213384965_1
+25	594	CDS
+596	784
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	213384965_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2232..2232:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|213384969|dbj|AB441954.1|
+25	2175	gene
+			gene	PA
+25	784	gene
+			gene	PA-X
+25	2175	CDS
+			product	polymerase PA
+			protein_id	213384969_1
+25	594	CDS
+596	784
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	213384969_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2232..2232:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|213384971|dbj|AB441955.1|
+16	2166	gene
+			gene	PA
+16	775	gene
+			gene	PA-X
+16	2166	CDS
+			product	polymerase PA
+			protein_id	213384971_1
+16	585	CDS
+587	775
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	213384971_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2223..2223:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|213384973|dbj|AB441956.1|
+25	2175	gene
+			gene	PA
+25	784	gene
+			gene	PA-X
+25	2175	CDS
+			product	polymerase PA
+			protein_id	213384973_1
+25	594	CDS
+596	784
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	213384973_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2232..2232:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|213384977|dbj|AB441958.1|
+19	2169	gene
+			gene	PA
+19	778	gene
+			gene	PA-X
+19	2169	CDS
+			product	polymerase PA
+			protein_id	213384977_1
+19	588	CDS
+590	778
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	213384977_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2226..2226:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|213385017|dbj|AB441978.1|
+46	1542	gene
+			gene	NP
+46	1542	CDS
+			product	nucleocapsid protein
+			protein_id	213385017_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1566..1566:+; mdl-coords:1565..1565:+; mdl:CY006079;
+>Feature gi|213385029|dbj|AB441984.1|
+21	1430	gene
+			gene	NA
+21	1430	CDS
+			product	neuraminidase
+			protein_id	213385029_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|213385037|dbj|AB441988.1|
+21	1430	gene
+			gene	NA
+21	1430	CDS
+			product	neuraminidase
+			protein_id	213385037_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|213385050|dbj|AB441993.1|
+27	785	gene
+			gene	M1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	213385050_2
+27	>979	gene
+			gene	M2
+27	52	CDS
+741	>979
+			product	matrix protein 2
+			protein_id	213385050_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|213385062|dbj|AB441997.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	213385062_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	213385062_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1029..1029:+; mdl-coords:1027..1027:+; mdl:CY002009;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|213385068|dbj|AB441999.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	213385068_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	213385068_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|213385098|dbj|AB442009.1|
+27	864	gene
+			gene	NEP
+			gene_syn	NS2
+27	719	gene
+			gene	NS1
+27	56	CDS
+529	864
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	213385098_1
+27	719	CDS
+			product	nonstructural protein 1
+			protein_id	213385098_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:891..891:+; mdl-coords:890..890:+; mdl:CY002284;
+>Feature gi|261399723|dbj|AB501561.1|
+1	759	gene
+			gene	M1
+1	759	CDS
+			product	matrix protein 1
+			protein_id	261399723_2
+1	>967	gene
+			gene	M2
+1	26	CDS
+715	>967
+			product	matrix protein 2
+			protein_id	261399723_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:958,M:984(1); frame:1(3)>; length:270:(9)>; shifted_avgpp:0.883; exp_avgpp:0.974;]; seq-coords:959..967:+; mdl-coords:984..993:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>5, no valid stop codon in nucleotide-based prediction]; seq-coords:959..967:+; mdl-coords:1007..1007:+; mdl:CY002009;
+>Feature gi|281370721|dbj|AB509032.1|
+<1	686	gene
+			gene	M2
+<1	463	gene
+			gene	M1
+<1	463	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	281370721_2
+<419	686	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281370721_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:707..707:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281370727|dbj|AB509034.1|
+<1	686	gene
+			gene	M2
+<1	463	gene
+			gene	M1
+<1	463	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	281370727_2
+<419	686	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281370727_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:707..707:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281370730|dbj|AB509035.1|
+<1	686	gene
+			gene	M2
+<1	463	gene
+			gene	M1
+<1	463	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	281370730_2
+<419	686	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281370730_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:707..707:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281370776|dbj|AB509055.1|
+<1	>435	gene
+			gene	PB2
+<1	>435	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	281370776_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB2) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:420(1),M:1865; frame:<1(2)>; length:<419:(16)>; shifted_avgpp:0.898; exp_avgpp:0.974;]; seq-coords:420..435:+; mdl-coords:1866..1880:+; mdl:CY002079;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:polymerase PB2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [15>5, no valid stop codon in nucleotide-based prediction]; seq-coords:421..435:+; mdl-coords:2307..2307:+; mdl:CY002079;
+>Feature gi|281370846|dbj|AB509090.1|
+<1	>484	gene
+			gene	PA
+<1	>484	CDS
+			product	polymerase PA
+			codon_start	2
+			protein_id	281370846_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PA) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:477(1),M:1420; frame:<2(3)>; length:<476:(8)>; shifted_avgpp:0.834; exp_avgpp:0.974;]; seq-coords:477..484:+; mdl-coords:1421..1427:+; mdl:CY003645;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:polymerase PA) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>5, no valid stop codon in nucleotide-based prediction]; seq-coords:476..484:+; mdl-coords:2175..2175:+; mdl:CY003645;
+>Feature gi|281370892|dbj|AB509113.1|
+<1	>860	gene
+			gene	HA
+<1	>860	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	281370892_1
+<1	>860	mat_peptide
+			product	HA1
+			protein_id	281370892_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame restored before end) [cause:insert,S:481(1),M:614; restore:delete,S:493,M:627(1); frame:<1(2)1>; length:<480:(13):367>; shifted_avgpp:0.833; exp_avgpp:0.973;]; seq-coords:481..493:+; mdl-coords:615..627:+; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+>Feature gi|281370978|dbj|AB509156.1|
+<1	>503	gene
+			gene	NA
+<1	>503	CDS
+			product	neuraminidase
+			codon_start	3
+			protein_id	281370978_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:495(1),M:1097; frame:<3(1)>; length:<494:(9)>; shifted_avgpp:0.864; exp_avgpp:0.974;]; seq-coords:495..503:+; mdl-coords:1098..1105:+; mdl:CY002538;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>5, no valid stop codon in nucleotide-based prediction]; seq-coords:495..503:+; mdl-coords:1433..1433:+; mdl:CY002538;
+>Feature gi|281371023|dbj|AB509174.1|
+<1	693	gene
+			gene	M2
+<1	470	gene
+			gene	M1
+<1	470	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	281371023_2
+<426	693	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281371023_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:714..714:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281371035|dbj|AB509178.1|
+<1	693	gene
+			gene	M2
+<1	470	gene
+			gene	M1
+<1	470	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	281371035_2
+<426	693	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281371035_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:714..714:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281371038|dbj|AB509179.1|
+<1	693	gene
+			gene	M2
+<1	470	gene
+			gene	M1
+<1	470	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	281371038_2
+<426	693	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281371038_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:714..714:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281371044|dbj|AB509181.1|
+<1	693	gene
+			gene	M2
+<1	470	gene
+			gene	M1
+<1	470	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	281371044_2
+<426	693	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281371044_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:714..714:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|281371050|dbj|AB509183.1|
+<1	693	gene
+			gene	M2
+<1	470	gene
+			gene	M1
+<1	470	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	281371050_2
+<426	693	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	281371050_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:714..714:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|240844505|dbj|AB509296.1|
+<1	665	gene
+			gene	NS1
+<1	665	CDS
+			product	nonstructural protein 1
+			codon_start	3
+			protein_id	240844505_2
+<1	>770	gene
+			gene	NEP
+			gene_syn	NS2
+<1	2	CDS
+475	>770
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	3
+			protein_id	240844505_1
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]; seq-coords:693..695:+; mdl-coords:747..749:+; mdl:CY002284;
+>Feature gi|254826672|dbj|AB513916.1|
+<1	>672	gene
+			gene	M2
+<1	>672	gene
+			gene	M1
+<1	>672	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	254826672_1
+
+Additional note(s) to submitter:
+ERROR: UNREPORTED_FEATURE_PROBLEM: (*sequence*) only fatal alerts are for feature(s) not output to feature table [see .ftr and .alt output files for details]; seq-coords:-; mdl-coords:-; mdl:CY002009;
+>Feature gi|290755589|dbj|AB520882.1|
+<1	457	gene
+			gene	M1
+<1	457	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	290755589_2
+<1	>651	gene
+			gene	M2
+<413	>651	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	290755589_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:93]; seq-coords:585..587:+; mdl-coords:912..914:+; mdl:CY002009;
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) stop codon in protein-based alignment [-]; seq-coords:585..587:+; mdl-coords:912..914:+; mdl:CY002009;
+>Feature gi|282153837|dbj|AB538968.1|
+<1	945	mat_peptide
+			product	HA1
+			protein_id	282153837_1
+<1	>1571	gene
+			gene	HA
+<1	>1571	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	282153837_1
+946	>1571	mat_peptide
+			product	HA2
+			protein_id	282153837_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:1520(1),M:1621; frame:<1(2)>; length:<1519:(52)>; shifted_avgpp:0.953; exp_avgpp:0.975;]; seq-coords:1520..1571:+; mdl-coords:1622..1672:+; mdl:CY004642;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [50>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1522..1571:+; mdl-coords:1716..1716:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+>Feature gi|313848875|dbj|AB569453.1|
+<1	1686	gene
+			gene	PB2
+<1	1686	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	313848875_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB2) high confidence possible frameshift in CDS (frame restored before end) [cause:delete,S:110,M:732(1); restore:insert,S:1681(1),M:2302; frame:<123231(3)1; length:<9:13:12:13:7:56:(1571):5; shifted_avgpp:0.974; exp_avgpp:0.948;]; seq-coords:111..1681:+; mdl-coords:732..2302:+; mdl:CY002079;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:polymerase PB2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [104>5]; seq-coords:1..104:+; mdl-coords:28..28:+; mdl:CY002079;
+>Feature gi|302357564|dbj|AB574414.1|
+<1	932	gene
+			gene	NA
+<1	932	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	302357564_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:924,M:1425(1); frame:<1(3); length:<924:(8); shifted_avgpp:0.953; exp_avgpp:0.972;]; seq-coords:925..932:+; mdl-coords:1425..1433:+; mdl:CY002538;
+ERROR: MUTATION_AT_END: (CDS:neuraminidase) expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon [-]; seq-coords:-; mdl-coords:-; mdl:CY002538;
+>Feature gi|302357569|dbj|AB574416.1|
+<1	639	gene
+			gene	NS1
+<1	639	CDS
+			product	nonstructural protein 1
+			codon_start	1
+			protein_id	302357569_2
+<1	>796	gene
+			gene	NEP
+			gene_syn	NS2
+<1	9	CDS
+482	>796
+			product	nuclear export protein
+			note	nonstructural protein 2
+			codon_start	1
+			protein_id	302357569_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nuclear export protein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:789,M:837(1); frame:<1(3)>; length:<317:(7)>; shifted_avgpp:0.925; exp_avgpp:0.973;]; seq-coords:790..796:+; mdl-coords:837..844:+; mdl:CY002284;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>5, no valid stop codon in nucleotide-based prediction]; seq-coords:788..796:+; mdl-coords:864..864:+; mdl:CY002284;
+>Feature gi|307077379|dbj|AB586759.1|
+1	837	gene
+			gene	NEP
+			gene_syn	NS2
+1	693	gene
+			gene	NS1
+1	30	CDS
+503	837
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	307077379_1
+1	693	CDS
+			product	nonstructural protein 1
+			protein_id	307077379_2
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nuclear export protein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:824,M:851(1); frame:1(3); length:352:(13); shifted_avgpp:0.948; exp_avgpp:0.972;]; seq-coords:825..837:+; mdl-coords:851..864:+; mdl:CY002284;
+ERROR: MUTATION_AT_END: (CDS:nuclear export protein) expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon [-]; seq-coords:-; mdl-coords:-; mdl:CY002284;
+ERROR: UNEXPECTED_LENGTH: (CDS:nuclear export protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [365]; seq-coords:1..30:+,503..837:+; mdl-coords:27..56:+,529..864:+; mdl:CY002284;
+>Feature gi|307077873|dbj|AB586835.1|
+1	1704	gene
+			gene	HA
+1	1704	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	307077873_1
+1	48	sig_peptide
+			protein_id	307077873_1
+49	1035	mat_peptide
+			product	HA1
+			protein_id	307077873_1
+1036	1701	mat_peptide
+			product	HA2
+			protein_id	307077873_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1731..1731:+; mdl-coords:1747..1747:+; mdl:DQ376635;
+>Feature gi|307077889|dbj|AB586843.1|
+1	1704	gene
+			gene	HA
+1	1704	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	307077889_1
+1	48	sig_peptide
+			protein_id	307077889_1
+49	1035	mat_peptide
+			product	HA1
+			protein_id	307077889_1
+1036	1701	mat_peptide
+			product	HA2
+			protein_id	307077889_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [5 extra nucleotides]; seq-coords:1731..1735:+; mdl-coords:1747..1747:+; mdl:DQ376635;
+>Feature gi|307077905|dbj|AB586851.1|
+1	1704	gene
+			gene	HA
+1	1704	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	307077905_1
+1	48	sig_peptide
+			protein_id	307077905_1
+49	1035	mat_peptide
+			product	HA1
+			protein_id	307077905_1
+1036	1701	mat_peptide
+			product	HA2
+			protein_id	307077905_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1731..1731:+; mdl-coords:1747..1747:+; mdl:DQ376635;
+>Feature gi|307077937|dbj|AB586867.1|
+1	1704	gene
+			gene	HA
+1	1704	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	307077937_1
+1	48	sig_peptide
+			protein_id	307077937_1
+49	1035	mat_peptide
+			product	HA1
+			protein_id	307077937_1
+1036	1701	mat_peptide
+			product	HA2
+			protein_id	307077937_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [5 extra nucleotides]; seq-coords:1731..1735:+; mdl-coords:1747..1747:+; mdl:DQ376635;
+>Feature gi|307077953|dbj|AB586875.1|
+2	1705	gene
+			gene	HA
+2	1705	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	307077953_1
+2	49	sig_peptide
+			protein_id	307077953_1
+50	1036	mat_peptide
+			product	HA1
+			protein_id	307077953_1
+1037	1702	mat_peptide
+			product	HA2
+			protein_id	307077953_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [4 extra nucleotides]; seq-coords:1732..1735:+; mdl-coords:1747..1747:+; mdl:DQ376635;
+>Feature gi|307077969|dbj|AB586883.1|
+1	1704	gene
+			gene	HA
+1	1704	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	307077969_1
+1	48	sig_peptide
+			protein_id	307077969_1
+49	1035	mat_peptide
+			product	HA1
+			protein_id	307077969_1
+1036	1701	mat_peptide
+			product	HA2
+			protein_id	307077969_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [5 extra nucleotides]; seq-coords:1731..1735:+; mdl-coords:1747..1747:+; mdl:DQ376635;
+>Feature gi|327442284|dbj|AB593479.1|
+6	1701	gene
+			gene	HA
+6	1701	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	327442284_1
+6	56	sig_peptide
+			protein_id	327442284_1
+57	1031	mat_peptide
+			product	HA1
+			protein_id	327442284_1
+1032	1698	mat_peptide
+			product	HA2
+			protein_id	327442284_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:163,M:163]; seq-coords:1536..1538:+; mdl-coords:1549..1551:+; mdl:CY006008;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:1514(1),M:1527; frame:1(2); length:1508:(188); shifted_avgpp:0.972; exp_avgpp:0.975;]; seq-coords:1514..1701:+; mdl-coords:1528..1714:+; mdl:CY006008;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [187>8]; seq-coords:1515..1701:+; mdl-coords:1714..1714:+; mdl:CY006008;
+ERROR: UNEXPECTED_LENGTH: (CDS:hemagglutinin) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1696]; seq-coords:6..1701:+; mdl-coords:20..1714:+; mdl:CY006008;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY006008;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY006008;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY006008;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [667]; seq-coords:1032..1698:+; mdl-coords:1046..1711:+; mdl:CY006008;
+>Feature gi|327442288|dbj|AB593481.1|
+36	1454	gene
+			gene	NA
+36	1454	CDS
+			product	neuraminidase
+			protein_id	327442288_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [15 extra nucleotides]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY004429;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 15]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY004429;
+>Feature gi|336391058|dbj|AB639352.1|
+<1	>485	gene
+			gene	PB1
+<1	>485	CDS
+			product	polymerase PB1
+			codon_start	3
+			protein_id	336391058_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB1) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:457(1),M:1606; frame:<3(1)>; length:<456:(29)>; shifted_avgpp:0.940; exp_avgpp:0.973;]; seq-coords:457..485:+; mdl-coords:1607..1634:+; mdl:CY003646;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:polymerase PB1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [27>5, no valid stop codon in nucleotide-based prediction]; seq-coords:459..485:+; mdl-coords:2298..2298:+; mdl:CY003646;
+>Feature gi|530399|emb|Z30277.1|
+<1	300	gene
+			gene	NA
+<1	300	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	530399_1
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_END: (CDS:neuraminidase) expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon [-]; seq-coords:-; mdl-coords:-; mdl:CY002538;
+>Feature gi|2452992958|emb|OX446852.1|
+1	981	gene
+			gene	M2
+1	758	gene
+			gene	M1
+1	26	CDS
+714	981
+			product	matrix protein 2
+			protein_id	2452992958_1
+1	758	CDS
+			product	matrix protein 1
+			protein_id	2452992958_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 1) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:344,M:344]; seq-coords:412..414:+; mdl-coords:438..440:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:407,M:433(1); frame:1(3); length:407:(351); shifted_avgpp:0.972; exp_avgpp:0.973;]; seq-coords:408..758:+; mdl-coords:433..784:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:matrix protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [350>8]; seq-coords:409..758:+; mdl-coords:784..784:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 1) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [758]; seq-coords:1..758:+; mdl-coords:26..784:+; mdl:CY002009;
+>Feature gi|2452969314|emb|OX439087.1|
+1	1410	gene
+			gene	NA
+1	1410	CDS
+			product	neuraminidase
+			protein_id	2452969314_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:neuraminidase) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:462,M:465]; seq-coords:946..948:+; mdl-coords:966..968:+; mdl:CY002538;
+ERROR: CDS_HAS_STOP_CODON: (CDS:neuraminidase) stop codon in protein-based alignment [mdl-coords_wrt:KT181405.1:1..1410:+]; seq-coords:946..948:+; mdl-coords:966..968:+; mdl:CY002538;
+>Feature gi|415666276|dbj|AB761203.1|
+31	2310	gene
+			gene	PB2
+31	2310	CDS
+			product	polymerase PB2
+			protein_id	415666276_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [2 extra nucleotides]; seq-coords:2346..2347:+; mdl-coords:2341..2341:+; mdl:CY002079;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002079;
+>Feature gi|415666285|dbj|AB761206.1|
+22	1722	gene
+			gene	HA
+22	1722	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	415666285_1
+22	69	sig_peptide
+			protein_id	415666285_1
+70	1056	mat_peptide
+			product	HA1
+			protein_id	415666285_1
+1057	1719	mat_peptide
+			product	HA2
+			protein_id	415666285_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1756..1756:+; mdl-coords:1762..1762:+; mdl:CY002000;
+>Feature gi|2452988924|emb|OX442491.1|
+19	996	gene
+			gene	M2
+19	777	gene
+			gene	M1
+19	44	CDS
+733	996
+			product	matrix protein 2
+			protein_id	2452988924_1
+19	777	CDS
+			product	matrix protein 1
+			protein_id	2452988924_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:77,M:77]; seq-coords:917..919:+; mdl-coords:928..930:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:843,M:851..854(4); frame:1(3); length:137:(153); shifted_avgpp:0.970; exp_avgpp:0.971;]; seq-coords:844..996:+; mdl-coords:851..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [137>5]; seq-coords:19..843:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [290]; seq-coords:19..44:+,733..996:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|432118441|dbj|AB769247.1|
+<1	740	gene
+			gene	M1
+<1	740	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	432118441_2
+<1	>937	gene
+			gene	M2
+<1	7	CDS
+696	>937
+			product	matrix protein 2
+			codon_start	3
+			protein_id	432118441_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:925,M:970(1); frame:<3(2)>; length:<237:(12)>; shifted_avgpp:0.946; exp_avgpp:0.975;]; seq-coords:926..937:+; mdl-coords:970..982:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [10>5, no valid stop codon in nucleotide-based prediction]; seq-coords:928..937:+; mdl-coords:1007..1007:+; mdl:CY002009;
+>Feature gi|442565173|dbj|AB775644.1|
+<1	>1006	gene
+			gene	PB1
+<1	>1006	CDS
+			product	polymerase PB1
+			codon_start	2
+			protein_id	442565173_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:6,M:1290(1); frame:<2(1)>; length:<6:(1000)>; shifted_avgpp:0.975; exp_avgpp:0.933;]; seq-coords:7..1006:+; mdl-coords:1290..2290:+; mdl:CY003646;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:polymerase PB1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:1..6:+; mdl-coords:25..25:+; mdl:CY003646;
+>Feature gi|443906635|dbj|AB778278.1|
+<1	1397	gene
+			gene	NA
+<1	1397	CDS
+			product	neuraminidase
+			codon_start	3
+			protein_id	443906635_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [5 extra nucleotides]; seq-coords:1430..1434:+; mdl-coords:1465..1465:+; mdl:CY005641;
+>Feature gi|525472162|dbj|AB836739.1|
+20	1705	gene
+			gene	HA
+20	1705	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	525472162_1
+20	76	sig_peptide
+			protein_id	525472162_1
+77	1036	mat_peptide
+			product	HA1
+			protein_id	525472162_1
+1037	1702	mat_peptide
+			product	HA2
+			protein_id	525472162_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [15>5]; seq-coords:20..34:+; mdl-coords:34..34:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+>Feature gi|528313528|dbj|AB841272.1|
+20	1705	gene
+			gene	HA
+20	1705	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	528313528_1
+20	76	sig_peptide
+			protein_id	528313528_1
+77	1036	mat_peptide
+			product	HA1
+			protein_id	528313528_1
+1037	1702	mat_peptide
+			product	HA2
+			protein_id	528313528_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [15>5]; seq-coords:20..34:+; mdl-coords:34..34:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+>Feature gi|559079370|dbj|AB874677.1|
+1	1410	gene
+			gene	NA
+1	1410	CDS
+			product	neuraminidase
+			protein_id	559079370_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [2 extra nucleotides]; seq-coords:1449..1450:+; mdl-coords:1467..1467:+; mdl:CY002010;
+>Feature gi|20068266|emb|AJ412712.1|
+<1	1659	gene
+			gene	HA
+<1	1659	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	20068266_1
+10	990	mat_peptide
+			product	HA1
+			protein_id	20068266_1
+991	1656	mat_peptide
+			product	HA2
+			protein_id	20068266_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [6>5]; seq-coords:1..6:+; mdl-coords:33..33:+; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+>Feature gi|27526274|emb|AJ430785.1|
+1	693	gene
+			gene	NS1
+1	693	CDS
+			product	nonstructural protein 1
+			protein_id	27526274_2
+1	>693	gene
+			gene	NEP
+			gene_syn	NS2
+1	30	CDS
+503	>693
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	27526274_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 1) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:423,M:423]; seq-coords:268..270:+; mdl-coords:294..296:+; mdl:CY002284;
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 1) stop codon in protein-based alignment [mdl-coords_wrt:Aseg8-prot1J.seg8prot1I]; seq-coords:268..270:+; mdl-coords:294..296:+; mdl:CY002284;
+>Feature gi|22859366|emb|AJ457943.1|
+22	1431	gene
+			gene	NA
+22	1431	CDS
+			product	neuraminidase
+			protein_id	22859366_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY002010;
+>Feature gi|22859449|emb|AJ458296.1|
+<1	636	gene
+			gene	M1
+<1	636	CDS
+			product	matrix protein 1
+			codon_start	1
+			protein_id	22859449_2
+<1	>749	gene
+			gene	M2
+<592	>749	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	22859449_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:742,M:891(1); frame:2(1)>; length:151:(7)>; shifted_avgpp:0.843; exp_avgpp:0.970;]; seq-coords:743..749:+; mdl-coords:891..898:+; mdl:CY002009;
+>Feature gi|22859479|emb|AJ458306.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	22859479_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	22859479_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|22859488|emb|AJ458339.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	22859488_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	22859488_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|31096396|emb|AJ518093.1|
+22	1434	gene
+			gene	NA
+22	1434	CDS
+			product	neuraminidase
+			protein_id	31096396_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002538;
+>Feature gi|40732893|emb|AJ620347.1|
+43	2322	gene
+			gene	PB2
+43	2322	CDS
+			product	polymerase PB2
+			protein_id	40732893_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [15 extra nucleotides]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY002079;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 15]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY002079;
+>Feature gi|40732902|emb|AJ620352.1|
+29	1525	gene
+			gene	NP
+29	1525	CDS
+			product	nucleocapsid protein
+			protein_id	40732902_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [5 extra nucleotides]; seq-coords:1549..1553:+; mdl-coords:1565..1565:+; mdl:CY006079;
+>Feature gi|55056921|emb|AJ704798.1|
+<1	423	mat_peptide
+			product	HA1
+			protein_id	55056921_1
+<1	>532	gene
+			gene	HA
+<1	>532	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	55056921_1
+424	>532	mat_peptide
+			product	HA2
+			protein_id	55056921_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [7>5, no valid stop codon in nucleotide-based prediction]; seq-coords:526..532:+; mdl-coords:1704..1704:+; mdl:CY006037;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY006037;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY006037;
+>Feature gi|134273360|emb|AM400972.1|
+<1	1689	gene
+			gene	HA
+<1	1689	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	134273360_1
+<1	31	sig_peptide
+			protein_id	134273360_1
+32	1021	mat_peptide
+			product	HA1
+			protein_id	134273360_1
+1022	1686	mat_peptide
+			product	HA2
+			protein_id	134273360_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1667,M:1713(1); frame:<2(1); length:<1667:(22); shifted_avgpp:0.972; exp_avgpp:0.975;]; seq-coords:1668..1689:+; mdl-coords:1713..1735:+; mdl:DQ864721;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [23>8, valid stop codon in nucleotide-based prediction]; seq-coords:1667..1689:+; mdl-coords:1735..1735:+; mdl:DQ864721;
+ERROR: MUTATION_AT_END: (CDS:hemagglutinin) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:1712..1714:+; mdl-coords:1758..1760:+; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [665]; seq-coords:1022..1686:+; mdl-coords:1067..1732:+; mdl:DQ864721;
+>Feature gi|134273362|emb|AM400973.1|
+<1	1690	gene
+			gene	HA
+<1	1690	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	134273362_1
+<1	32	sig_peptide
+			protein_id	134273362_1
+33	1022	mat_peptide
+			product	HA1
+			protein_id	134273362_1
+1023	1687	mat_peptide
+			product	HA2
+			protein_id	134273362_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1668,M:1713(1); frame:<3(2); length:<1668:(22); shifted_avgpp:0.972; exp_avgpp:0.975;]; seq-coords:1669..1690:+; mdl-coords:1713..1735:+; mdl:DQ864721;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [23>8, valid stop codon in nucleotide-based prediction]; seq-coords:1668..1690:+; mdl-coords:1735..1735:+; mdl:DQ864721;
+ERROR: MUTATION_AT_END: (CDS:hemagglutinin) expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [665]; seq-coords:1023..1687:+; mdl-coords:1067..1732:+; mdl:DQ864721;
+>Feature gi|134273364|emb|AM400974.1|
+<1	1697	gene
+			gene	HA
+<1	1697	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	134273364_1
+<1	39	sig_peptide
+			protein_id	134273364_1
+40	1029	mat_peptide
+			product	HA1
+			protein_id	134273364_1
+1030	1694	mat_peptide
+			product	HA2
+			protein_id	134273364_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1675,M:1713(1); frame:<1(3); length:<1675:(22); shifted_avgpp:0.972; exp_avgpp:0.975;]; seq-coords:1676..1697:+; mdl-coords:1713..1735:+; mdl:DQ864721;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [23>8, valid stop codon in nucleotide-based prediction]; seq-coords:1675..1697:+; mdl-coords:1735..1735:+; mdl:DQ864721;
+ERROR: MUTATION_AT_END: (CDS:hemagglutinin) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:1720..1722:+; mdl-coords:1758..1760:+; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:DQ864721;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [665]; seq-coords:1030..1694:+; mdl-coords:1067..1732:+; mdl:DQ864721;
+>Feature gi|222062896|emb|AM490218.1|
+33	83	sig_peptide
+			protein_id	222062896_1
+33	>1118	gene
+			gene	HA
+33	>1118	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	222062896_1
+84	1064	mat_peptide
+			product	HA1
+			protein_id	222062896_1
+1065	>1118	mat_peptide
+			product	HA2
+			protein_id	222062896_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY000449;
+>Feature gi|166997863|emb|AM498617.1|
+<1	>881	gene
+			gene	NA
+<1	>881	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	166997863_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:29,M:212..224(13); frame:<1(3)>; length:<29:(852)>; shifted_avgpp:0.973; exp_avgpp:0.964;]; seq-coords:30..881:+; mdl-coords:212..1076:+; mdl:CY002538;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [29>5]; seq-coords:1..29:+; mdl-coords:21..21:+; mdl:CY002538;
+>Feature gi|166997871|emb|AM498621.1|
+<1	>523	gene
+			gene	NA
+<1	>523	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	166997871_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:29,M:212..224(13); frame:<1(3)>; length:<29:(494)>; shifted_avgpp:0.972; exp_avgpp:0.964;]; seq-coords:30..523:+; mdl-coords:212..718:+; mdl:CY002538;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [29>5]; seq-coords:1..29:+; mdl-coords:21..21:+; mdl:CY002538;
+>Feature gi|166997877|emb|AM498624.1|
+<1	>881	gene
+			gene	NA
+<1	>881	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	166997877_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:29,M:212..224(13); frame:<1(3)>; length:<29:(852)>; shifted_avgpp:0.973; exp_avgpp:0.964;]; seq-coords:30..881:+; mdl-coords:212..1076:+; mdl:CY002538;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [29>5]; seq-coords:1..29:+; mdl-coords:21..21:+; mdl:CY002538;
+>Feature gi|166997883|emb|AM498627.1|
+<1	>523	gene
+			gene	NA
+<1	>523	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	166997883_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:29,M:212..224(13); frame:<1(3)>; length:<29:(494)>; shifted_avgpp:0.972; exp_avgpp:0.964;]; seq-coords:30..523:+; mdl-coords:212..718:+; mdl:CY002538;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [29>5]; seq-coords:1..29:+; mdl-coords:21..21:+; mdl:CY002538;
+>Feature gi|147846260|emb|AM503012.1|
+<1	939	gene
+			gene	M2
+<1	716	gene
+			gene	M1
+<1	716	CDS
+			product	matrix protein 1
+			codon_start	3
+			protein_id	147846260_2
+<672	939	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	147846260_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [6 extra nucleotides]; seq-coords:960..965:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|147846286|emb|AM503025.1|
+<1	1308	gene
+			gene	NA
+<1	1308	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	147846286_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [7 extra nucleotides]; seq-coords:1337..1343:+; mdl-coords:1463..1463:+; mdl:CY002538;
+>Feature gi|147846298|emb|AM503031.1|
+17	1513	gene
+			gene	NP
+17	1513	CDS
+			product	nucleocapsid protein
+			protein_id	147846298_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [7 extra nucleotides]; seq-coords:1537..1543:+; mdl-coords:1565..1565:+; mdl:CY006079;
+>Feature gi|219969147|emb|AM911096.1|
+21	1370	gene
+			gene	NA
+21	1370	CDS
+			product	neuraminidase
+			protein_id	219969147_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [15 extra nucleotides]; seq-coords:1399..1413:+; mdl-coords:1463..1463:+; mdl:CY002538;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 16]; seq-coords:1398..1413:+; mdl-coords:1463..1463:+; mdl:CY002538;
+>Feature gi|219969175|emb|AM913988.1|
+21	1370	gene
+			gene	NA
+21	1370	CDS
+			product	neuraminidase
+			protein_id	219969175_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [15 extra nucleotides]; seq-coords:1399..1413:+; mdl-coords:1463..1463:+; mdl:CY002538;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 16]; seq-coords:1398..1413:+; mdl-coords:1463..1463:+; mdl:CY002538;
+>Feature gi|270286568|emb|AM921777.1|
+34	84	sig_peptide
+			protein_id	270286568_1
+34	>1142	gene
+			gene	HA
+34	>1142	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	270286568_1
+85	1065	mat_peptide
+			product	HA1
+			protein_id	270286568_1
+1066	>1142	mat_peptide
+			product	HA2
+			protein_id	270286568_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:CY000449;
+>Feature gi|473532|dbj|D00838.1|FLA36HA
+1	51	sig_peptide
+			protein_id	473532_1
+1	>1260	gene
+			gene	HA
+1	>1260	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	473532_1
+52	1032	mat_peptide
+			product	HA1
+			protein_id	473532_1
+1033	>1260	mat_peptide
+			product	HA2
+			protein_id	473532_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:1249(1),M:1280; frame:1(2)>; length:1248:(12)>; shifted_avgpp:0.881; exp_avgpp:0.975;]; seq-coords:1249..1260:+; mdl-coords:1281..1291:+; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+>Feature gi|220983|dbj|D10573.1|FLADI2
+<1	374	gene
+			gene	PA
+<1	374	CDS
+			product	polymerase PA
+			codon_start	3
+			protein_id	220983_1
+25	183	CDS
+			product	PA-X protein
+			protein_id	220983_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:polymerase PA) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [152>5]; seq-coords:1..152:+; mdl-coords:25..25:+; mdl:CY003645;
+ERROR: INDEFINITE_ANNOTATION: (CDS:PA-X protein) protein-based search identifies CDS not identified in nucleotide-based search [raw_score:283]; seq-coords:25..183:+; mdl-coords:25..183:+; mdl:CY003645;
+>Feature gi|220985|dbj|D10574.1|FLADI3
+<1	342	gene
+			gene	PA
+<1	342	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	220985_1
+25	156	CDS
+			product	PA-X protein
+			protein_id	220985_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PA) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:324,M:348]; seq-coords:16..18:+; mdl-coords:1825..1827:+; mdl:CY003645;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:polymerase PA) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [126>5]; seq-coords:1..126:+; mdl-coords:25..25:+; mdl:CY003645;
+ERROR: INDEFINITE_ANNOTATION: (CDS:PA-X protein) protein-based search identifies CDS not identified in nucleotide-based search [raw_score:220]; seq-coords:25..156:+; mdl-coords:25..156:+; mdl:CY003645;
+>Feature gi|221350|dbj|D12779.1|FLAPA2
+<1	405	gene
+			gene	PA
+<1	405	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	221350_1
+25	219	CDS
+			product	PA-X protein
+			protein_id	221350_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PA) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:387,M:417]; seq-coords:16..18:+; mdl-coords:1756..1758:+; mdl:CY003645;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:polymerase PA) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [96>5]; seq-coords:1..96:+; mdl-coords:25..25:+; mdl:CY003645;
+ERROR: INDEFINITE_ANNOTATION: (CDS:PA-X protein) protein-based search identifies CDS not identified in nucleotide-based search [raw_score:312]; seq-coords:25..219:+; mdl-coords:25..219:+; mdl:CY003645;
+>Feature gi|194719783|emb|FM164848.1|
+12	2291	gene
+			gene	PB2
+12	2291	CDS
+			product	polymerase PB2
+			protein_id	194719783_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [7 extra nucleotides]; seq-coords:2326..2332:+; mdl-coords:2341..2341:+; mdl:CY002079;
+>Feature gi|194719793|emb|FM164853.1|
+<1	2259	gene
+			gene	PB2
+<1	2259	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	194719793_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [9 extra nucleotides]; seq-coords:2294..2302:+; mdl-coords:2341..2341:+; mdl:CY002079;
+>Feature gi|296051994|emb|FN398949.1|
+1	48	sig_peptide
+			protein_id	296051994_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	296051994_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	296051994_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1113]; seq-coords:583..585:+; mdl-coords:615..617:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:583..585:+; mdl-coords:612..614:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|296052017|emb|FN398961.1|
+1	48	sig_peptide
+			protein_id	296052017_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	296052017_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	296052017_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1467]; seq-coords:229..231:+; mdl-coords:261..263:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:229..231:+; mdl-coords:258..260:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|296052622|emb|FN399056.1|
+1	48	sig_peptide
+			protein_id	296052622_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	296052622_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	296052622_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted M:1338]; seq-coords:358..360:+; mdl-coords:390..392:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:358..360:+; mdl-coords:387..389:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|296057456|emb|FN400380.1|
+1	48	sig_peptide
+			protein_id	296057456_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	296057456_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	296057456_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1272]; seq-coords:424..426:+; mdl-coords:456..458:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:424..426:+; mdl-coords:453..455:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|2441053290|emb|OX422053.1|
+22	1002	gene
+			gene	M2
+22	780	gene
+			gene	M1
+22	47	CDS
+736	1002
+			product	matrix protein 2
+			protein_id	2441053290_1
+22	780	CDS
+			product	matrix protein 1
+			protein_id	2441053290_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:77,M:77]; seq-coords:923..925:+; mdl-coords:928..930:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:848,M:853(1); frame:1(3); length:139:(154); shifted_avgpp:0.969; exp_avgpp:0.967;]; seq-coords:849..1002:+; mdl-coords:853..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [137>5]; seq-coords:22..846:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [293]; seq-coords:22..47:+,736..1002:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|295808124|emb|FN423532.1|
+1	48	sig_peptide
+			protein_id	295808124_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	295808124_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	295808124_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1194]; seq-coords:502..504:+; mdl-coords:534..536:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:502..504:+; mdl-coords:531..533:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|295808699|emb|FN423606.1|
+1	48	sig_peptide
+			protein_id	295808699_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	295808699_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	295808699_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1224]; seq-coords:472..474:+; mdl-coords:504..506:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:472..474:+; mdl-coords:501..503:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|295022351|emb|FN773074.1|
+<1	>1382	gene
+			gene	NA
+<1	>1382	CDS
+			product	neuraminidase
+			codon_start	2
+			protein_id	295022351_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1375,M:1416(1); frame:<2(1)>; length:<1375:(7)>; shifted_avgpp:0.911; exp_avgpp:0.973;]; seq-coords:1376..1382:+; mdl-coords:1416..1423:+; mdl:CY002538;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [7>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1376..1382:+; mdl-coords:1433..1433:+; mdl:CY002538;
+>Feature gi|371785586|emb|FR687260.1|
+21	1370	gene
+			gene	NA
+21	1370	CDS
+			product	neuraminidase
+			protein_id	371785586_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [10 extra nucleotides]; seq-coords:1400..1409:+; mdl-coords:1463..1463:+; mdl:CY002538;
+>Feature gi|371805522|emb|FR687290.1|
+1	982	gene
+			gene	M2
+1	759	gene
+			gene	M1
+1	26	CDS
+715	982
+			product	matrix protein 2
+			protein_id	371805522_1
+1	759	CDS
+			product	matrix protein 1
+			protein_id	371805522_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [4 extra nucleotides]; seq-coords:1003..1006:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|371805543|emb|FR687297.1|
+6	683	gene
+			gene	NS1
+6	683	CDS
+			product	nonstructural protein 1
+			protein_id	371805543_2
+6	>822	gene
+			gene	NEP
+			gene_syn	NS2
+6	35	CDS
+493	>822
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	371805543_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nuclear export protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:132]; seq-coords:694..696:+; mdl-coords:730..732:+; mdl:CY002284;
+ERROR: CDS_HAS_STOP_CODON: (CDS:nuclear export protein) stop codon in protein-based alignment [-]; seq-coords:694..696:+; mdl-coords:730..732:+; mdl:CY002284;
+>Feature gi|343766045|emb|FR873756.1|
+<1	>604	gene
+			gene	HA
+<1	>604	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	343766045_1
+<1	>604	mat_peptide
+			product	HA2
+			protein_id	343766045_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:61(1),M:1179; frame:<3(1)>; length:<60:(544)>; shifted_avgpp:0.973; exp_avgpp:0.965;]; seq-coords:61..604:+; mdl-coords:1180..1722:+; mdl:CY002000;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [57>5]; seq-coords:1..57:+; mdl-coords:30..30:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|346453270|emb|HE578807.1|
+1	2151	gene
+			gene	PA
+1	700	gene
+			gene	PA-X
+1	2151	CDS
+			product	polymerase PA
+			protein_id	346453270_1
+1	570	CDS
+572	700
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	346453270_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [20 extra nucleotides]; seq-coords:2210..2229:+; mdl-coords:2233..2233:+; mdl:CY003645;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 21]; seq-coords:2209..2229:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|346453272|emb|HE578808.1|
+1	1701	gene
+			gene	HA
+1	1701	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	346453272_1
+1	51	sig_peptide
+			protein_id	346453272_1
+52	1032	mat_peptide
+			product	HA1
+			protein_id	346453272_1
+1033	1698	mat_peptide
+			product	HA2
+			protein_id	346453272_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [5 extra nucleotides]; seq-coords:1746..1750:+; mdl-coords:1778..1778:+; mdl:CY000449;
+>Feature gi|343773403|emb|HE582006.1|
+1	982	gene
+			gene	M2
+1	759	gene
+			gene	M1
+1	26	CDS
+715	982
+			product	matrix protein 2
+			protein_id	343773403_1
+1	759	CDS
+			product	matrix protein 1
+			protein_id	343773403_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [7 extra nucleotides]; seq-coords:1002..1008:+; mdl-coords:1027..1027:+; mdl:CY002009;
+>Feature gi|347298873|emb|HE584746.1|
+1	2274	gene
+			gene	PB1
+1	2274	CDS
+			product	polymerase PB1
+			protein_id	347298873_1
+95	367	gene
+			gene	PB1-F2
+95	367	misc_feature
+			note	similar to PB1-F2 protein
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [69 extra nucleotides]; seq-coords:2311..2379:+; mdl-coords:2341..2341:+; mdl:CY003646;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 85]; seq-coords:2295..2379:+; mdl-coords:2324..2341:+; mdl:CY003646;
+>Feature gi|347298875|emb|HE584747.1|
+1	2151	gene
+			gene	PA
+1	700	gene
+			gene	PA-X
+1	2151	CDS
+			product	polymerase PA
+			protein_id	347298875_1
+1	570	CDS
+572	700
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	347298875_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [20 extra nucleotides]; seq-coords:2210..2229:+; mdl-coords:2233..2233:+; mdl:CY003645;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 21]; seq-coords:2209..2229:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|347298886|emb|HE584752.1|
+1	838	gene
+			gene	NEP
+			gene_syn	NS2
+1	660	gene
+			gene	NS1
+1	30	CDS
+503	838
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	347298886_1
+1	660	CDS
+			product	nonstructural protein 1
+			protein_id	347298886_2
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_SPLICE_SITE: (CDS:nuclear export protein) expected splice site at 3' end of intron (AG) could not be identified [TG, intron#1]; seq-coords:501..502:+; mdl-coords:527..528:+; mdl:CY002284;
+>Feature gi|347298895|emb|HE584756.1|
+1	1701	gene
+			gene	HA
+1	1701	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	347298895_1
+1	51	sig_peptide
+			protein_id	347298895_1
+52	1032	mat_peptide
+			product	HA1
+			protein_id	347298895_1
+1033	1698	mat_peptide
+			product	HA2
+			protein_id	347298895_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [7 extra nucleotides]; seq-coords:1746..1752:+; mdl-coords:1778..1778:+; mdl:CY000449;
+>Feature gi|347360873|emb|HE589466.1|
+1	1701	gene
+			gene	HA
+1	1701	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	347360873_1
+1	51	sig_peptide
+			protein_id	347360873_1
+52	1032	mat_peptide
+			product	HA1
+			protein_id	347360873_1
+1033	1698	mat_peptide
+			product	HA2
+			protein_id	347360873_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [11 extra nucleotides]; seq-coords:1746..1756:+; mdl-coords:1778..1778:+; mdl:CY000449;
+>Feature gi|408905942|emb|HE802739.1|
+34	1731	gene
+			gene	HA
+34	1731	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	408905942_1
+34	90	sig_peptide
+			protein_id	408905942_1
+91	1059	mat_peptide
+			product	HA1
+			protein_id	408905942_1
+1060	1728	mat_peptide
+			product	HA2
+			protein_id	408905942_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [18 extra nucleotides]; seq-coords:1759..1776:+; mdl-coords:1760..1760:+; mdl:AY684891;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 19]; seq-coords:1758..1776:+; mdl-coords:1760..1760:+; mdl:AY684891;
+>Feature gi|2441053261|emb|OX422024.1|
+23	1003	gene
+			gene	M2
+23	781	gene
+			gene	M1
+23	48	CDS
+737	1003
+			product	matrix protein 2
+			protein_id	2441053261_1
+23	781	CDS
+			product	matrix protein 1
+			protein_id	2441053261_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:77,M:77]; seq-coords:924..926:+; mdl-coords:928..930:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:849,M:853(1); frame:1(3); length:139:(154); shifted_avgpp:0.969; exp_avgpp:0.967;]; seq-coords:850..1003:+; mdl-coords:853..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [137>5]; seq-coords:23..847:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [293]; seq-coords:23..48:+,737..1003:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|432172387|emb|HE968643.1|
+1	48	sig_peptide
+			protein_id	432172387_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	432172387_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	432172387_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:951]; seq-coords:745..747:+; mdl-coords:777..779:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:745..747:+; mdl-coords:774..776:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|432174651|emb|HE968958.1|
+1	48	sig_peptide
+			protein_id	432174651_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	432174651_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	432174651_1
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_START: (CDS:hemagglutinin) expected start codon could not be identified [ACG]; seq-coords:1..3:+; mdl-coords:30..32:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|432175125|emb|HE969320.1|
+1	48	sig_peptide
+			protein_id	432175125_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	432175125_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	432175125_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1113]; seq-coords:583..585:+; mdl-coords:615..617:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:583..585:+; mdl-coords:612..614:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|432175382|emb|HE969450.1|
+1	48	sig_peptide
+			protein_id	432175382_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	432175382_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	432175382_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted M:1068]; seq-coords:628..630:+; mdl-coords:660..662:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:628..630:+; mdl-coords:657..659:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|432175399|emb|HE969459.1|
+1	48	sig_peptide
+			protein_id	432175399_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	432175399_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	432175399_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:1113]; seq-coords:583..585:+; mdl-coords:615..617:+; mdl:CY002000;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) stop codon in protein-based alignment [mdl-coords_wrt:Aseg4-protC.seg4protC]; seq-coords:583..585:+; mdl-coords:612..614:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|2447602140|emb|OX436845.1|
+24	2301	gene
+			gene	PB2
+24	2301	CDS
+			product	polymerase PB2
+			protein_id	2447602140_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PB2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:1036,M:1036]; seq-coords:1263..1265:+; mdl-coords:1269..1271:+; mdl:CY002079;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1230,M:1235..1236(2); frame:1(2); length:1207:(1071); shifted_avgpp:0.974; exp_avgpp:0.975;]; seq-coords:1231..2301:+; mdl-coords:1235..2307:+; mdl:CY002079;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:polymerase PB2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [1066>8]; seq-coords:1236..2301:+; mdl-coords:2307..2307:+; mdl:CY002079;
+ERROR: UNEXPECTED_LENGTH: (CDS:polymerase PB2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [2278]; seq-coords:24..2301:+; mdl-coords:28..2307:+; mdl:CY002079;
+>Feature gi|432176131|emb|HE970015.1|
+1	48	sig_peptide
+			protein_id	432176131_1
+1	>903	gene
+			gene	HA
+1	>903	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	432176131_1
+49	>903	mat_peptide
+			product	HA1
+			protein_id	432176131_1
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_START: (CDS:hemagglutinin) expected start codon could not be identified [ACG]; seq-coords:1..3:+; mdl-coords:30..32:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|919309109|dbj|LC069896.1|
+<1	>441	gene
+			gene	PA
+<1	>441	CDS
+			product	polymerase PA
+			codon_start	1
+			protein_id	919309109_1
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:polymerase PA) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [18>5]; seq-coords:1..18:+; mdl-coords:25..25:+; mdl:CY003645;
+>Feature gi|919307199|dbj|LC070027.1|
+1	839	gene
+			gene	NEP
+			gene_syn	NS2
+1	693	gene
+			gene	NS1
+1	30	CDS
+503	839
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	919307199_1
+1	693	CDS
+			product	nonstructural protein 1
+			protein_id	919307199_2
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nuclear export protein) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:831(1),M:856; frame:1(2); length:358:(9); shifted_avgpp:0.872; exp_avgpp:0.974;]; seq-coords:831..839:+; mdl-coords:857..864:+; mdl:CY002284;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [10>8]; seq-coords:830..839:+; mdl-coords:864..864:+; mdl:CY002284;
+ERROR: MUTATION_AT_END: (CDS:nuclear export protein) expected stop codon could not be identified, no in-frame stop codon exists 3' of predicted start codon [-]; seq-coords:-; mdl-coords:-; mdl:CY002284;
+ERROR: UNEXPECTED_LENGTH: (CDS:nuclear export protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [367]; seq-coords:1..30:+,503..839:+; mdl-coords:27..56:+,529..864:+; mdl:CY002284;
+>Feature gi|919307223|dbj|LC070035.1|
+1	834	gene
+			gene	NEP
+			gene_syn	NS2
+1	693	gene
+			gene	NS1
+1	30	CDS
+503	834
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	919307223_1
+1	693	CDS
+			product	nonstructural protein 1
+			protein_id	919307223_2
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nuclear export protein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:820,M:847..850(4); frame:1(3); length:348:(14); shifted_avgpp:0.929; exp_avgpp:0.974;]; seq-coords:821..834:+; mdl-coords:847..864:+; mdl:CY002284;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [14>8]; seq-coords:821..834:+; mdl-coords:864..864:+; mdl:CY002284;
+ERROR: MUTATION_AT_END: (CDS:nuclear export protein) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:836..838:+; mdl-coords:866..868:+; mdl:CY002284;
+ERROR: UNEXPECTED_LENGTH: (CDS:nuclear export protein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [362]; seq-coords:1..30:+,503..834:+; mdl-coords:27..56:+,529..864:+; mdl:CY002284;
+>Feature gi|2438848351|emb|OX419448.1|
+<1	>2248	gene
+			gene	PB2
+<1	>2248	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	2438848351_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PB2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted M:1097]; seq-coords:1150..1152:+; mdl-coords:1208..1210:+; mdl:CY002079;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1143,M:1201(1); frame:<1(3)>; length:<1143:(1105)>; shifted_avgpp:0.975; exp_avgpp:0.975;]; seq-coords:1144..2248:+; mdl-coords:1201..2306:+; mdl:CY002079;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:polymerase PB2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [1105>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1144..2248:+; mdl-coords:2307..2307:+; mdl:CY002079;
+>Feature gi|1040718667|dbj|LC093082.1|
+1	1497	gene
+			gene	NP
+1	1497	CDS
+			product	nucleocapsid protein
+			protein_id	1040718667_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:1521..1521:+; mdl-coords:1565..1565:+; mdl:CY006079;
+>Feature gi|1040718674|dbj|LC093085.1|
+1	2274	gene
+			gene	PB1
+1	2274	CDS
+			product	polymerase PB1
+			protein_id	1040718674_1
+95	367	gene
+			gene	PB1-F2
+95	367	CDS
+			product	PB1-F2 protein
+			protein_id	1040718674_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [25 extra nucleotides]; seq-coords:2318..2342:+; mdl-coords:2341..2341:+; mdl:CY003646;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 28]; seq-coords:2315..2342:+; mdl-coords:2339..2341:+; mdl:CY003646;
+>Feature gi|1069560149|dbj|LC120390.1|
+25	2175	gene
+			gene	PA
+25	784	gene
+			gene	PA-X
+25	2175	CDS
+			product	polymerase PA
+			protein_id	1069560149_1
+25	594	CDS
+596	784
+			product	PA-X protein
+			exception	ribosomal slippage
+			protein_id	1069560149_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2234..2234:+; mdl-coords:2233..2233:+; mdl:CY003645;
+>Feature gi|1069560151|dbj|LC120391.1|
+33	1732	gene
+			gene	HA
+33	1732	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1069560151_1
+33	83	sig_peptide
+			protein_id	1069560151_1
+84	1064	mat_peptide
+			product	HA1
+			protein_id	1069560151_1
+1065	1730	mat_peptide
+			product	HA2
+			protein_id	1069560151_1
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_END: (CDS:hemagglutinin) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAG]; seq-coords:1731..1733:+; mdl-coords:1731..1734:+; mdl:CY000449;
+ERROR: UNEXPECTED_LENGTH: (CDS:hemagglutinin) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1700]; seq-coords:33..1732:+; mdl-coords:33..1733:+; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY000449;
+>Feature gi|985806564|dbj|LC121470.1|
+20	1432	gene
+			gene	NA
+20	1432	CDS
+			product	neuraminidase
+			protein_id	985806564_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame restored before end) [cause:delete,S:239,M:241(1); restore:insert,S:261(1),M:262; frame:1(3)1; length:220:(22):1171; shifted_avgpp:0.818; exp_avgpp:0.968;]; seq-coords:240..261:+; mdl-coords:241..262:+; mdl:CY004056;
+>Feature gi|1016473089|dbj|LC145035.1|
+30	1724	gene
+			gene	HA
+30	1724	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1016473089_1
+30	77	sig_peptide
+			protein_id	1016473089_1
+78	1055	mat_peptide
+			product	HA1
+			protein_id	1016473089_1
+1056	1721	mat_peptide
+			product	HA2
+			protein_id	1016473089_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:DQ864721;
+>Feature gi|2440392753|emb|OX421837.1|
+26	1006	gene
+			gene	M2
+26	784	gene
+			gene	M1
+26	51	CDS
+740	1006
+			product	matrix protein 2
+			protein_id	2440392753_1
+26	784	CDS
+			product	matrix protein 1
+			protein_id	2440392753_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:77,M:77]; seq-coords:927..929:+; mdl-coords:928..930:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:852,M:853(1); frame:1(3); length:139:(154); shifted_avgpp:0.969; exp_avgpp:0.967;]; seq-coords:853..1006:+; mdl-coords:853..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [137>5]; seq-coords:26..850:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [293]; seq-coords:26..51:+,740..1006:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|1046470078|dbj|LC168640.1|
+163	210	sig_peptide
+			protein_id	1046470078_1
+163	>942	gene
+			gene	HA
+163	>942	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	1046470078_1
+211	>942	mat_peptide
+			product	HA1
+			protein_id	1046470078_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [134 extra nucleotides]; seq-coords:1..134:+; mdl-coords:0..0:+; mdl:CY002000;
+ERROR: INDEFINITE_STRAND: (*sequence*) significant similarity detected on both strands [score:136.2>25.0]; seq-coords:162..2:-; mdl-coords:13..173:+; mdl:CY002000;
+ERROR: LOW_COVERAGE: (*sequence*) low sequence fraction with significant similarity to homology model [0.846<0.900]; seq-coords:1..145:+; mdl-coords:-; mdl:CY002000;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 145]; seq-coords:1..145:+; mdl-coords:0..12:+; mdl:CY002000;
+>Feature gi|1109658489|dbj|LC199872.1|
+12	834	gene
+			gene	NEP
+			gene_syn	NS2
+12	689	gene
+			gene	NS1
+12	41	CDS
+499	834
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1109658489_1
+12	689	CDS
+			product	nonstructural protein 1
+			protein_id	1109658489_2
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_SPLICE_SITE: (CDS:nuclear export protein) expected splice site at 3' end of intron (AG) could not be identified [AA, intron#1]; seq-coords:497..498:+; mdl-coords:527..528:+; mdl:CY002284;
+>Feature gi|1214568804|dbj|LC279776.1|
+11	2287	gene
+			gene	PB1
+11	2287	CDS
+			product	polymerase PB1
+			protein_id	1214568804_1
+105	377	gene
+			gene	PB1-F2
+105	377	misc_feature
+			note	similar to PB1-F2 protein
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:polymerase PB1) high confidence possible frameshift in CDS (frame restored before end) [cause:insert,S:1306(1),M:1319; restore:insert,S:1354(1),M:1365; frame:1(23)1; length:1295:(28:21):933; shifted_avgpp:0.867; exp_avgpp:0.975; intermediate:insert,S:1334(1),M:1346;]; seq-coords:1306..1354:+; mdl-coords:1320..1365:+; mdl:CY003646;
+>Feature gi|1377037390|dbj|LC379589.1|
+42	879	gene
+			gene	NEP
+			gene_syn	NS2
+42	695	gene
+			gene	NS1
+42	71	CDS
+544	879
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1377037390_1
+42	695	CDS
+			product	nonstructural protein 1
+			protein_id	1377037390_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [15 extra nucleotides]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY002284;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 15]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY002284;
+>Feature gi|1377037414|dbj|LC379599.1|
+10	2283	gene
+			gene	PB1
+10	2283	CDS
+			product	polymerase PB1
+			protein_id	1377037414_1
+218	376	gene
+			gene	PB1-F2
+218	376	CDS
+			product	PB1-F2 protein
+			protein_id	1377037414_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [1 extra nucleotide]; seq-coords:2327..2327:+; mdl-coords:2341..2341:+; mdl:CY003646;
+>Feature gi|1377037428|dbj|LC379605.1|
+33	870	gene
+			gene	NEP
+			gene_syn	NS2
+33	686	gene
+			gene	NS1
+33	62	CDS
+535	870
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1377037428_1
+33	686	CDS
+			product	nonstructural protein 1
+			protein_id	1377037428_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [6 extra nucleotides]; seq-coords:1..6:+; mdl-coords:0..0:+; mdl:CY002284;
+>Feature gi|1601531782|dbj|LC467225.1|
+62	1558	gene
+			gene	NP
+62	1558	CDS
+			product	nucleocapsid protein
+			protein_id	1601531782_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [16 extra nucleotides]; seq-coords:1..16:+; mdl-coords:0..0:+; mdl:CY006079;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:0..1:+; mdl:CY006079;
+>Feature gi|1601531791|dbj|LC467229.1|
+24	2303	gene
+			gene	PB2
+24	2303	CDS
+			product	polymerase PB2
+			protein_id	1601531791_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [20 extra nucleotides]; seq-coords:2338..2357:+; mdl-coords:2341..2341:+; mdl:CY002079;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 21]; seq-coords:2337..2357:+; mdl-coords:2341..2341:+; mdl:CY002079;
+>Feature gi|1601531850|dbj|LC467257.1|
+<1	700	gene
+			gene	M1
+<1	700	CDS
+			product	matrix protein 1
+			codon_start	2
+			protein_id	1601531850_2
+<1	>902	gene
+			gene	M2
+<656	>902	CDS
+			product	matrix protein 2
+			codon_start	2
+			protein_id	1601531850_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:21]; seq-coords:900..902:+; mdl-coords:984..986:+; mdl:CY002009;
+>Feature gi|2440392734|emb|OX421818.1|
+26	1725	gene
+			gene	HA
+26	1725	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2440392734_1
+26	73	sig_peptide
+			protein_id	2440392734_1
+74	1059	mat_peptide
+			product	HA1
+			protein_id	2440392734_1
+1060	1722	mat_peptide
+			product	HA2
+			protein_id	2440392734_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:1577,M:1577]; seq-coords:146..148:+; mdl-coords:151..153:+; mdl:CY002000;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:79,M:84(1); frame:1(3); length:54:(1646); shifted_avgpp:0.975; exp_avgpp:0.955;]; seq-coords:80..1725:+; mdl-coords:84..1730:+; mdl:CY002000;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [41>5]; seq-coords:26..66:+; mdl-coords:30..30:+; mdl:CY002000;
+ERROR: UNEXPECTED_LENGTH: (CDS:hemagglutinin) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1700]; seq-coords:26..1725:+; mdl-coords:30..1730:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA1) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [986]; seq-coords:74..1059:+; mdl-coords:78..1064:+; mdl:CY002000;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY002000;
+>Feature gi|2450901222|dbj|LC626152.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2450901222_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2450901222_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2209707604|dbj|LC699147.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2209707604_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2209707604_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2438848520|emb|OX419499.1|
+23	1003	gene
+			gene	M2
+23	781	gene
+			gene	M1
+23	48	CDS
+737	1003
+			product	matrix protein 2
+			protein_id	2438848520_1
+23	781	CDS
+			product	matrix protein 1
+			protein_id	2438848520_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:matrix protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:77,M:77]; seq-coords:924..926:+; mdl-coords:928..930:+; mdl:CY002009;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:matrix protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:849,M:853(1); frame:1(3); length:139:(154); shifted_avgpp:0.969; exp_avgpp:0.967;]; seq-coords:850..1003:+; mdl-coords:853..1007:+; mdl:CY002009;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:matrix protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [137>5]; seq-coords:23..847:+; mdl-coords:26..26:+; mdl:CY002009;
+ERROR: UNEXPECTED_LENGTH: (CDS:matrix protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [293]; seq-coords:23..48:+,737..1003:+; mdl-coords:26..51:+,740..1007:+; mdl:CY002009;
+>Feature gi|2296719034|dbj|LC699187.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2296719034_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2296719034_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2302539323|dbj|LC699651.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2302539323_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2302539323_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2302539360|dbj|LC699667.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2302539360_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2302539360_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2314964883|dbj|LC705185.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2314964883_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2314964883_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2421836066|dbj|LC718245.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2421836066_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2421836066_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|60768|emb|V01094.1|
+21	>341	gene
+			gene	NA
+21	>341	CDS
+			product	neuraminidase
+			protein_id	60768_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:321,M:337(1); frame:1(3)>; length:301:(20)>; shifted_avgpp:0.958; exp_avgpp:0.945;]; seq-coords:322..341:+; mdl-coords:337..357:+; mdl:CY004429;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>5, no valid stop codon in nucleotide-based prediction]; seq-coords:333..341:+; mdl-coords:1442..1442:+; mdl:CY004429;
+>Feature gi|2426915941|dbj|LC718325.1|
+27	1008	gene
+			gene	M2
+27	785	gene
+			gene	M1
+27	52	CDS
+741	1008
+			product	matrix protein 2
+			protein_id	2426915941_1
+27	785	CDS
+			product	matrix protein 1
+			protein_id	2426915941_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY002009;
+>Feature gi|2293434878|dbj|LC723842.1|
+18	1428	gene
+			gene	NA
+18	1428	CDS
+			product	neuraminidase
+			protein_id	2293434878_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:neuraminidase) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:1156,M:1157]; seq-coords:270..272:+; mdl-coords:272..274:+; mdl:CY005641;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:261,M:263(1); frame:1(32); length:244:(1044:123); shifted_avgpp:0.974; exp_avgpp:0.971; intermediate:delete,S:1305,M:1308(1);]; seq-coords:262..1428:+; mdl-coords:263..1431:+; mdl:CY005641;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [107>8]; seq-coords:1322..1428:+; mdl-coords:1431..1431:+; mdl:CY005641;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [242>5]; seq-coords:18..259:+; mdl-coords:19..19:+; mdl:CY005641;
+ERROR: UNEXPECTED_LENGTH: (CDS:neuraminidase) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1411]; seq-coords:18..1428:+; mdl-coords:19..1431:+; mdl:CY005641;
+>Feature gi|2293434879|dbj|LC723843.1|
+42	92	sig_peptide
+			protein_id	2293434879_1
+42	>1727	gene
+			gene	HA
+42	>1727	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2293434879_1
+93	1067	mat_peptide
+			product	HA1
+			protein_id	2293434879_1
+1068	>1727	mat_peptide
+			product	HA2
+			protein_id	2293434879_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [22 extra nucleotides]; seq-coords:1..22:+; mdl-coords:0..0:+; mdl:CY006008;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 22]; seq-coords:1..22:+; mdl-coords:0..0:+; mdl:CY006008;
+>Feature gi|2293434880|dbj|LC723844.1|
+<1	1410	gene
+			gene	NA
+<1	1410	CDS
+			product	neuraminidase
+			codon_start	1
+			protein_id	2293434880_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [22 extra nucleotides]; seq-coords:1442..1463:+; mdl-coords:1470..1470:+; mdl:CY004429;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 23]; seq-coords:1441..1463:+; mdl-coords:1470..1470:+; mdl:CY004429;
+ERROR: MUTATION_AT_END: (CDS:neuraminidase) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TGA]; seq-coords:1417..1419:+; mdl-coords:1447..1449:+; mdl:CY004429;
+>Feature gi|2293434881|dbj|LC723845.1|
+35	1710	gene
+			gene	HA
+35	1710	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2293434881_1
+35	88	sig_peptide
+			protein_id	2293434881_1
+89	1047	mat_peptide
+			product	HA1
+			protein_id	2293434881_1
+1048	1707	mat_peptide
+			product	HA2
+			protein_id	2293434881_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY004642;
+ERROR: CDS_HAS_STOP_CODON: (CDS:hemagglutinin) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:1337,M:1343]; seq-coords:371..373:+; mdl-coords:371..373:+; mdl:CY004642;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:310,M:310(1); frame:1(323); length:276:(1366:20:14); shifted_avgpp:0.965; exp_avgpp:0.971; intermediate:insert,S:1677..1678(2),M:1676;delete,S:1696,M:1695..1702(8);]; seq-coords:311..1710:+; mdl-coords:310..1716:+; mdl:CY004642;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [33>5]; seq-coords:1678..1710:+; mdl-coords:1716..1716:+; mdl:CY004642;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [266>5]; seq-coords:35..300:+; mdl-coords:34..34:+; mdl:CY004642;
+ERROR: UNEXPECTED_LENGTH: (CDS:hemagglutinin) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1676]; seq-coords:35..1710:+; mdl-coords:34..1716:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA1) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+ERROR: UNEXPECTED_LENGTH: (mat_peptide:HA1) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [959]; seq-coords:89..1047:+; mdl-coords:88..1047:+; mdl:CY004642;
+ERROR: INDEFINITE_ANNOTATION_END: (mat_peptide:HA2) alignment to homology model has low confidence at 3' boundary for feature that does not match a CDS [0.50<0.60 (mat_peptide feature)]; seq-coords:1707..1707:+; mdl-coords:1713..1713:+; mdl:CY004642;
+ERROR: PEPTIDE_TRANSLATION_PROBLEM: (mat_peptide:HA2) mat_peptide may not be translated because its parent CDS has a problem [-]; seq-coords:-; mdl-coords:-; mdl:CY004642;
+>Feature gi|2293434883|dbj|LC723847.1|
+42	89	sig_peptide
+			protein_id	2293434883_1
+42	>1718	gene
+			gene	HA
+42	>1718	CDS
+			product	hemagglutinin
+			function	receptor binding and fusion protein
+			protein_id	2293434883_1
+90	1061	mat_peptide
+			product	HA1
+			protein_id	2293434883_1
+1062	>1718	mat_peptide
+			product	HA2
+			protein_id	2293434883_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [22 extra nucleotides]; seq-coords:1..22:+; mdl-coords:0..0:+; mdl:CY006001;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 22]; seq-coords:1..22:+; mdl-coords:0..0:+; mdl:CY006001;
+>Feature gi|2293434884|dbj|LC723848.1|
+24	>1428	gene
+			gene	NA
+24	>1428	CDS
+			product	neuraminidase
+			protein_id	2293434884_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [1 extra nucleotide]; seq-coords:1..1:+; mdl-coords:0..0:+; mdl:CY004435;
+ERROR: CDS_HAS_STOP_CODON: (CDS:neuraminidase) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted M:911]; seq-coords:525..527:+; mdl-coords:522..524:+; mdl:CY004435;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame restored before end) [cause:delete,S:373,M:370(1); restore:delete,S:1364,M:1362..1363(2); frame:1(3)1>; length:350:(991):64>; shifted_avgpp:0.974; exp_avgpp:0.936;]; seq-coords:374..1364:+; mdl-coords:370..1363:+; mdl:CY004435;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [59>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1370..1428:+; mdl-coords:1435..1435:+; mdl:CY004435;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [347>5]; seq-coords:24..370:+; mdl-coords:23..23:+; mdl:CY004435;
+>Feature gi|2311274217|dbj|LC730538.1|
+36	1445	gene
+			gene	NA
+36	1445	CDS
+			product	neuraminidase
+			protein_id	2311274217_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [19 extra nucleotides]; seq-coords:1474..1492:+; mdl-coords:1463..1463:+; mdl:CY002538;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [15 extra nucleotides]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY002538;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 20]; seq-coords:1473..1492:+; mdl-coords:1463..1463:+; mdl:CY002538;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 15]; seq-coords:1..15:+; mdl-coords:0..0:+; mdl:CY002538;
+>Feature gi|2311274223|dbj|LC730544.1|
+38	>1346	gene
+			gene	NA
+38	>1346	CDS
+			product	neuraminidase
+			protein_id	2311274223_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [17 extra nucleotides]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:CY002538;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:CY002538;
+>Feature gi|60766|emb|V01093.1|
+22	>257	gene
+			gene	NA
+22	>257	CDS
+			product	neuraminidase
+			protein_id	60766_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame restored before end) [cause:delete,S:167,M:168(1); restore:insert,S:190(1),M:190; frame:1(3)13>; length:146:(23):55:12>; shifted_avgpp:0.872; exp_avgpp:0.971;]; seq-coords:168..190:+; mdl-coords:168..190:+; mdl:CY005359;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:neuraminidase) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:245,M:246(1); frame:131(3)>; length:146:23:55:(12)>; shifted_avgpp:0.923; exp_avgpp:0.964;]; seq-coords:246..257:+; mdl-coords:246..258:+; mdl:CY005359;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [11>5, no valid stop codon in nucleotide-based prediction]; seq-coords:247..257:+; mdl-coords:1434..1434:+; mdl:CY005359;

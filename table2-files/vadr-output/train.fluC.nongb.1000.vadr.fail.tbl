@@ -1,0 +1,173 @@
+>Feature gi|2708461|dbj|D00033.1|FLCFLCYA8
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	2708461_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	2708461_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|2708455|dbj|D00031.1|FLCFLCJG6
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	2708455_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	2708455_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|2708446|dbj|D00028.1|FLCNSTY47
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	2708446_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	2708446_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|2708452|dbj|D00030.1|FLCFLCGL5
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	2708452_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	2708452_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|2708464|dbj|D00034.1|FLCNSEG83
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	2708464_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	2708464_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|307133378|emb|FR671423.1|
+30	1722	gene
+			gene	NP
+30	1722	CDS
+			product	nucleoprotein
+			protein_id	307133378_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nucleoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:22,M:22]; seq-coords:1698..1700:+; mdl-coords:1703..1705:+; mdl:NC_006311;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nucleoprotein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1695,M:1696..1700(5); frame:1(2); length:1666:(27); shifted_avgpp:0.969; exp_avgpp:0.975;]; seq-coords:1696..1722:+; mdl-coords:1696..1727:+; mdl:NC_006311;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [28>8]; seq-coords:1695..1722:+; mdl-coords:1727..1727:+; mdl:NC_006311;
+ERROR: UNEXPECTED_LENGTH: (CDS:nucleoprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1693]; seq-coords:30..1722:+; mdl-coords:30..1727:+; mdl:NC_006311;
+>Feature gi|2285828|dbj|D78408.1|
+<1	>469	gene
+			gene	PB2
+<1	>469	CDS
+			product	polymerase PB2
+			codon_start	1
+			protein_id	2285828_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PB2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:2202]; seq-coords:91..93:+; mdl-coords:142..144:+; mdl:NC_006307;
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PB2) stop codon in protein-based alignment [-]; seq-coords:91..93:+; mdl-coords:142..144:+; mdl:NC_006307;
+>Feature gi|1041652694|dbj|LC123722.1|
+1	1693	gene
+			gene	NP
+1	1693	CDS
+			product	nucleoprotein
+			protein_id	1041652694_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nucleoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:22,M:22]; seq-coords:1669..1671:+; mdl-coords:1703..1705:+; mdl:NC_006311;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nucleoprotein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1666,M:1696..1700(5); frame:1(2); length:1666:(27); shifted_avgpp:0.969; exp_avgpp:0.975;]; seq-coords:1667..1693:+; mdl-coords:1696..1727:+; mdl:NC_006311;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [31>8]; seq-coords:1663..1693:+; mdl-coords:1727..1727:+; mdl:NC_006311;
+ERROR: UNEXPECTED_LENGTH: (CDS:nucleoprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1693]; seq-coords:1..1693:+; mdl-coords:30..1727:+; mdl:NC_006311;
+>Feature gi|2708458|dbj|D00032.1|FLCFLCMS8
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	2708458_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	2708458_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;

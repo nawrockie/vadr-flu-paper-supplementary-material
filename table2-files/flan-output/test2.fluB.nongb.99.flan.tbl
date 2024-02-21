@@ -1,0 +1,1696 @@
+>Feature gi|2619686147|emb|OY758994.1|
+<1	2149	gene		
+			gene	PB2
+<1	2149	CDS		
+			codon_start	2
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2149 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 222..358; 'N' at 370..412; 'N' at 580..605; 'N' at 802..1175; 'N' at 1673..1678; 'M' at 1686
+ WARNING: The coding region of PB2 has no start codon
+ WARNING: This sequence lacks 164 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686148|emb|OY758995.1|
+17	865	gene		
+			gene	NS1
+17	865	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+17	>931	gene		
+			gene	NEP
+			gene_syn	NS2
+17	52	CDS		
+708	>931			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 931 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 355..429; 'R' at 568; 'N' at 574..582
+ WARNING: The coding region of NEP has no stop codon
+ WARNING: This sequence lacks 109 nucleotides of coding sequences at the end
+===================================================================
+>Feature gi|2619686149|emb|OY758996.1|
+<1	736	gene		
+			gene	M1
+<1	736	CDS		
+			codon_start	2
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+736	1065	gene		
+			gene	BM2
+736	1065	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1121 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - complete; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 774..781
+ WARNING: The coding region of M1 has no start codon
+ WARNING: This sequence lacks 11 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686150|emb|OY758997.1|
+20	1702	gene		
+			gene	NP
+20	1702	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1788 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'R' at 1056
+===================================================================
+>Feature gi|2619686151|emb|OY758998.1|
+<1	1731	gene		
+			gene	HA
+<1	1731	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1809 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: The coding region of HA has no start codon
+ WARNING: This sequence lacks 18 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686152|emb|OY758999.1|
+<1	250	gene		
+			gene	NB
+<1	250	CDS		
+			codon_start	2
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+<1	1355	gene		
+			gene	NA
+<1	1355	CDS		
+			codon_start	3
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1443 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 316..335; 'N' at 521..552; 'W' at 1299
+ WARNING: The coding region of NA has no start codon
+ WARNING: The coding region of NB has no start codon
+ WARNING: This sequence lacks 46 nucleotides of coding sequences at the beginning
+ WARNING: This sequence lacks 53 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686153|emb|OY759000.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 225..651; 'N' at 997..1049; 'W' at 1318; 'W' at 1320; 'N' at 1634..1717
+===================================================================
+>Feature gi|2619686154|emb|OY759001.1|
+<1	2246	gene		
+			gene	PB1
+<1	2246	CDS		
+			codon_start	3
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2282 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 163..270; 'W' at 686; 'Y' at 1097; 'N' at 1111..1195; 'N' at 1605..1673; 'N' at 1927..2080
+ WARNING: The coding region of PB1 has no start codon
+ WARNING: This sequence lacks 13 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686163|emb|OY759010.1|
+1	>2304	gene		
+			gene	PB2
+1	>2304	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2304 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 184..258; 'N' at 385..490; 'N' at 751..764; 'N' at 1097..1108; 'N' at 1151..1218; 'N' at 1510..1554; 'R' at 1667; 'M' at 1747
+ WARNING: The coding region of PB2 has no stop codon
+ WARNING: This sequence lacks 6 nucleotides of coding sequences at the end
+===================================================================
+>Feature gi|2619686164|emb|OY759011.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 238..284; 'N' at 544..1058; 'N' at 1493..1531; 'N' at 1897..1945; 'R' at 1950; 'N' at 1954..1958; 'K' at 2158
+===================================================================
+>Feature gi|2619686165|emb|OY759012.1|
+28	876	gene		
+			gene	NS1
+28	876	misc_feature		
+			note	nonfunctional nonstructural protein 1 due to mutation
+28	>1025	gene		
+			gene	NEP
+			gene_syn	NS2
+28	63	misc_feature		
+719	>1025			
+			note	nonfunctional nuclear export protein due to mutation
+			note	nonstructural protein 2
+    
+ ERROR: Probable mutation at End of prot1
+ ERROR: Probable mutation at Start of prot1
+ ERROR: Probable mutation at Start of prot2
+ INFO: Length: 1025 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'M' at 28; 'R' at 102; 'N' at 441..476; 'M' at 756; 'N' at 829..857; 'N' at 869..879; 'N' at 940..950
+ WARNING: The coding region of NEP has no start codon
+ WARNING: The coding region of NEP has no stop codon
+ WARNING: The coding region of NS1 has no start codon
+ WARNING: The coding region of NS1 has no stop codon
+ WARNING: This sequence lacks 26 nucleotides of coding sequences at the end
+===================================================================
+>Feature gi|2619686166|emb|OY759013.1|
+<1	644	gene		
+			gene	M1
+<1	644	CDS		
+			codon_start	3
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+644	973	gene		
+			gene	BM2
+644	973	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1029 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - complete; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 281..304; 'N' at 730..773; 'N' at 878..882
+ WARNING: The coding region of M1 has no start codon
+ WARNING: This sequence lacks 103 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686167|emb|OY759014.1|
+12	1694	gene		
+			gene	NP
+12	1694	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1784 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'R' at 414; 'N' at 603..617; 'N' at 622..716; 'N' at 868..888; 'N' at 911..989; 'M' at 1108; 'S' at 1113..1114; 'K' at 1119; 'N' at 1763..1766
+===================================================================
+>Feature gi|2619686168|emb|OY759015.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 142..151; 'Y' at 514; 'N' at 540..588; 'N' at 740..759; 'N' at 875..960; 'N' at 1407
+===================================================================
+>Feature gi|2619686169|emb|OY759016.1|
+<1	302	gene		
+			gene	NB
+<1	302	CDS		
+			codon_start	3
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+<1	1398	gene		
+			gene	NA
+<1	1398	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1486 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - nearly complete; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 291..295; 'N' at 582..641; 'R' at 865
+ WARNING: The coding region of NA has no start codon
+ WARNING: The coding region of NB has no start codon
+ WARNING: This sequence lacks 10 nucleotides of coding sequences at the beginning
+ WARNING: This sequence lacks 3 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2619686170|emb|OY759017.1|
+<1	2253	gene		
+			gene	PB1
+<1	2253	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2309 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 173..214; 'N' at 313..335; 'W' at 589; 'W' at 595; 'N' at 810..904; 'N' at 1023..1038; 'N' at 1203..1680; 'N' at 1831..2197; 'R' at 2215
+ WARNING: The coding region of PB1 has no start codon
+ WARNING: This sequence lacks 6 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371564|emb|OY757599.1|
+<1	2303	gene		
+			gene	PB2
+<1	2303	CDS		
+			codon_start	3
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2303 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 203..245; 'W' at 348; 'W' at 710
+ WARNING: The coding region of PB2 has no start codon
+ WARNING: This sequence lacks 10 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371565|emb|OY757600.1|
+40	888	gene		
+			gene	NS1
+40	888	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+40	1066	gene		
+			gene	NEP
+			gene_syn	NS2
+40	75	CDS		
+731	1066			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1090 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'R' at 149; 'N' at 197..212; 'N' at 229..240; 'N' at 482..497
+===================================================================
+>Feature gi|2618371566|emb|OY757601.1|
+<1	690	gene		
+			gene	M1
+<1	690	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+690	1019	gene		
+			gene	BM2
+690	1019	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1105 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - complete; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: The coding region of M1 has no start codon
+ WARNING: This sequence lacks 57 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371567|emb|OY757602.1|
+<1	1630	gene		
+			gene	NP
+<1	1630	CDS		
+			codon_start	2
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1710 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 1709
+ WARNING: The coding region of NP has no start codon
+ WARNING: This sequence lacks 53 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371568|emb|OY757603.1|
+<1	1638	gene		
+			gene	HA
+<1	1638	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1717 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 12..15; 'N' at 391..396; 'N' at 693..841
+ WARNING: The coding region of HA has no start codon
+ WARNING: This sequence lacks 111 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371569|emb|OY757604.1|
+<1	268	gene		
+			gene	NB
+<1	268	CDS		
+			codon_start	2
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+<1	1373	gene		
+			gene	NA
+<1	1373	CDS		
+			codon_start	3
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1461 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 293..413; 'N' at 600..634; 'W' at 1315
+ WARNING: The coding region of NA has no start codon
+ WARNING: The coding region of NB has no start codon
+ WARNING: This sequence lacks 28 nucleotides of coding sequences at the beginning
+ WARNING: This sequence lacks 35 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371570|emb|OY757605.1|
+<1	2128	gene		
+			gene	PA
+<1	2128	CDS		
+			codon_start	2
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2128 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 295..340; 'N' at 801..820; 'N' at 996..997; 'N' at 1570..1671
+ WARNING: The coding region of PA has no start codon
+ WARNING: This sequence lacks 53 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371571|emb|OY757606.1|
+<1	2186	gene		
+			gene	PB1
+<1	2186	CDS		
+			codon_start	3
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2222 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'M' at 41; 'N' at 2043..2144
+ WARNING: The coding region of PB1 has no start codon
+ WARNING: This sequence lacks 73 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371595|emb|OY757630.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371596|emb|OY757631.1|
+43	891	gene		
+			gene	NS1
+43	891	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+43	1069	gene		
+			gene	NEP
+			gene_syn	NS2
+43	78	CDS		
+734	1069			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1093 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371597|emb|OY757632.1|
+14	760	gene		
+			gene	M1
+14	760	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+760	1089	gene		
+			gene	BM2
+760	1089	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1175 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371598|emb|OY757633.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1807 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371599|emb|OY757634.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371600|emb|OY757635.1|
+47	349	gene		
+			gene	NB
+47	349	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+54	1454	gene		
+			gene	NA
+54	1454	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1543 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371601|emb|OY757636.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1631..1716
+===================================================================
+>Feature gi|2618371602|emb|OY757637.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2340 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 2320
+===================================================================
+>Feature gi|2618371616|emb|OY757651.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371617|emb|OY757652.1|
+44	892	gene		
+			gene	NS1
+44	892	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+44	1070	gene		
+			gene	NEP
+			gene_syn	NS2
+44	79	CDS		
+735	1070			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1100 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371618|emb|OY757653.1|
+25	771	gene		
+			gene	M1
+25	771	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+771	1100	gene		
+			gene	BM2
+771	1100	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1189 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 1187
+===================================================================
+>Feature gi|2618371619|emb|OY757654.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1819 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 1808
+===================================================================
+>Feature gi|2618371620|emb|OY757655.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371621|emb|OY757656.1|
+45	347	gene		
+			gene	NB
+45	347	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+52	1452	gene		
+			gene	NA
+52	1452	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1550 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371622|emb|OY757657.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1626..1715
+===================================================================
+>Feature gi|2618371623|emb|OY757658.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2340 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371658|emb|OY757693.1|
+35	337	gene		
+			gene	NB
+35	337	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+42	1442	gene		
+			gene	NA
+42	1442	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1530 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371659|emb|OY757694.1|
+18	764	gene		
+			gene	M1
+18	764	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+764	1093	gene		
+			gene	BM2
+764	1093	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1183 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371660|emb|OY757695.1|
+36	881	gene		
+			gene	NS1
+36	881	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+36	1059	gene		
+			gene	NEP
+			gene_syn	NS2
+36	68	CDS		
+724	1059			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1088 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'M' at 3
+===================================================================
+>Feature gi|2618371661|emb|OY757696.1|
+20	1774	gene		
+			gene	HA
+20	1774	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1853 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371662|emb|OY757697.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2341 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371663|emb|OY757698.1|
+18	2330	gene		
+			gene	PB2
+18	2330	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2390 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'R' at 6
+===================================================================
+>Feature gi|2618371664|emb|OY757699.1|
+22	2202	gene		
+			gene	PA
+22	2202	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2293 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'K' at 4
+===================================================================
+>Feature gi|2618371665|emb|OY757700.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1828 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371709|emb|OY757744.1|
+<1	1858	gene		
+			gene	PB2
+<1	1858	CDS		
+			codon_start	2
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 1858 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 16..348; 'N' at 362..391; 'N' at 418..1230; 'N' at 1339..1349; 'N' at 1367..1512
+ WARNING: The coding region of PB2 has no start codon
+ WARNING: This sequence lacks 455 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371710|emb|OY757745.1|
+<1	>1018	gene		
+			gene	PA
+<1	>1018	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 1018 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 129..198; 'N' at 226..242; 'N' at 350..361; 'N' at 371..450; 'N' at 858..886
+ WARNING: The coding region of PA has no start codon
+ WARNING: The coding region of PA has no stop codon
+ WARNING: This sequence lacks 272 nucleotides of coding sequences at the end
+ WARNING: This sequence lacks 888 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371711|emb|OY757746.1|
+<1	469	gene		
+			gene	M1
+<1	469	CDS		
+			codon_start	2
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+469	798	gene		
+			gene	BM2
+469	798	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 854 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - complete; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 39..67; 'N' at 96..145; 'N' at 152..443; 'N' at 494..503; 'N' at 595..628; 'N' at 666..713
+ WARNING: The coding region of M1 has no start codon
+ WARNING: This sequence lacks 278 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371712|emb|OY757747.1|
+<1	>1629	gene		
+			gene	NP
+<1	>1629	CDS		
+			codon_start	2
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1629 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 158..361; 'N' at 374..504; 'N' at 643..1033; 'N' at 1170..1530
+ WARNING: The coding region of NP has no start codon
+ WARNING: The coding region of NP has no stop codon
+ WARNING: This sequence lacks 53 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371713|emb|OY757748.1|
+<1	>1103	gene		
+			gene	HA
+<1	>1103	CDS		
+			codon_start	2
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1103 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 4..186; 'N' at 298..1004; 'N' at 1092..1093
+ WARNING: The coding region of HA has no start codon
+ WARNING: The coding region of HA has no stop codon
+ WARNING: This sequence lacks 191 nucleotides of coding sequences at the end
+ WARNING: This sequence lacks 461 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371714|emb|OY757749.1|
+<1	>1468	gene		
+			gene	PB1
+<1	>1468	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 1468 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 90; 'N' at 134..178; 'N' at 292..1196; 'N' at 1294..1465
+ WARNING: The coding region of PB1 has no start codon
+ WARNING: The coding region of PB1 has no stop codon
+ WARNING: This sequence lacks 179 nucleotides of coding sequences at the end
+ WARNING: This sequence lacks 609 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371715|emb|OY757750.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371716|emb|OY757751.1|
+33	881	gene		
+			gene	NS1
+33	881	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+33	1059	gene		
+			gene	NEP
+			gene_syn	NS2
+33	68	CDS		
+724	1059			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1089 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371717|emb|OY757752.1|
+25	771	gene		
+			gene	M1
+25	771	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+771	1100	gene		
+			gene	BM2
+771	1100	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1186 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371718|emb|OY757753.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1807 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371719|emb|OY757754.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371720|emb|OY757755.1|
+47	349	gene		
+			gene	NB
+47	349	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+54	1454	gene		
+			gene	NA
+54	1454	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1543 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371721|emb|OY757756.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1631..1715
+===================================================================
+>Feature gi|2618371722|emb|OY757757.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2340 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'R' at 169
+===================================================================
+>Feature gi|2618371741|emb|OY757776.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371742|emb|OY757777.1|
+38	886	gene		
+			gene	NS1
+38	886	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+38	1064	gene		
+			gene	NEP
+			gene_syn	NS2
+38	73	CDS		
+729	1064			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1094 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 2; 'R' at 4
+===================================================================
+>Feature gi|2618371743|emb|OY757778.1|
+23	769	gene		
+			gene	M1
+23	769	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+769	1098	gene		
+			gene	BM2
+769	1098	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1184 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371744|emb|OY757779.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1817 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 1810; 'W' at 1812
+===================================================================
+>Feature gi|2618371745|emb|OY757780.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371746|emb|OY757781.1|
+37	339	gene		
+			gene	NB
+37	339	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+44	1444	gene		
+			gene	NA
+44	1444	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1536 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371747|emb|OY757782.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1626..1716
+===================================================================
+>Feature gi|2618371748|emb|OY757783.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2341 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 2320
+===================================================================
+>Feature gi|2618371759|emb|OY757794.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371760|emb|OY757795.1|
+36	884	gene		
+			gene	NS1
+36	884	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+36	1062	gene		
+			gene	NEP
+			gene_syn	NS2
+36	71	CDS		
+727	1062			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1092 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371761|emb|OY757796.1|
+20	766	gene		
+			gene	M1
+20	766	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+766	1095	gene		
+			gene	BM2
+766	1095	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1183 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371762|emb|OY757797.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1818 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'W' at 1808
+===================================================================
+>Feature gi|2618371763|emb|OY757798.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371764|emb|OY757799.1|
+32	334	gene		
+			gene	NB
+32	334	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+39	1439	gene		
+			gene	NA
+39	1439	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1531 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371765|emb|OY757800.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1626..1715
+===================================================================
+>Feature gi|2618371766|emb|OY757801.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2340 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371771|emb|OY757806.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371772|emb|OY757807.1|
+40	888	gene		
+			gene	NS1
+40	888	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+40	1066	gene		
+			gene	NEP
+			gene_syn	NS2
+40	75	CDS		
+731	1066			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1090 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371773|emb|OY757808.1|
+23	769	gene		
+			gene	M1
+23	769	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+769	1098	gene		
+			gene	BM2
+769	1098	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1184 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371774|emb|OY757809.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1807 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371775|emb|OY757810.1|
+19	1767	gene		
+			gene	HA
+19	1767	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1846 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371776|emb|OY757811.1|
+47	349	gene		
+			gene	NB
+47	349	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+54	1454	gene		
+			gene	NA
+54	1454	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1543 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371777|emb|OY757812.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1632..1715
+===================================================================
+>Feature gi|2618371778|emb|OY757813.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2340 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'R' at 169; 'M' at 2296
+===================================================================
+>Feature gi|2618371806|emb|OY757841.1|
+1	2313	gene		
+			gene	PB2
+1	2313	CDS		
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 2313 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371807|emb|OY757842.1|
+40	888	gene		
+			gene	NS1
+40	888	CDS		
+			product	nonstructural protein 1
+			protein_id	gnl|NCBI|p1
+			gene	NS1
+40	1066	gene		
+			gene	NEP
+			gene_syn	NS2
+40	75	CDS		
+731	1066			
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	gnl|NCBI|p2
+			gene	NEP
+    
+ INFO: Length: 1090 nucleotides
+ INFO: Segment: 8 (NS)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371808|emb|OY757843.1|
+16	762	gene		
+			gene	M1
+16	762	CDS		
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+762	1091	gene		
+			gene	BM2
+762	1091	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 1177 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371809|emb|OY757844.1|
+47	1729	gene		
+			gene	NP
+47	1729	CDS		
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1817 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371810|emb|OY757845.1|
+20	1768	gene		
+			gene	HA
+20	1768	CDS		
+			product	hemagglutinin
+			protein_id	gnl|NCBI|p1
+			function	receptor binding and fusion protein
+			gene	HA
+    
+ INFO: Length: 1847 nucleotides
+ INFO: Segment: 4 (HA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371811|emb|OY757846.1|
+47	349	gene		
+			gene	NB
+47	349	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+54	1454	gene		
+			gene	NA
+54	1454	CDS		
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1543 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - complete; protein 2 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+===================================================================
+>Feature gi|2618371812|emb|OY757847.1|
+1	2181	gene		
+			gene	PA
+1	2181	CDS		
+			product	polymerase PA
+			protein_id	gnl|NCBI|p1
+			gene	PA
+    
+ INFO: Length: 2181 nucleotides
+ INFO: Segment: 3 (PA)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 1631..1716
+===================================================================
+>Feature gi|2618371813|emb|OY757848.1|
+8	2266	gene		
+			gene	PB1
+8	2266	CDS		
+			product	polymerase PB1
+			protein_id	gnl|NCBI|p1
+			gene	PB1
+    
+ INFO: Length: 2340 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: protein 1 - complete; nucleotide - complete
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 2320
+===================================================================
+>Feature gi|2618371864|emb|OY757899.1|
+<1	>1675	gene		
+			gene	PB2
+<1	>1675	CDS		
+			codon_start	2
+			product	polymerase PB2
+			protein_id	gnl|NCBI|p1
+			gene	PB2
+    
+ INFO: Length: 1675 nucleotides
+ INFO: Segment: 2 (PB2)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 134..1071; 'N' at 1244..1289; 'N' at 1419..1559
+ WARNING: The coding region of PB2 has no start codon
+ WARNING: The coding region of PB2 has no stop codon
+ WARNING: This sequence lacks 144 nucleotides of coding sequences at the end
+ WARNING: This sequence lacks 491 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371865|emb|OY757900.1|
+<1	595	gene		
+			gene	M1
+<1	595	CDS		
+			codon_start	2
+			product	matrix protein 1
+			protein_id	gnl|NCBI|p1
+			gene	M1
+595	>626	gene		
+			gene	BM2
+595	>626	CDS		
+			product	BM2 protein
+			protein_id	gnl|NCBI|p2
+			gene	BM2
+    
+ INFO: Length: 626 nucleotides
+ INFO: Segment: 7 (MP)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 214..471
+ WARNING: The coding region of BM2 has no stop codon
+ WARNING: The coding region of M1 has no start codon
+ WARNING: This sequence lacks 152 nucleotides of coding sequences at the beginning
+ WARNING: This sequence lacks 295 nucleotides of coding sequences at the end
+===================================================================
+>Feature gi|2618371866|emb|OY757901.1|
+<1	1642	gene		
+			gene	NP
+<1	1642	CDS		
+			codon_start	2
+			product	nucleoprotein
+			protein_id	gnl|NCBI|p1
+			gene	NP
+    
+ INFO: Length: 1728 nucleotides
+ INFO: Segment: 5 (NP)
+ INFO: Sequence completeness: protein 1 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 216..424; 'N' at 465..666; 'N' at 799..800; 'N' at 814..975; 'N' at 1386..1526
+ WARNING: The coding region of NP has no start codon
+ WARNING: This sequence lacks 41 nucleotides of coding sequences at the beginning
+===================================================================
+>Feature gi|2618371867|emb|OY757902.1|
+<1	264	gene		
+			gene	NB
+<1	264	CDS		
+			product	NB protein
+			protein_id	gnl|NCBI|p1
+			gene	NB
+<1	1369	gene		
+			gene	NA
+<1	1369	CDS		
+			codon_start	2
+			product	neuraminidase
+			protein_id	gnl|NCBI|p2
+			gene	NA
+    
+ INFO: Length: 1391 nucleotides
+ INFO: Segment: 6 (NA)
+ INFO: Sequence completeness: protein 1 - partial; protein 2 - partial; nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 216..224; 'N' at 425..832; 'N' at 1246..1273; 'N' at 1282..1287
+ WARNING: The coding region of NA has no start codon
+ WARNING: The coding region of NB has no start codon
+ WARNING: This sequence lacks 32 nucleotides of coding sequences at the beginning
+ WARNING: This sequence lacks 39 nucleotides of coding sequences at the beginning
+===================================================================
+>gi|2618371868|emb|OY757903.1| Influenza B virus isolate DW-RAT-183 genome assembly, segment: 5
+    
+ ERROR: The coding region of PB1 has stop codon inside exon
+ INFO: Length: 2177 nucleotides
+ INFO: Segment: 1 (PB1)
+ INFO: Sequence completeness: nucleotide - partial
+ INFO: Virus type: influenza B
+ WARNING: Ambiguity nucleotide(s) found: 'N' at 63..282; 'N' at 332..688; 'N' at 840..2090
+ WARNING: The coding region of PB1 has no start codon
+ WARNING: The coding region of PB1 has no stop codon
+ WARNING: This sequence lacks 2183 nucleotides of coding sequences at the end

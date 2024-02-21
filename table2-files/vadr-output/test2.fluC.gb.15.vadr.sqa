@@ -1,0 +1,18 @@
+#seq  seq                            seq             best                  sub                             seq   
+#idx  name                           len  p/f   ant  model      grp        grp  nfa  nfn  nf5  nf3  nfalt  alerts
+#---  ----------------------------  ----  ----  ---  ---------  ---------  ---  ---  ---  ---  ---  -----  ------
+1     gi|2474338244|gb|OQ733368.1|  2253  PASS  yes  NC_006308  fluC-seg2  -      2    0    2    0      0  -     
+2     gi|2474338246|gb|OQ733369.1|   918  PASS  yes  NC_006306  fluC-seg7  -      4    0    0    0      0  -     
+3     gi|2474338249|gb|OQ733370.1|  1968  PASS  yes  NC_006310  fluC-seg4  -      2    0    0    0      0  -     
+4     gi|2474338251|gb|OQ733371.1|  1125  PASS  yes  NC_006312  fluC-seg6  -      4    0    0    0      0  -     
+5     gi|2474338254|gb|OQ733372.1|  1769  PASS  yes  NC_006311  fluC-seg5  -      2    0    0    0      0  -     
+6     gi|2474338256|gb|OQ733373.1|  2325  PASS  yes  NC_006307  fluC-seg1  -      2    0    0    0      0  -     
+7     gi|2474338258|gb|OQ733374.1|  2130  PASS  yes  NC_006309  fluC-seg3  -      2    0    0    0      0  -     
+8     gi|2474338260|gb|OQ733375.1|   892  PASS  yes  NC_006306  fluC-seg7  -      4    0    0    0      0  -     
+9     gi|2474338263|gb|OQ733376.1|  1125  PASS  yes  NC_006312  fluC-seg6  -      4    0    0    0      0  -     
+10    gi|2474338266|gb|OQ733377.1|  2130  PASS  yes  NC_006309  fluC-seg3  -      2    0    0    0      0  -     
+11    gi|2474338268|gb|OQ733378.1|  2265  PASS  yes  NC_006308  fluC-seg2  -      2    0    0    0      0  -     
+12    gi|2474338270|gb|OQ733379.1|  2325  PASS  yes  NC_006307  fluC-seg1  -      2    0    0    0      0  -     
+13    gi|2474338272|gb|OQ733380.1|   921  PASS  yes  NC_006306  fluC-seg7  -      4    0    0    0      0  -     
+14    gi|2474338275|gb|OQ733381.1|  1768  PASS  yes  NC_006311  fluC-seg5  -      2    0    0    0      0  -     
+15    gi|2474338277|gb|OQ733382.1|  1968  PASS  yes  NC_006310  fluC-seg4  -      2    0    0    0      0  -     

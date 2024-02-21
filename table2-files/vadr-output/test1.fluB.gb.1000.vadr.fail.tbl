@@ -1,0 +1,49 @@
+>Feature gi|755202467|gb|KP460089.1|
+<1	>1019	gene
+			gene	HA
+<1	>1019	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	755202467_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:6,M:85(1); frame:<1(3)>; length:<6:(1013)>; shifted_avgpp:0.975; exp_avgpp:0.883;]; seq-coords:7..1019:+; mdl-coords:85..1098:+; mdl:AF387493;
+>Feature gi|755205033|gb|KP461008.1|
+<1	>1035	gene
+			gene	HA
+<1	>1035	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	755205033_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:13,M:85(1); frame:<2(1)>; length:<13:(1022)>; shifted_avgpp:0.970; exp_avgpp:0.933;]; seq-coords:14..1035:+; mdl-coords:85..1104:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [12>5]; seq-coords:1..12:+; mdl-coords:34..34:+; mdl:AF387493;
+>Feature gi|1690483627|gb|MN086295.1|
+47	349	gene
+			gene	NB
+47	349	CDS
+			product	NB protein
+			protein_id	1690483627_1
+54	1454	gene
+			gene	NA
+54	1454	CDS
+			product	neuraminidase
+			protein_id	1690483627_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [11 extra nucleotides]; seq-coords:1558..1568:+; mdl-coords:1557..1557:+; mdl:AY191501;
+>Feature gi|755206134|gb|KP461375.1|
+<1	>1027	gene
+			gene	HA
+<1	>1027	CDS
+			product	hemagglutinin
+			codon_start	2
+			function	receptor binding and fusion protein
+			protein_id	755206134_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:13,M:85(1); frame:<2(1)>; length:<13:(1014)>; shifted_avgpp:0.975; exp_avgpp:0.933;]; seq-coords:14..1027:+; mdl-coords:85..1099:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [12>5]; seq-coords:1..12:+; mdl-coords:34..34:+; mdl:AF387493;

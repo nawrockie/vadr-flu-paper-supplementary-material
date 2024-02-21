@@ -1,0 +1,19 @@
+product:BM2 protein gene:BM2
+product:CM2 protein gene:CM2
+product:NB protein gene:NB
+product:PA-X protein gene:PA-X
+product:PB1-F2 protein gene:PB1-F2
+product:hemagglutinin gene:HA
+product:hemagglutinin-esterase gene:HE
+product:matrix protein 1 gene:M1
+product:matrix protein 2 gene:M2
+product:neuraminidase gene:NA
+product:nonstructural protein 1 gene:NS1
+product:nonstructural protein 2 gene:NEP
+product:nuclear export protein gene:NEP
+product:nucleocapsid protein gene:NP
+product:nucleoprotein gene:NP
+product:polymerase P3 gene:P3
+product:polymerase PA gene:PA
+product:polymerase PB1 gene:PB1
+product:polymerase PB2 gene:PB2

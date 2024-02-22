@@ -1,11 +1,11 @@
 set -e
 # remove old files
-touch sum.passfail.txt
-touch sum.info.txt
-touch sum.coords.txt
-rm sum.passfail.txt
-rm sum.info.txt
-rm sum.coords.txt
+touch all.passfail.txt
+touch all.info.txt
+touch all.coords.txt
+rm all.passfail.txt
+rm all.info.txt
+rm all.coords.txt
 
 # make table2.data.txt
 for a in \
@@ -29,31 +29,29 @@ test2.fluC.gb.15       \
 test2.fluC.nongb.130   \
 ; do
     perl parse-and-compare-flan-and-vadr-output.pl --deput --misc2cds \
-        flan-output/$a.flan.tbl \
-        vadr-output/$a.vadr.pass.tbl \
-        vadr-output/$a.vadr.fail.tbl \
-        vadr-output/$a.vadr.alt \
-        vadr-output/$a.vadr.sqa \
+        ../flan-train-test-output/$a.flan.tbl \
+        ../vadr-train-test-output/$a.vadr.pass.tbl \
+        ../vadr-train-test-output/$a.vadr.fail.tbl \
+        ../vadr-train-test-output/$a.vadr.alt \
+        ../vadr-train-test-output/$a.vadr.sqa \
         product2gene.map.txt \
         compare.$a > \
         compare.$a.txt
     for c in FPVP FPVF FFVP FFVF; do 
         perl fetch-class-from-compare-output.pl compare.$a.txt $c > compare.$c.$a.txt
         # write to passfail summary file
-        echo -n $a " " $c " " >> sum.passfail.txt
-        grep SEQUENCE compare.$c.$a.txt | wc -l >> sum.passfail.txt
+        echo -n $a " " $c " " >> all.passfail.txt
+        grep SEQUENCE compare.$c.$a.txt | wc -l >> all.passfail.txt
     done
     # write to info summary file
     for c in identical different; do 
-        echo -n $a " " $c " " >> sum.info.txt
-        grep SEQUENCE compare.$a.txt | grep info:$c | wc -l >> sum.info.txt
-        echo "" >> sum.info.txt
+        echo -n $a " " $c " " >> all.info.txt
+        grep SEQUENCE compare.$a.txt | grep info:$c | wc -l >> all.info.txt
     done
     # write to coords summary file
     for c in coords-same coords-diff vadronly flanonly; do
-        echo -n $a " " $c " " >> sum.coords.txt
-        grep FEATURE compare.$a.txt | grep $c | grep -v "\:$c" | wc -l >> sum.coords.txt
-        echo "" >> sum.coords.txt
+        echo -n $a " " $c " " >> all.coords.txt
+        grep FEATURE compare.$a.txt | awk -F"\t" '{ print $7 }' | grep $c | wc -l >> all.coords.txt
     done
 done
 # combine all flan.err.list and vadr.fatal.list files made by parse-and-compare-flan-and-vadr-output.pl above:
@@ -62,6 +60,9 @@ cat compare.train.*.vadr.fatal.list compare.test1.*.vadr.fatal.list compare.test
 # make table2.tex
 perl ./table-errors.pl parse-and-compare-flan-and-vadr-output.pl all.flan.err.list all.vadr.fatal.list > table2.tex
 # table 2 in the paper was manually edited from the 'table2.tex' file created above to fix spacing and reorder some errors
+
+perl coords.pl all.coords.txt > sum.coords.txt
+perl info.pl   all.info.txt   > sum.info.txt
 
 # make table5.data.txt
 touch table5.data.txt
@@ -75,27 +76,26 @@ train.fluC.gb.500      \
 train.fluC.nongb.500   \
 ; do
     perl parse-and-compare-flan-and-vadr-output.pl --deput --misc2cds \
-        flan-output/$a.flan.tbl \
-        vadr-output/$a.fo.vadr.pass.tbl \
-        vadr-output/$a.fo.vadr.fail.tbl \
-        vadr-output/$a.fo.vadr.alt \
-        vadr-output/$a.fo.vadr.sqa \
+        ../flan-train-test-output/$a.flan.tbl \
+        ../vadr-train-test-output/$a.fo.vadr.pass.tbl \
+        ../vadr-train-test-output/$a.fo.vadr.fail.tbl \
+        ../vadr-train-test-output/$a.fo.vadr.alt \
+        ../vadr-train-test-output/$a.fo.vadr.sqa \
         product2gene.map.txt \
         fo.compare.$a > \
         fo.compare.$a.txt
     perl parse-and-compare-flan-and-vadr-output.pl --deput --misc2cds \
-        flan-output/$a.flan.tbl \
-        vadr-output/$a.nto.vadr.pass.tbl \
-        vadr-output/$a.nto.vadr.fail.tbl \
-        vadr-output/$a.nto.vadr.alt \
-        vadr-output/$a.nto.vadr.sqa \
+        ../flan-train-test-output/$a.flan.tbl \
+        ../vadr-train-test-output/$a.nto.vadr.pass.tbl \
+        ../vadr-train-test-output/$a.nto.vadr.fail.tbl \
+        ../vadr-train-test-output/$a.nto.vadr.alt \
+        ../vadr-train-test-output/$a.nto.vadr.sqa \
         product2gene.map.txt \
         nto.compare.$a > \
         nto.compare.$a.txt
     for c in FPVP FPVF FFVP FFVF; do 
         perl fetch-class-from-compare-output.pl fo.compare.$a.txt  $c > fo.compare.$c.$a.txt
         perl fetch-class-from-compare-output.pl nto.compare.$a.txt $c > nto.compare.$c.$a.txt
-        # write to passfail summary file
         echo -n $a " " $c " " fin " " >> table5.data.txt
         # the following file was created in the first block
         grep SEQUENCE compare.$c.$a.txt | wc -l >> table5.data.txt

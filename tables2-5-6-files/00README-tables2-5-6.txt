@@ -1,10 +1,10 @@
-# 00README-table2.txt
+# 00README-tables2-5-6.txt
 # Eric Nawrocki
 # February 20, 2024
 # 
 # This file explains the contents of this directory which contains
 # supplementary data for the paper "Influenza sequence validation and
-# annotation using VADR" related to Table 2.
+# annotation using VADR" related to Tables 2, 5 and 6.
 #
 # =====================================================================
 #

@@ -8,69 +8,64 @@
 #
 # =====================================================================
 #
-# Table 2 includes information on how consistent FLAN and VADR errors
-# are in the combined training and testing sets.
+# Table 2 has data on how consistent FLAN and VADR errors are in the
+# combined training and testing sets.
+#
+# Table 5 has data on a comparison of the pass/fail outcomes of the
+# training set sequences from FLAN and VADR.
+#
+# Table 6 has data on a comparison of the pass/fail outcomes of the
+# testing set sequences from FLAN and VADR.
+#
+# The 11 files in this directory are necessary to reproduce tables 2, 5,
+# and 6 using data in the top-level 'flan-train-test-output' and
+# 'vadr-train-test-output' directories one level up from this
+# directory.
 # 
-# IDEAS:
-# - include a subdir with vadr output files for all train/test sets
-# - include a subdir with flan tables
-# - include perl script to parse vadr and flan output tables and
-#   creates compare files
-# - include script that takes as input all compare files and script
-#   and makes table
-# - include script that does all steps
+# A brief description of each of the 11 files is below:
+# 
+#  1. make-tables2-5-6.sh: a shell script that will create more than
+#     200 files, most importantly table2.tex, table5.tex and
+#     table6.tex which are the same tables in the paper with the
+#     exception that the table 2 in the paper is a manually edited
+#     version of table2.tex with formatting changes and reordering of
+#     the rows. This script will also create the two files
+#     'sum.coords.txt' and 'sum.info.txt' which include data on how
+#     many of the predictions between vadr and flan were identical or
+#     different, and how many of the classifcations (type and subytpe)
+#     were identical or different, respectively. 
+#     Execute this file with the command 'sh ./make-tables2-5-6.sh'
+#
+#  2. clean.up.sh: a shell script that will remove all files created
+#     by 'make-tables2-5-6.sh'.
+# 
+#  3. table-errors.pl: a perl script called by 'make-tables2-5-6.sh'
+#     that creates 'table2.tex'.
+#
+#  4. table-passfail-train.pl: a perl script called by
+#     'make-tables2-5-6.sh' that creates table5.tex.
+#
+#  5. table-passfail-test.pl: a perl script called by
+#     'make-tables2-5-6.sh' that creates table6.tex.
+#
+#  6. parse-and-compare-flan-and-vadr-output.pl:
+#  7. fetch-class-and-compare-output.pl:  
+#     perl scripts called by 'make-tables2-5-6.sh' that compares flan
+#     and vadr output and creates intermediate files used by the other
+#     perl scripts
+# 
+#  8. coords.pl: a perl script that summarizes the per feature
+#     coordinate comparisons between flan and vadr.
+#
+#  9. info.pl: a perl script that summarizes the comparison of the
+#     classification (type/subtype) of each sequence between flan and
+#     vadr.
 #  
-# This directory contains 32 list files with names ending in either
-# '.gblist' or '.list': 
+# 10. product2gene.map.txt: a map of product names to gene names, used
+#     by 'parse-and-compare-flan-and-vadr-output.pl' when parsing flan
+#     output. 
 #
-#  - 24 of the '.gblist' files contain the accessions published in GenBank for each of the six
-#    years and four types of influenza (A, B, C, and D). An example is 
-#    'fluC.2022.gblist' which contains all fluC sequences published in
-#    GenBank in 2022. 
-# 
-#  - 4 of the remaining 8 files end in '.gblist' and include all GenBank
-#    accessions (from any date) for each type as of February 20, 2024.
-#    An example is 'fluB.all.20240220.gblist' which includes all flu B
-#    GenBank accessions. 
-# 
-#  - The final 4 files end in '.list' and include all INSDC (GenBank,
-#    ENA and DDBJ) accessions from any date as of February 20,
-#    2024. An example is 'fluA.all.20240220.list' which includes all
-#    flu A accesions.
-#
-# These lists were obtained on February 20, 2024 from the NCBI Virus
-# interactive dashboard, tabular view: 
-# https://www.ncbi.nlm.nih.gov/labs/virus/vssi
-# by searching for either "influenza A virus" (taxid 11320),
-# "influenza B virus" (taxid 11520), "influenza C virus" (taxid 11552)
-# or "influenza D virus (taxid 1511084) and restricting by 'release
-# date'. 
-#
-# The dashboard allows you to download all INSDC accessions, which
-# include sequences originally published in GenBank, ENA and DDBJ.
-# For the 6 per-year rows, these were filtered to only those
-# accessions published in GenBank by fetching all the sequences using
-# an internal NCBI script that fetches sequences and renames them with
-# a 'long form' sequence name that includes the GI and the original
-# database, e.g.
-#
-# gi|117572924|gb|CY017309.1|
-#
-# These sequence files were filtered for sequence names containing
-# 'gb' to restrict to only sequences deposited in GenBank.
-# 
-# The lists in this directory include only the resulting GenBank
-# accessions. 
-#
-# The accession list from NCBI virus can also be split into GenBank vs
-# ENA/DDBJ based on the first two letters of the accessions. The
-# 481,079 GenBank 2018 to 2023 influenza sequences from Table 1 all
-# begin with one of the following two letter prefixes: 
-# CY, JQ, KJ, KM, KP, KR, KT, KU, KX, KY, MF, MG, MH, MK, MN, MT, MW,
-# MZ, OK, OL, OM, ON, OP, OQ, OR, PP.
-# 
-# See https://www.ncbi.nlm.nih.gov/genbank/acc_prefix/
-# for more information on accession prefixes.
+# 11. 00README-tables2-5-6.txt: this file.
 #
 ################################################
 # Question/problems? email eric.nawrocki@nih.gov

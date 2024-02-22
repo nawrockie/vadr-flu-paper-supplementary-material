@@ -1,3 +1,4 @@
+#!/bin/bash
 set -e
 # remove old files
 touch all.passfail.txt

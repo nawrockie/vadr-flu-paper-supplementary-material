@@ -1,3 +1,4 @@
+#!/bin/bash
 rm *data.txt
 rm *tex
 rm *~

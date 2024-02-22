@@ -29,33 +29,10 @@
 #  2. clean.up.sh: a shell script that will remove all files created
 #     by 'make-tables3-4.sh'.
 # 
-#  3. table-errors.pl: a perl script called by 'make-tables2-5-6.sh'
-#     that creates 'table2.tex'.
-#
-#  4. table-passfail-train.pl: a perl script called by
-#     'make-tables2-5-6.sh' that creates table5.tex.
-#
-#  5. table-passfail-test.pl: a perl script called by
-#     'make-tables2-5-6.sh' that creates table6.tex.
-#
-#  6. parse-and-compare-flan-and-vadr-output.pl:
-#  7. fetch-class-and-compare-output.pl:  
-#     perl scripts called by 'make-tables2-5-6.sh' that compares flan
-#     and vadr output and creates intermediate files used by the other
-#     perl scripts
+#  3. table-models.pl: a perl script called by 'make-tables3-4.sh' 
+#     that creates the file 'tables3-4.tex'
 # 
-#  8. coords.pl: a perl script that summarizes the per feature
-#     coordinate comparisons between flan and vadr.
-#
-#  9. info.pl: a perl script that summarizes the comparison of the
-#     classification (type/subtype) of each sequence between flan and
-#     vadr.
-#  
-# 10. product2gene.map.txt: a map of product names to gene names, used
-#     by 'parse-and-compare-flan-and-vadr-output.pl' when parsing flan
-#     output. 
-#
-# 11. 00README-tables2-5-6.txt: this file.
+#  4. 00README-tables3-4.txt: this file.
 #
 ################################################
 # Question/problems? email eric.nawrocki@nih.gov

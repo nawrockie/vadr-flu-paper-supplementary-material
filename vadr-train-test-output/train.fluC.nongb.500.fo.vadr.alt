@@ -1,0 +1,526 @@
+#       seq                                           ftr   ftr                      ftr  alert           alert                                   seq  seq           mdl  mdl  alert 
+#idx    name                               model      type  name                     idx  code      fail  description                          coords  len        coords  len  detail
+#-----  ---------------------------------  ---------  ----  -----------------------  ---  --------  ----  -----------------------------  ------------  ---  ------------  ---  ------
+2.1.1   gi|603797|dbj|D16258.1|FLCYA6M1    GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                1..13:+   13        0..0:+    1  extra sequence detected 5' of expected sequence start [13 extra nucleotides]
+2.1.2   gi|603797|dbj|D16258.1|FLCYA6M1    GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1139..1154:+   16  1125..1125:+    1  extra sequence detected 3' of expected sequence end [16 extra nucleotides]
+2.1.3   gi|603797|dbj|D16258.1|FLCYA6M1    GM968015   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1139..1154:+   16  1125..1125:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 16]
+# 
+8.1.1   gi|2285853|dbj|D78433.1|           GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1925..1961:+   37  1968..1968:+    1  extra sequence detected 3' of expected sequence end [37 extra nucleotides]
+8.1.2   gi|2285853|dbj|D78433.1|           GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1925..1961:+   37  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 37]
+8.2.1   gi|2285853|dbj|D78433.1|           GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1925..1961:+   37  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [37>27]
+# 
+9.1.1   gi|307133374|emb|FR671421.1|       GM968019   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                1..17:+   17        0..0:+    1  extra sequence detected 5' of expected sequence start [17 extra nucleotides]
+9.1.2   gi|307133374|emb|FR671421.1|       GM968019   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2283..2363:+   81  2265..2265:+    1  extra sequence detected 3' of expected sequence end [81 extra nucleotides]
+9.1.3   gi|307133374|emb|FR671421.1|       GM968019   -     -                          -  lowsim5s  yes   LOW_SIMILARITY_START                1..17:+   17        0..0:+    1  significant similarity not detected at 5' end of the sequence [low similarity region of length 17]
+9.1.4   gi|307133374|emb|FR671421.1|       GM968019   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             2283..2363:+   81  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 81]
+9.2.1   gi|307133374|emb|FR671421.1|       GM968019   CDS   polymerase_PB1             2  insertnn  no    INSERTION_OF_NT                2283..2363:+   81  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [81>27]
+# 
+14.1.1  gi|663429457|dbj|AB899780.1|       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+14.1.2  gi|663429457|dbj|AB899780.1|       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+14.2.1  gi|663429457|dbj|AB899780.1|       GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+15.1.1  gi|1997037135|dbj|LC603647.1|      GM968019   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+15.1.2  gi|1997037135|dbj|LC603647.1|      GM968019   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+15.2.1  gi|1997037135|dbj|LC603647.1|      GM968019   CDS   polymerase_PB1             2  insertnn  no    INSERTION_OF_NT                2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+20.1.1  gi|1997037147|dbj|LC603652.1|      GM968018   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+    9  2130..2130:+    1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+21.1.1  gi|4520262|dbj|AB000613.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..3:+    3        0..0:+    1  extra sequence detected 5' of expected sequence start [3 extra nucleotides]
+21.1.2  gi|4520262|dbj|AB000613.1|         GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1129..1136:+    8  1125..1125:+    1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+28.1.1  gi|157886788|emb|AM410041.1|       GM968017   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                1..21:+   21        0..0:+    1  extra sequence detected 5' of expected sequence start [21 extra nucleotides]
+28.1.2  gi|157886788|emb|AM410041.1|       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1990..2073:+   84  1968..1968:+    1  extra sequence detected 3' of expected sequence end [84 extra nucleotides]
+28.1.3  gi|157886788|emb|AM410041.1|       GM968017   -     -                          -  lowsim5s  yes   LOW_SIMILARITY_START                1..21:+   21        0..0:+    1  significant similarity not detected at 5' end of the sequence [low similarity region of length 21]
+28.1.4  gi|157886788|emb|AM410041.1|       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1990..2073:+   84  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 84]
+28.2.1  gi|157886788|emb|AM410041.1|       GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1990..2073:+   84  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [84>27]
+# 
+29.1.1  gi|1820244073|dbj|LC512493.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+29.1.2  gi|1820244073|dbj|LC512493.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+29.2.1  gi|1820244073|dbj|LC512493.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+30.1.1  gi|1820244075|dbj|LC512494.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+30.1.2  gi|1820244075|dbj|LC512494.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+30.2.1  gi|1820244075|dbj|LC512494.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+31.1.1  gi|1820244077|dbj|LC512495.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+31.1.2  gi|1820244077|dbj|LC512495.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+31.2.1  gi|1820244077|dbj|LC512495.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+32.1.1  gi|1820244079|dbj|LC512496.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+32.1.2  gi|1820244079|dbj|LC512496.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+32.2.1  gi|1820244079|dbj|LC512496.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+33.1.1  gi|1820244081|dbj|LC512497.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+33.1.2  gi|1820244081|dbj|LC512497.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+33.2.1  gi|1820244081|dbj|LC512497.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+34.1.1  gi|1820244083|dbj|LC512498.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+34.1.2  gi|1820244083|dbj|LC512498.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+34.2.1  gi|1820244083|dbj|LC512498.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+41.1.1  gi|1820244097|dbj|LC512505.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+41.1.2  gi|1820244097|dbj|LC512505.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+41.2.1  gi|1820244097|dbj|LC512505.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+44.1.1  gi|1820244103|dbj|LC512508.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+44.1.2  gi|1820244103|dbj|LC512508.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+44.2.1  gi|1820244103|dbj|LC512508.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+45.1.1  gi|1820244105|dbj|LC512509.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+45.1.2  gi|1820244105|dbj|LC512509.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+45.2.1  gi|1820244105|dbj|LC512509.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+49.1.1  gi|2708461|dbj|D00033.1|FLCFLCYA8  NC_006306  CDS   nonstructural_protein_2    2  cdsstopn  yes   CDS_HAS_STOP_CODON               663..665:+    3    704..706:+    3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]
+49.1.2  gi|2708461|dbj|D00033.1|FLCFLCYA8  NC_006306  CDS   nonstructural_protein_2    2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..847:+  189    699..888:+  190  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]
+49.1.3  gi|2708461|dbj|D00033.1|FLCFLCYA8  NC_006306  CDS   nonstructural_protein_2    2  indf3pst  yes   INDEFINITE_ANNOTATION_END        663..847:+  185    888..888:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]
+49.2.1  gi|2708461|dbj|D00033.1|FLCFLCYA8  NC_006306  CDS   nonstructural_protein_1    4  mutendex  yes   MUTATION_AT_END                  845..847:+    3    886..888:+    3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+49.2.2  gi|2708461|dbj|D00033.1|FLCFLCYA8  NC_006306  CDS   nonstructural_protein_1    4  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..726:+   68    699..767:+   69  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]
+49.2.3  gi|2708461|dbj|D00033.1|FLCFLCYA8  NC_006306  CDS   nonstructural_protein_1    4  indf3pst  yes   INDEFINITE_ANNOTATION_END        659..726:+   68    767..767:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]
+# 
+51.1.1  gi|1561111297|dbj|LC327653.1|      GM968019   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2262..2318:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+51.1.2  gi|1561111297|dbj|LC327653.1|      GM968019   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             2262..2318:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+51.2.1  gi|1561111297|dbj|LC327653.1|      GM968019   CDS   polymerase_PB1             2  insertnn  no    INSERTION_OF_NT                2262..2318:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+53.1.1  gi|1561111301|dbj|LC327655.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1964..2027:+   64  1968..1968:+    1  extra sequence detected 3' of expected sequence end [64 extra nucleotides]
+53.1.2  gi|1561111301|dbj|LC327655.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1964..2027:+   64  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 64]
+53.2.1  gi|1561111301|dbj|LC327655.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1964..2027:+   64  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [64>27]
+# 
+58.1.1  gi|1561111313|dbj|LC327660.1|      GM968019   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2262..2318:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+58.1.2  gi|1561111313|dbj|LC327660.1|      GM968019   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             2262..2318:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+58.2.1  gi|1561111313|dbj|LC327660.1|      GM968019   CDS   polymerase_PB1             2  insertnn  no    INSERTION_OF_NT                2262..2318:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+61.1.1  gi|939829|dbj|D63503.1|FLCHE       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1950..1976:+   27  1968..1968:+    1  extra sequence detected 3' of expected sequence end [27 extra nucleotides]
+61.1.2  gi|939829|dbj|D63503.1|FLCHE       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1950..1976:+   27  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 27]
+# 
+64.1.1  gi|1446035355|dbj|LC385858.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+64.1.2  gi|1446035355|dbj|LC385858.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+64.2.1  gi|1446035355|dbj|LC385858.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+65.1.1  gi|1446035357|dbj|LC385859.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+65.1.2  gi|1446035357|dbj|LC385859.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+65.2.1  gi|1446035357|dbj|LC385859.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+68.1.1  gi|1446035363|dbj|LC385862.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+68.1.2  gi|1446035363|dbj|LC385862.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+68.2.1  gi|1446035363|dbj|LC385862.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+78.1.1  gi|1041621389|dbj|LC122635.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1949..1983:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+78.1.2  gi|1041621389|dbj|LC122635.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1949..1983:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+78.2.1  gi|1041621389|dbj|LC122635.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1949..1983:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+79.1.1  gi|1041621412|dbj|LC122636.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+79.1.2  gi|1041621412|dbj|LC122636.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+79.2.1  gi|1041621412|dbj|LC122636.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+88.1.1  gi|1041622178|dbj|LC122645.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1949..1983:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+88.1.2  gi|1041622178|dbj|LC122645.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1949..1983:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+88.2.1  gi|1041622178|dbj|LC122645.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1949..1983:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+92.1.1  gi|1041622281|dbj|LC122649.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1930..1964:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+92.1.2  gi|1041622281|dbj|LC122649.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1930..1964:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+92.2.1  gi|1041622281|dbj|LC122649.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1930..1964:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+93.1.1  gi|1041622299|dbj|LC122650.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1930..1964:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+93.1.2  gi|1041622299|dbj|LC122650.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1930..1964:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+93.2.1  gi|1041622299|dbj|LC122650.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1930..1964:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+98.1.1  gi|4520290|dbj|AB000725.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..3:+    3        0..0:+    1  extra sequence detected 5' of expected sequence start [3 extra nucleotides]
+98.1.2  gi|4520290|dbj|AB000725.1|         GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1129..1136:+    8  1125..1125:+    1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+#        seq                                           ftr   ftr                      ftr  alert           alert                                   seq   seq           mdl   mdl  alert 
+#idx     name                               model      type  name                     idx  code      fail  description                          coords   len        coords   len  detail
+#------  ---------------------------------  ---------  ----  -----------------------  ---  --------  ----  -----------------------------  ------------  ----  ------------  ----  ------
+# 
+102.1.1  gi|624862|dbj|D28967.1|FLCY788A    GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1943..1999:+    57  1968..1968:+     1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+102.1.2  gi|624862|dbj|D28967.1|FLCY788A    GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1943..1999:+    57  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+102.2.1  gi|624862|dbj|D28967.1|FLCY788A    GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1943..1999:+    57  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+103.1.1  gi|784500715|dbj|LC013259.1|       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+103.1.2  gi|784500715|dbj|LC013259.1|       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+103.2.1  gi|784500715|dbj|LC013259.1|       GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+106.1.1  gi|1449185|dbj|D63471.1|POVC       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1943..1974:+    32  1968..1968:+     1  extra sequence detected 3' of expected sequence end [32 extra nucleotides]
+106.1.2  gi|1449185|dbj|D63471.1|POVC       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1943..1974:+    32  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 32]
+106.2.1  gi|1449185|dbj|D63471.1|POVC       GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1943..1974:+    32  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [32>27]
+# 
+107.1.1  gi|1041623558|dbj|LC122664.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+107.1.2  gi|1041623558|dbj|LC122664.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+107.2.1  gi|1041623558|dbj|LC122664.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+108.1.1  gi|1041623576|dbj|LC122665.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+108.1.2  gi|1041623576|dbj|LC122665.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+108.2.1  gi|1041623576|dbj|LC122665.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+110.1.1  gi|1041623827|dbj|LC122667.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+110.2.1  gi|1041623827|dbj|LC122667.1|      GM968017   gene  HE                         1  lowsim3c  no    LOW_FEATURE_SIMILARITY_END     1951..1986:+    36  1968..1968:+     1  region overlapping annotated feature that is or matches a CDS at 3' end of sequence lacks significant similarity [1 nt overlap b/t low similarity region of length 36 (1951..1986) and annotated feature (1..1951)]
+110.3.1  gi|1041623827|dbj|LC122667.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+110.3.2  gi|1041623827|dbj|LC122667.1|      GM968017   CDS   hemagglutinin-esterase     2  lowsim3c  no    LOW_FEATURE_SIMILARITY_END     1951..1986:+    36  1968..1968:+     1  region overlapping annotated feature that is or matches a CDS at 3' end of sequence lacks significant similarity [1 nt overlap b/t low similarity region of length 36 (1951..1986) and annotated feature (1..1951)]
+# 
+113.1.1  gi|1041623891|dbj|LC122670.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+113.1.2  gi|1041623891|dbj|LC122670.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+113.2.1  gi|1041623891|dbj|LC122670.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+114.1.1  gi|1041623917|dbj|LC122671.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+114.2.1  gi|1041623917|dbj|LC122671.1|      GM968017   gene  HE                         1  lowsim3c  no    LOW_FEATURE_SIMILARITY_END     1951..1986:+    36  1968..1968:+     1  region overlapping annotated feature that is or matches a CDS at 3' end of sequence lacks significant similarity [1 nt overlap b/t low similarity region of length 36 (1951..1986) and annotated feature (1..1951)]
+114.3.1  gi|1041623917|dbj|LC122671.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+114.3.2  gi|1041623917|dbj|LC122671.1|      GM968017   CDS   hemagglutinin-esterase     2  lowsim3c  no    LOW_FEATURE_SIMILARITY_END     1951..1986:+    36  1968..1968:+     1  region overlapping annotated feature that is or matches a CDS at 3' end of sequence lacks significant similarity [1 nt overlap b/t low similarity region of length 36 (1951..1986) and annotated feature (1..1951)]
+# 
+115.1.1  gi|1041623990|dbj|LC122672.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+115.1.2  gi|1041623990|dbj|LC122672.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+115.2.1  gi|1041623990|dbj|LC122672.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+119.1.1  gi|1041624335|dbj|LC122676.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+119.1.2  gi|1041624335|dbj|LC122676.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+119.2.1  gi|1041624335|dbj|LC122676.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+120.1.1  gi|1041624511|dbj|LC122677.1|      GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+120.1.2  gi|1041624511|dbj|LC122677.1|      GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+120.2.1  gi|1041624511|dbj|LC122677.1|      GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+122.1.1  gi|2708455|dbj|D00031.1|FLCFLCJG6  NC_006306  CDS   nonstructural_protein_2    2  cdsstopn  yes   CDS_HAS_STOP_CODON               663..665:+     3    704..706:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]
+122.1.2  gi|2708455|dbj|D00031.1|FLCFLCJG6  NC_006306  CDS   nonstructural_protein_2    2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..847:+   189    699..888:+   190  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]
+122.1.3  gi|2708455|dbj|D00031.1|FLCFLCJG6  NC_006306  CDS   nonstructural_protein_2    2  indf3pst  yes   INDEFINITE_ANNOTATION_END        663..847:+   185    888..888:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]
+122.2.1  gi|2708455|dbj|D00031.1|FLCFLCJG6  NC_006306  CDS   nonstructural_protein_1    4  mutendex  yes   MUTATION_AT_END                  845..847:+     3    886..888:+     3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+122.2.2  gi|2708455|dbj|D00031.1|FLCFLCJG6  NC_006306  CDS   nonstructural_protein_1    4  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..726:+    68    699..767:+    69  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]
+122.2.3  gi|2708455|dbj|D00031.1|FLCFLCJG6  NC_006306  CDS   nonstructural_protein_1    4  indf3pst  yes   INDEFINITE_ANNOTATION_END        659..726:+    68    767..767:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]
+# 
+138.1.1  gi|8926894|dbj|AB035365.1|         GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1948..1970:+    23  1968..1968:+     1  extra sequence detected 3' of expected sequence end [23 extra nucleotides]
+138.1.2  gi|8926894|dbj|AB035365.1|         GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1948..1970:+    23  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 23]
+# 
+140.1.1  gi|4520294|dbj|AB000726.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..4:+     4        0..0:+     1  extra sequence detected 5' of expected sequence start [4 extra nucleotides]
+140.1.2  gi|4520294|dbj|AB000726.1|         GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1130..1137:+     8  1125..1125:+     1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+150.1.1  gi|2708446|dbj|D00028.1|FLCNSTY47  NC_006306  CDS   nonstructural_protein_2    2  cdsstopn  yes   CDS_HAS_STOP_CODON               663..665:+     3    704..706:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]
+150.1.2  gi|2708446|dbj|D00028.1|FLCNSTY47  NC_006306  CDS   nonstructural_protein_2    2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..847:+   189    699..888:+   190  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]
+150.1.3  gi|2708446|dbj|D00028.1|FLCNSTY47  NC_006306  CDS   nonstructural_protein_2    2  indf3pst  yes   INDEFINITE_ANNOTATION_END        663..847:+   185    888..888:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]
+150.2.1  gi|2708446|dbj|D00028.1|FLCNSTY47  NC_006306  CDS   nonstructural_protein_1    4  mutendex  yes   MUTATION_AT_END                  845..847:+     3    886..888:+     3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+150.2.2  gi|2708446|dbj|D00028.1|FLCNSTY47  NC_006306  CDS   nonstructural_protein_1    4  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..726:+    68    699..767:+    69  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]
+150.2.3  gi|2708446|dbj|D00028.1|FLCNSTY47  NC_006306  CDS   nonstructural_protein_1    4  indf3pst  yes   INDEFINITE_ANNOTATION_END        659..726:+    68    767..767:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]
+# 
+151.1.1  gi|2708452|dbj|D00030.1|FLCFLCGL5  NC_006306  CDS   nonstructural_protein_2    2  cdsstopn  yes   CDS_HAS_STOP_CODON               663..665:+     3    704..706:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]
+151.1.2  gi|2708452|dbj|D00030.1|FLCFLCGL5  NC_006306  CDS   nonstructural_protein_2    2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..847:+   189    699..888:+   190  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]
+151.1.3  gi|2708452|dbj|D00030.1|FLCFLCGL5  NC_006306  CDS   nonstructural_protein_2    2  indf3pst  yes   INDEFINITE_ANNOTATION_END        663..847:+   185    888..888:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]
+151.2.1  gi|2708452|dbj|D00030.1|FLCFLCGL5  NC_006306  CDS   nonstructural_protein_1    4  mutendex  yes   MUTATION_AT_END                  845..847:+     3    886..888:+     3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+151.2.2  gi|2708452|dbj|D00030.1|FLCFLCGL5  NC_006306  CDS   nonstructural_protein_1    4  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..726:+    68    699..767:+    69  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]
+151.2.3  gi|2708452|dbj|D00030.1|FLCFLCGL5  NC_006306  CDS   nonstructural_protein_1    4  indf3pst  yes   INDEFINITE_ANNOTATION_END        659..726:+    68    767..767:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]
+# 
+161.1.1  gi|4520298|dbj|AB000727.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..4:+     4        0..0:+     1  extra sequence detected 5' of expected sequence start [4 extra nucleotides]
+161.1.2  gi|4520298|dbj|AB000727.1|         GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1130..1137:+     8  1125..1125:+     1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+170.1.1  gi|2708464|dbj|D00034.1|FLCNSEG83  NC_006306  CDS   nonstructural_protein_2    2  cdsstopn  yes   CDS_HAS_STOP_CODON               663..665:+     3    704..706:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]
+170.1.2  gi|2708464|dbj|D00034.1|FLCNSEG83  NC_006306  CDS   nonstructural_protein_2    2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..847:+   189    699..888:+   190  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]
+170.1.3  gi|2708464|dbj|D00034.1|FLCNSEG83  NC_006306  CDS   nonstructural_protein_2    2  indf3pst  yes   INDEFINITE_ANNOTATION_END        663..847:+   185    888..888:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]
+170.2.1  gi|2708464|dbj|D00034.1|FLCNSEG83  NC_006306  CDS   nonstructural_protein_1    4  mutendex  yes   MUTATION_AT_END                  845..847:+     3    886..888:+     3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+170.2.2  gi|2708464|dbj|D00034.1|FLCNSEG83  NC_006306  CDS   nonstructural_protein_1    4  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..726:+    68    699..767:+    69  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]
+170.2.3  gi|2708464|dbj|D00034.1|FLCNSEG83  NC_006306  CDS   nonstructural_protein_1    4  indf3pst  yes   INDEFINITE_ANNOTATION_END        659..726:+    68    767..767:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]
+# 
+175.1.1  gi|4520302|dbj|AB000728.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..3:+     3        0..0:+     1  extra sequence detected 5' of expected sequence start [3 extra nucleotides]
+175.1.2  gi|4520302|dbj|AB000728.1|         GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1129..1136:+     8  1125..1125:+     1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+195.1.1  gi|8926910|dbj|AB035372.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..2:+     2        0..0:+     1  extra sequence detected 5' of expected sequence start [2 extra nucleotides]
+# 
+216.1.1  gi|307133378|emb|FR671423.1|       NC_006311  CDS   nucleoprotein              2  unexleng  yes   UNEXPECTED_LENGTH                30..1722:+  1693    30..1727:+  1698  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1693]
+216.1.2  gi|307133378|emb|FR671423.1|       NC_006311  CDS   nucleoprotein              2  cdsstopn  yes   CDS_HAS_STOP_CODON             1698..1700:+     3  1703..1705:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:22,M:22]
+216.1.3  gi|307133378|emb|FR671423.1|       NC_006311  CDS   nucleoprotein              2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF  1696..1722:+    27  1696..1727:+    32  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1695,M:1696..1700(5); frame:1(2); length:1666:(27); shifted_avgpp:0.969; exp_avgpp:0.975;]
+216.1.4  gi|307133378|emb|FR671423.1|       NC_006311  CDS   nucleoprotein              2  indf3pst  yes   INDEFINITE_ANNOTATION_END      1695..1722:+    28  1727..1727:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [28>8]
+# 
+224.1.1  gi|1041636047|dbj|LC123385.1|      GM968019   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2266..2322:+    57  2265..2265:+     1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+224.1.2  gi|1041636047|dbj|LC123385.1|      GM968019   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             2266..2322:+    57  2265..2265:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+224.2.1  gi|1041636047|dbj|LC123385.1|      GM968019   CDS   polymerase_PB1             2  insertnn  no    INSERTION_OF_NT                2266..2322:+    57  2265..2265:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+225.1.1  gi|2285828|dbj|D78408.1|           GN364866   CDS   polymerase_PB2             2  cdsstopn  yes   CDS_HAS_STOP_CODON                 91..93:+     3    121..123:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:2202]
+225.1.2  gi|2285828|dbj|D78408.1|           GN364866   CDS   polymerase_PB2             2  cdsstopp  yes   CDS_HAS_STOP_CODON                 91..93:+     3    121..123:+     3  stop codon in protein-based alignment [-]
+# 
+230.1.1  gi|1041636402|dbj|LC123391.1|      GM968019   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             2266..2322:+    57  2265..2265:+     1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+230.1.2  gi|1041636402|dbj|LC123391.1|      GM968019   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             2266..2322:+    57  2265..2265:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+230.2.1  gi|1041636402|dbj|LC123391.1|      GM968019   CDS   polymerase_PB1             2  insertnn  no    INSERTION_OF_NT                2266..2322:+    57  2265..2265:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+#        seq                                         ftr   ftr                     ftr  alert           alert                        seq  seq           mdl  mdl  alert 
+#idx     name                              model     type  name                    idx  code      fail  description               coords  len        coords  len  detail
+#------  --------------------------------  --------  ----  ----------------------  ---  --------  ----  ------------------  ------------  ---  ------------  ---  ------
+# 
+234.1.1  gi|1041637072|dbj|LC123395.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+234.1.2  gi|1041637072|dbj|LC123395.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+234.2.1  gi|1041637072|dbj|LC123395.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+238.1.1  gi|1041637412|dbj|LC123399.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+238.1.2  gi|1041637412|dbj|LC123399.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+238.2.1  gi|1041637412|dbj|LC123399.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+240.1.1  gi|1041637474|dbj|LC123401.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+240.1.2  gi|1041637474|dbj|LC123401.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+240.2.1  gi|1041637474|dbj|LC123401.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+243.1.1  gi|1041637601|dbj|LC123404.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+243.1.2  gi|1041637601|dbj|LC123404.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+243.2.1  gi|1041637601|dbj|LC123404.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+244.1.1  gi|1041637666|dbj|LC123405.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+244.1.2  gi|1041637666|dbj|LC123405.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+244.2.1  gi|1041637666|dbj|LC123405.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+246.1.1  gi|1041637803|dbj|LC123407.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+246.1.2  gi|1041637803|dbj|LC123407.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+246.2.1  gi|1041637803|dbj|LC123407.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+248.1.1  gi|1041638032|dbj|LC123409.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+248.1.2  gi|1041638032|dbj|LC123409.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+248.2.1  gi|1041638032|dbj|LC123409.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+252.1.1  gi|1041638267|dbj|LC123413.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+252.1.2  gi|1041638267|dbj|LC123413.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+252.2.1  gi|1041638267|dbj|LC123413.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+260.1.1  gi|1041638789|dbj|LC123421.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+260.1.2  gi|1041638789|dbj|LC123421.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+260.2.1  gi|1041638789|dbj|LC123421.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+262.1.1  gi|1041639159|dbj|LC123423.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+262.1.2  gi|1041639159|dbj|LC123423.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+262.2.1  gi|1041639159|dbj|LC123423.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+267.1.1  gi|1041639582|dbj|LC123428.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+267.1.2  gi|1041639582|dbj|LC123428.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+267.2.1  gi|1041639582|dbj|LC123428.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+270.1.1  gi|1041639712|dbj|LC123431.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+270.1.2  gi|1041639712|dbj|LC123431.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+270.2.1  gi|1041639712|dbj|LC123431.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+271.1.1  gi|1041639881|dbj|LC123432.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+271.1.2  gi|1041639881|dbj|LC123432.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+271.2.1  gi|1041639881|dbj|LC123432.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+274.1.1  gi|1041640041|dbj|LC123435.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+274.1.2  gi|1041640041|dbj|LC123435.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+274.2.1  gi|1041640041|dbj|LC123435.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+275.1.1  gi|1041640163|dbj|LC123436.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+275.1.2  gi|1041640163|dbj|LC123436.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+275.2.1  gi|1041640163|dbj|LC123436.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+278.1.1  gi|1041640371|dbj|LC123439.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+278.1.2  gi|1041640371|dbj|LC123439.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+278.2.1  gi|1041640371|dbj|LC123439.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+280.1.1  gi|1041640507|dbj|LC123441.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+280.1.2  gi|1041640507|dbj|LC123441.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+280.2.1  gi|1041640507|dbj|LC123441.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+282.1.1  gi|1041640586|dbj|LC123443.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+282.1.2  gi|1041640586|dbj|LC123443.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+282.2.1  gi|1041640586|dbj|LC123443.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+283.1.1  gi|1041640682|dbj|LC123444.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+283.1.2  gi|1041640682|dbj|LC123444.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+283.2.1  gi|1041640682|dbj|LC123444.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+287.1.1  gi|1041641055|dbj|LC123448.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+287.1.2  gi|1041641055|dbj|LC123448.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+287.2.1  gi|1041641055|dbj|LC123448.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+288.1.1  gi|1041641068|dbj|LC123449.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+288.1.2  gi|1041641068|dbj|LC123449.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+288.2.1  gi|1041641068|dbj|LC123449.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+289.1.1  gi|1041641156|dbj|LC123450.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+289.1.2  gi|1041641156|dbj|LC123450.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+289.2.1  gi|1041641156|dbj|LC123450.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+290.1.1  gi|1041641215|dbj|LC123451.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+290.1.2  gi|1041641215|dbj|LC123451.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+290.2.1  gi|1041641215|dbj|LC123451.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+291.1.1  gi|1041641242|dbj|LC123452.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+291.1.2  gi|1041641242|dbj|LC123452.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+291.2.1  gi|1041641242|dbj|LC123452.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+292.1.1  gi|1041641346|dbj|LC123453.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+292.1.2  gi|1041641346|dbj|LC123453.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+292.2.1  gi|1041641346|dbj|LC123453.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+293.1.1  gi|1041641372|dbj|LC123454.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+293.1.2  gi|1041641372|dbj|LC123454.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+293.2.1  gi|1041641372|dbj|LC123454.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+294.1.1  gi|1041641388|dbj|LC123455.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+294.1.2  gi|1041641388|dbj|LC123455.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+294.2.1  gi|1041641388|dbj|LC123455.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+296.1.1  gi|1041641556|dbj|LC123457.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+296.1.2  gi|1041641556|dbj|LC123457.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+296.2.1  gi|1041641556|dbj|LC123457.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+297.1.1  gi|624861|dbj|D28971.1|FLCY2681E  GM968017  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  1952..2019:+   68  1968..1968:+    1  extra sequence detected 3' of expected sequence end [68 extra nucleotides]
+297.1.2  gi|624861|dbj|D28971.1|FLCY2681E  GM968017  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  1952..2019:+   68  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 68]
+297.2.1  gi|624861|dbj|D28971.1|FLCY2681E  GM968017  CDS   hemagglutinin-esterase    2  insertnn  no    INSERTION_OF_NT     1952..2019:+   68  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [68>27]
+# 
+298.1.1  gi|1041641609|dbj|LC123459.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+298.1.2  gi|1041641609|dbj|LC123459.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+298.2.1  gi|1041641609|dbj|LC123459.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+299.1.1  gi|1041641733|dbj|LC123460.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+299.1.2  gi|1041641733|dbj|LC123460.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+299.2.1  gi|1041641733|dbj|LC123460.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+306.1.1  gi|1041642155|dbj|LC123467.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+306.1.2  gi|1041642155|dbj|LC123467.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+306.2.1  gi|1041642155|dbj|LC123467.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+308.1.1  gi|1041642356|dbj|LC123469.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+308.1.2  gi|1041642356|dbj|LC123469.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+308.2.1  gi|1041642356|dbj|LC123469.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+312.1.1  gi|1041642585|dbj|LC123473.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+312.1.2  gi|1041642585|dbj|LC123473.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+312.2.1  gi|1041642585|dbj|LC123473.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+# 
+313.1.1  gi|1041642664|dbj|LC123474.1|     GM968019  -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END  2266..2322:+   57  2265..2265:+    1  extra sequence detected 3' of expected sequence end [57 extra nucleotides]
+313.1.2  gi|1041642664|dbj|LC123474.1|     GM968019  -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END  2266..2322:+   57  2265..2265:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 57]
+313.2.1  gi|1041642664|dbj|LC123474.1|     GM968019  CDS   polymerase_PB1            2  insertnn  no    INSERTION_OF_NT     2266..2322:+   57  2265..2265:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [57>27]
+#        seq                                       ftr   ftr                     ftr  alert           alert                                   seq   seq           mdl   mdl  alert 
+#idx     name                           model      type  name                    idx  code      fail  description                          coords   len        coords   len  detail
+#------  -----------------------------  ---------  ----  ----------------------  ---  --------  ----  -----------------------------  ------------  ----  ------------  ----  ------
+# 
+317.1.1  gi|4520238|dbj|AB000607.1|     GM968015   -     -                         -  extrant5  yes   EXTRA_SEQUENCE_START                 1..3:+     3        0..0:+     1  extra sequence detected 5' of expected sequence start [3 extra nucleotides]
+317.1.2  gi|4520238|dbj|AB000607.1|     GM968015   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1129..1136:+     8  1125..1125:+     1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+326.1.1  gi|1041644251|dbj|LC123487.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+328.1.1  gi|1041644376|dbj|LC123489.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+329.1.1  gi|1041644494|dbj|LC123490.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+330.1.1  gi|784500736|dbj|LC013255.1|   GM968017   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+330.1.2  gi|784500736|dbj|LC013255.1|   GM968017   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+330.2.1  gi|784500736|dbj|LC013255.1|   GM968017   CDS   hemagglutinin-esterase    2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+331.1.1  gi|1041644649|dbj|LC123492.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+335.1.1  gi|1041645169|dbj|LC123496.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+336.1.1  gi|1041645398|dbj|LC123497.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+338.1.1  gi|1041645566|dbj|LC123499.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2141:+    11  2130..2130:+     1  extra sequence detected 3' of expected sequence end [11 extra nucleotides]
+# 
+339.1.1  gi|1041645626|dbj|LC123500.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+340.1.1  gi|1041645688|dbj|LC123501.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+343.1.1  gi|1041646073|dbj|LC123504.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2141:+    11  2130..2130:+     1  extra sequence detected 3' of expected sequence end [11 extra nucleotides]
+# 
+344.1.1  gi|1041646169|dbj|LC123505.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+345.1.1  gi|1041646248|dbj|LC123506.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+346.1.1  gi|1041646396|dbj|LC123507.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+353.1.1  gi|538774762|dbj|AB751603.1|   GM968017   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1927..1934:+     8  1968..1968:+     1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+354.1.1  gi|1449193|dbj|D63467.1|POVY1  GM968017   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1945..1976:+    32  1968..1968:+     1  extra sequence detected 3' of expected sequence end [32 extra nucleotides]
+354.1.2  gi|1449193|dbj|D63467.1|POVY1  GM968017   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             1945..1976:+    32  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 32]
+354.2.1  gi|1449193|dbj|D63467.1|POVY1  GM968017   CDS   hemagglutinin-esterase    2  insertnn  no    INSERTION_OF_NT                1945..1976:+    32  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [32>27]
+# 
+355.1.1  gi|1041647297|dbj|LC123516.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+356.1.1  gi|1041647338|dbj|LC123517.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+357.1.1  gi|1041647471|dbj|LC123518.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+361.1.1  gi|1041647794|dbj|LC123522.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+363.1.1  gi|1041647973|dbj|LC123524.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+369.1.1  gi|1041648226|dbj|LC123530.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+371.1.1  gi|2618614|dbj|D49361.1|       GM968017   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1983:+    32  1968..1968:+     1  extra sequence detected 3' of expected sequence end [32 extra nucleotides]
+371.1.2  gi|2618614|dbj|D49361.1|       GM968017   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1983:+    32  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 32]
+371.2.1  gi|2618614|dbj|D49361.1|       GM968017   CDS   hemagglutinin-esterase    2  insertnn  no    INSERTION_OF_NT                1952..1983:+    32  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [32>27]
+# 
+372.1.1  gi|1041648641|dbj|LC123533.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+378.1.1  gi|1041649070|dbj|LC123539.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+381.1.1  gi|1041649195|dbj|LC123542.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+384.1.1  gi|1041649471|dbj|LC123545.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+385.1.1  gi|1041649604|dbj|LC123546.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+387.1.1  gi|1041649710|dbj|LC123548.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+388.1.1  gi|1041649869|dbj|LC123549.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+390.1.1  gi|1041650057|dbj|LC123551.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+395.1.1  gi|63147263|dbj|D88428.1|      GM968017   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1930..2012:+    83  1968..1968:+     1  extra sequence detected 3' of expected sequence end [83 extra nucleotides]
+395.1.2  gi|63147263|dbj|D88428.1|      GM968017   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             1930..2012:+    83  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 83]
+395.2.1  gi|63147263|dbj|D88428.1|      GM968017   CDS   hemagglutinin-esterase    2  insertnn  no    INSERTION_OF_NT                1930..2012:+    83  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [83>27]
+# 
+396.1.1  gi|1041650656|dbj|LC123557.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+402.1.1  gi|1041651165|dbj|LC123563.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+403.1.1  gi|1041651243|dbj|LC123564.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+404.1.1  gi|1041634138|dbj|LC123565.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+405.1.1  gi|784500731|dbj|LC013256.1|   GM968017   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+    35  1968..1968:+     1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+405.1.2  gi|784500731|dbj|LC013256.1|   GM968017   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+    35  1968..1968:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+405.2.1  gi|784500731|dbj|LC013256.1|   GM968017   CDS   hemagglutinin-esterase    2  insertnn  no    INSERTION_OF_NT                1952..1986:+    35  1968..1968:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+409.1.1  gi|1041651416|dbj|LC123570.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+412.1.1  gi|1041651525|dbj|LC123573.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+416.1.1  gi|1041651904|dbj|LC123577.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+418.1.1  gi|1041651958|dbj|LC123579.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+419.1.1  gi|1041652020|dbj|LC123580.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+421.1.1  gi|1041652151|dbj|LC123582.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2141:+    11  2130..2130:+     1  extra sequence detected 3' of expected sequence end [11 extra nucleotides]
+# 
+422.1.1  gi|1041652247|dbj|LC123583.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+423.1.1  gi|1041652356|dbj|LC123584.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+425.1.1  gi|1041652565|dbj|LC123586.1|  GM968018   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2131..2139:+     9  2130..2130:+     1  extra sequence detected 3' of expected sequence end [9 extra nucleotides]
+# 
+428.1.1  gi|1041652694|dbj|LC123722.1|  NC_006311  CDS   nucleoprotein             2  unexleng  yes   UNEXPECTED_LENGTH                 1..1693:+  1693    30..1727:+  1698  length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1693]
+428.1.2  gi|1041652694|dbj|LC123722.1|  NC_006311  CDS   nucleoprotein             2  cdsstopn  yes   CDS_HAS_STOP_CODON             1669..1671:+     3  1703..1705:+     3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:22,M:22]
+428.1.3  gi|1041652694|dbj|LC123722.1|  NC_006311  CDS   nucleoprotein             2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF  1667..1693:+    27  1696..1727:+    32  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1666,M:1696..1700(5); frame:1(2); length:1666:(27); shifted_avgpp:0.969; exp_avgpp:0.975;]
+428.1.4  gi|1041652694|dbj|LC123722.1|  NC_006311  CDS   nucleoprotein             2  indf3pst  yes   INDEFINITE_ANNOTATION_END      1663..1693:+    31  1727..1727:+     1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [31>8]
+# 
+429.1.1  gi|298354674|dbj|AB126196.2|   GM968015   -     -                         -  extrant5  yes   EXTRA_SEQUENCE_START                1..25:+    25        0..0:+     1  extra sequence detected 5' of expected sequence start [25 extra nucleotides]
+429.1.2  gi|298354674|dbj|AB126196.2|   GM968015   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1151..1180:+    30  1125..1125:+     1  extra sequence detected 3' of expected sequence end [30 extra nucleotides]
+429.1.3  gi|298354674|dbj|AB126196.2|   GM968015   -     -                         -  lowsim5s  yes   LOW_SIMILARITY_START                1..25:+    25        0..0:+     1  significant similarity not detected at 5' end of the sequence [low similarity region of length 25]
+429.1.4  gi|298354674|dbj|AB126196.2|   GM968015   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             1151..1180:+    30  1125..1125:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 30]
+429.2.1  gi|298354674|dbj|AB126196.2|   GM968015   CDS   CM2_protein               4  insertnn  no    INSERTION_OF_NT                1151..1180:+    30  1125..1125:+     1  too large of an insertion in nucleotide-based alignment of CDS feature [30>27]
+# 
+432.1.1  gi|307133372|emb|FR671420.1|   GN364866   -     -                         -  extrant5  yes   EXTRA_SEQUENCE_START                1..21:+    21        0..0:+     1  extra sequence detected 5' of expected sequence start [21 extra nucleotides]
+432.1.2  gi|307133372|emb|FR671420.1|   GN364866   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             2347..2365:+    19  2325..2325:+     1  extra sequence detected 3' of expected sequence end [19 extra nucleotides]
+432.1.3  gi|307133372|emb|FR671420.1|   GN364866   -     -                         -  lowsim5s  yes   LOW_SIMILARITY_START                1..21:+    21        0..0:+     1  significant similarity not detected at 5' end of the sequence [low similarity region of length 21]
+432.1.4  gi|307133372|emb|FR671420.1|   GN364866   -     -                         -  lowsim3s  yes   LOW_SIMILARITY_END             2347..2365:+    19  2325..2325:+     1  significant similarity not detected at 3' end of the sequence [low similarity region of length 19]
+# 
+439.1.1  gi|4520274|dbj|AB000721.1|     GM968015   -     -                         -  extrant5  yes   EXTRA_SEQUENCE_START                 1..4:+     4        0..0:+     1  extra sequence detected 5' of expected sequence start [4 extra nucleotides]
+439.1.2  gi|4520274|dbj|AB000721.1|     GM968015   -     -                         -  extrant3  yes   EXTRA_SEQUENCE_END             1130..1137:+     8  1125..1125:+     1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+#        seq                                           ftr   ftr                      ftr  alert           alert                                   seq  seq           mdl  mdl  alert 
+#idx     name                               model      type  name                     idx  code      fail  description                          coords  len        coords  len  detail
+#------  ---------------------------------  ---------  ----  -----------------------  ---  --------  ----  -----------------------------  ------------  ---  ------------  ---  ------
+# 
+446.1.1  gi|663429449|dbj|AB899776.1|       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1952..1986:+   35  1968..1968:+    1  extra sequence detected 3' of expected sequence end [35 extra nucleotides]
+446.1.2  gi|663429449|dbj|AB899776.1|       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1952..1986:+   35  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 35]
+446.2.1  gi|663429449|dbj|AB899776.1|       GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1952..1986:+   35  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [35>27]
+# 
+462.1.1  gi|1449191|dbj|D63468.1|POVS       GM968017   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1947..1995:+   49  1968..1968:+    1  extra sequence detected 3' of expected sequence end [49 extra nucleotides]
+462.1.2  gi|1449191|dbj|D63468.1|POVS       GM968017   -     -                          -  lowsim3s  yes   LOW_SIMILARITY_END             1947..1995:+   49  1968..1968:+    1  significant similarity not detected at 3' end of the sequence [low similarity region of length 49]
+462.2.1  gi|1449191|dbj|D63468.1|POVS       GM968017   CDS   hemagglutinin-esterase     2  insertnn  no    INSERTION_OF_NT                1947..1995:+   49  1968..1968:+    1  too large of an insertion in nucleotide-based alignment of CDS feature [49>27]
+# 
+473.1.1  gi|4520226|dbj|AB000604.1|         GM968015   -     -                          -  extrant5  yes   EXTRA_SEQUENCE_START                 1..3:+    3        0..0:+    1  extra sequence detected 5' of expected sequence start [3 extra nucleotides]
+473.1.2  gi|4520226|dbj|AB000604.1|         GM968015   -     -                          -  extrant3  yes   EXTRA_SEQUENCE_END             1129..1136:+    8  1125..1125:+    1  extra sequence detected 3' of expected sequence end [8 extra nucleotides]
+# 
+484.1.1  gi|2708458|dbj|D00032.1|FLCFLCMS8  NC_006306  CDS   nonstructural_protein_2    2  cdsstopn  yes   CDS_HAS_STOP_CODON               663..665:+    3    704..706:+    3  in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]
+484.1.2  gi|2708458|dbj|D00032.1|FLCFLCMS8  NC_006306  CDS   nonstructural_protein_2    2  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..847:+  189    699..888:+  190  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]
+484.1.3  gi|2708458|dbj|D00032.1|FLCFLCMS8  NC_006306  CDS   nonstructural_protein_2    2  indf3pst  yes   INDEFINITE_ANNOTATION_END        663..847:+  185    888..888:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]
+484.2.1  gi|2708458|dbj|D00032.1|FLCFLCMS8  NC_006306  CDS   nonstructural_protein_1    4  mutendex  yes   MUTATION_AT_END                  845..847:+    3    886..888:+    3  expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]
+484.2.2  gi|2708458|dbj|D00032.1|FLCFLCMS8  NC_006306  CDS   nonstructural_protein_1    4  fsthicft  yes   POSSIBLE_FRAMESHIFT_HIGH_CONF    659..726:+   68    699..767:+   69  high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]
+484.2.3  gi|2708458|dbj|D00032.1|FLCFLCMS8  NC_006306  CDS   nonstructural_protein_1    4  indf3pst  yes   INDEFINITE_ANNOTATION_END        659..726:+   68    767..767:+    1  protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]

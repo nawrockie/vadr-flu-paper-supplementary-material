@@ -1,0 +1,1001 @@
+>Feature gi|1808630680|gb|MT049469.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1808630680_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1808630680_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1095420743|gb|KY043636.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1095420743_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1095420743_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1808805050|gb|MT057591.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1808805050_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1808805050_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1690477228|gb|MN085569.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1690477228_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1690477228_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1852395612|gb|MT600863.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1852395612_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	1852395612_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1829646217|gb|MT314869.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1829646217_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1829646217_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1418598135|gb|MH583324.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1418598135_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1418598135_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|512771255|gb|KF216657.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	512771255_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	512771255_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1191949504|gb|CY231777.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1191949504_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1191949504_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1148363390|gb|CY217462.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1148363390_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1148363390_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1073686777|gb|KX921940.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1073686777_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1073686777_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1783416844|gb|MN819267.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1783416844_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1783416844_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1808805198|gb|MT057639.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1808805198_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1808805198_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|594219902|gb|CY175613.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	594219902_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	594219902_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1048083796|gb|KX617691.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1048083796_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1048083796_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1700040468|gb|MN155928.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1700040468_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1700040468_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1048091730|gb|KX612472.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1048091730_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1048091730_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1048089162|gb|KX612891.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1048089162_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1048089162_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1812036532|gb|MT105668.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1812036532_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1812036532_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1806617145|gb|MT030425.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1806617145_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1806617145_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1829646667|gb|MT315058.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1829646667_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1829646667_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1423484545|gb|MH607004.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1423484545_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1423484545_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1101973152|gb|CY208031.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1101973152_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	1101973152_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1102595055|gb|KY116866.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1102595055_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1102595055_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1418598671|gb|MH583499.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1418598671_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1418598671_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1597128047|gb|MK676250.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1597128047_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1597128047_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1128386769|gb|CY211320.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1128386769_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1128386769_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1829646027|gb|MT314789.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1829646027_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1829646027_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1829648250|gb|MT315725.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1829648250_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1829648250_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1806617789|gb|MT030696.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1806617789_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1806617789_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|2158459454|gb|OL693942.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2158459454_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	2158459454_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1418593252|gb|MH581491.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1418593252_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1418593252_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1808631804|gb|MT049939.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1808631804_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1808631804_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|549277268|gb|CY150059.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	549277268_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	549277268_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1806617561|gb|MT030600.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1806617561_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1806617561_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1766872715|gb|MN581112.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1766872715_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1766872715_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1000787508|gb|CY200322.1|
+9	755	gene
+			gene	M1
+9	755	CDS
+			product	matrix protein 1
+			protein_id	1000787508_1
+755	1084	gene
+			gene	BM2
+755	1084	CDS
+			product	BM2 protein
+			protein_id	1000787508_2
+
+Additional note(s) to submitter:
+ERROR: MUTATION_AT_START: (CDS:BM2 protein) expected start codon could not be identified [ATT]; seq-coords:755..757:+; mdl-coords:771..773:+; mdl:AY504605;
+>Feature gi|1675231675|gb|MK996069.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1675231675_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1675231675_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|908275106|gb|KT283446.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	908275106_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	908275106_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1824629824|gb|MT243903.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1824629824_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1824629824_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|484849268|gb|KC866606.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	484849268_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	484849268_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1423483779|gb|MH606682.1|
+35	337	gene
+			gene	NB
+35	337	CDS
+			product	NB protein
+			protein_id	1423483779_1
+42	1442	gene
+			gene	NA
+42	1442	CDS
+			product	neuraminidase
+			protein_id	1423483779_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:NB protein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:108,M:108]; seq-coords:227..229:+; mdl-coords:239..241:+; mdl:AY191501;
+ERROR: CDS_HAS_STOP_CODON: (CDS:NB protein) stop codon in protein-based alignment [-]; seq-coords:227..229:+; mdl-coords:239..241:+; mdl:AY191501;
+>Feature gi|1750467734|gb|MN507151.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1750467734_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1750467734_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|2087422841|gb|MZ951496.1|
+30	1056	gene
+			gene	NEP
+			gene_syn	NS2
+30	878	gene
+			gene	NS1
+30	65	CDS
+721	1056
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2087422841_1
+30	878	CDS
+			product	nonstructural protein 1
+			protein_id	2087422841_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:30..38:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:30..38:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|594265086|gb|CY171899.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	594265086_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	594265086_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1832102890|gb|MT342872.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1832102890_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1832102890_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1852395327|gb|MT600743.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1852395327_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	1852395327_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|549412009|gb|CY153838.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	549412009_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	549412009_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1783417528|gb|MN819555.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1783417528_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1783417528_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1834444381|gb|MT375847.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1834444381_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1834444381_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|594265159|gb|CY171907.1|
+1	1027	gene
+			gene	NEP
+			gene_syn	NS2
+1	849	gene
+			gene	NS1
+1	36	CDS
+692	1027
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	594265159_1
+1	849	CDS
+			product	nonstructural protein 1
+			protein_id	594265159_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:1..9:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1198318456|gb|CY233596.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1198318456_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1198318456_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1808630527|gb|MT049405.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1808630527_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1808630527_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1806618143|gb|MT030824.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1806618143_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1806618143_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1824627354|gb|MT243319.1|
+29	1055	gene
+			gene	NEP
+			gene_syn	NS2
+29	877	gene
+			gene	NS1
+29	64	CDS
+720	1055
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1824627354_1
+29	877	CDS
+			product	nonstructural protein 1
+			protein_id	1824627354_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:29..37:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|1806616107|gb|MT029988.1|
+28	1054	gene
+			gene	NEP
+			gene_syn	NS2
+28	876	gene
+			gene	NS1
+28	63	CDS
+719	1054
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	1806616107_1
+28	876	CDS
+			product	nonstructural protein 1
+			protein_id	1806616107_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:28..36:+; mdl-coords:44..44:+; mdl:AY504614;

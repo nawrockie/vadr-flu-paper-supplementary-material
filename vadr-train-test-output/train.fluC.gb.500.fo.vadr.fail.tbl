@@ -1,0 +1,1340 @@
+>Feature gi|1250175388|ref|NC_006307.2|
+22	2346	gene
+			gene	PB2
+22	2346	CDS
+			product	polymerase PB2
+			protein_id	1250175388_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [19 extra nucleotides]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 19]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+>Feature gi|1250175389|ref|NC_006308.2|
+18	2282	gene
+			gene	PB1
+18	2282	CDS
+			product	polymerase PB1
+			protein_id	1250175389_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [81 extra nucleotides]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [17 extra nucleotides]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 81]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+>Feature gi|1250175390|ref|NC_006309.2|
+22	2151	gene
+			gene	P3
+22	2151	CDS
+			product	polymerase P3
+			protein_id	1250175390_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [32 extra nucleotides]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 32]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+>Feature gi|1250175391|ref|NC_006310.2|
+22	1989	gene
+			gene	HE
+22	1989	CDS
+			product	hemagglutinin-esterase
+			protein_id	1250175391_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|1250175392|ref|NC_006312.2|
+26	982	gene
+			gene	M1
+26	753	CDS
+982	982
+			product	matrix protein 1
+			protein_id	1250175392_1
+731	1150	gene
+			gene	CM2
+731	1150	CDS
+			product	CM2 protein
+			protein_id	1250175392_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [30 extra nucleotides]; seq-coords:1151..1180:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [25 extra nucleotides]; seq-coords:1..25:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 30]; seq-coords:1151..1180:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 25]; seq-coords:1..25:+; mdl-coords:0..0:+; mdl:GM968015;
+>Feature gi|325362|gb|M28060.1|FLCPB1A
+18	2282	gene
+			gene	PB1
+18	2282	CDS
+			product	polymerase PB1
+			protein_id	325362_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [81 extra nucleotides]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [17 extra nucleotides]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 81]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+>Feature gi|2133416961|gb|OK625706.1|
+20	976	gene
+			gene	M1
+20	747	CDS
+976	976
+			product	matrix protein 1
+			protein_id	2133416961_1
+725	1144	gene
+			gene	CM2
+725	1144	CDS
+			product	CM2 protein
+			protein_id	2133416961_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [21 extra nucleotides]; seq-coords:1145..1165:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [19 extra nucleotides]; seq-coords:1..19:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 21]; seq-coords:1145..1165:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 19]; seq-coords:1..19:+; mdl-coords:0..0:+; mdl:GM968015;
+>Feature gi|2133416962|gb|OK625707.1|
+15	2144	gene
+			gene	P3
+15	2144	CDS
+			product	polymerase P3
+			protein_id	2133416962_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [18 extra nucleotides]; seq-coords:2145..2162:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [14 extra nucleotides]; seq-coords:1..14:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 18]; seq-coords:2145..2162:+; mdl-coords:2130..2130:+; mdl:GM968018;
+>Feature gi|2133416963|gb|OK625708.1|
+11	2275	gene
+			gene	PB1
+11	2275	CDS
+			product	polymerase PB1
+			protein_id	2133416963_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [72 extra nucleotides]; seq-coords:2276..2347:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [10 extra nucleotides]; seq-coords:1..10:+; mdl-coords:0..0:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 72]; seq-coords:2276..2347:+; mdl-coords:2265..2265:+; mdl:GM968019;
+>Feature gi|2133416964|gb|OK625709.1|
+13	2337	gene
+			gene	PB2
+13	2337	CDS
+			product	polymerase PB2
+			protein_id	2133416964_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [11 extra nucleotides]; seq-coords:2338..2348:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [12 extra nucleotides]; seq-coords:1..12:+; mdl-coords:0..0:+; mdl:GN364866;
+>Feature gi|325333|gb|M22015.1|FLCJJNS
+1	>366	gene
+			gene	NEP
+			gene_syn	NS2
+1	>366	gene
+			gene	NS1
+1	187	CDS
+188	>366
+			product	nonstructural protein 2
+			protein_id	325333_1
+1	>366	CDS
+			product	nonstructural protein 1
+			protein_id	325333_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:182]; seq-coords:364..366:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:359,M:699(1); frame:1(3)>; length:359:(7)>; shifted_avgpp:0.875; exp_avgpp:0.957;]; seq-coords:360..366:+; mdl-coords:699..706:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) alignment to homology model has low confidence at 3' boundary for feature that does not match a CDS [0.10<0.80, segment 1 of 2]; seq-coords:187..187:+; mdl-coords:213..213:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 2) alignment to homology model has low confidence at 5' boundary for feature that does not match a CDS [0.30<0.80, segment 2 of 2]; seq-coords:188..188:+; mdl-coords:527..527:+; mdl:NC_006306;
+ERROR: MUTATION_AT_SPLICE_SITE: (CDS:nonstructural protein 2) expected splice site at 3' end of intron (AG) could not be identified [TA, intron#1]; seq-coords:186..187:+; mdl-coords:212..213:+; mdl:NC_006306;
+ERROR: MUTATION_AT_SPLICE_SITE: (CDS:nonstructural protein 2) expected splice site at 5' end of intron (GT) could not be identified [AA, intron#1]; seq-coords:188..189:+; mdl-coords:527..528:+; mdl:NC_006306;
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 1) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted M:61]; seq-coords:364..366:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:187,M:214..526(313); frame:1(32)>; length:187:(172:7)>; shifted_avgpp:0.954; exp_avgpp:0.959; intermediate:delete,S:359,M:699(1);]; seq-coords:188..366:+; mdl-coords:214..706:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [180>5, no valid stop codon in nucleotide-based prediction]; seq-coords:187..366:+; mdl-coords:767..767:+; mdl:NC_006306;
+>Feature gi|2221769265|gb|MH828689.1|
+1	957	gene
+			gene	M1
+1	728	CDS
+957	957
+			product	matrix protein 1
+			protein_id	2221769265_1
+706	1125	gene
+			gene	CM2
+706	1125	CDS
+			product	CM2 protein
+			protein_id	2221769265_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [30 extra nucleotides]; seq-coords:1126..1155:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 30]; seq-coords:1126..1155:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|2221769346|gb|MH828692.1|
+22	2151	gene
+			gene	P3
+22	2151	CDS
+			product	polymerase P3
+			protein_id	2221769346_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [32 extra nucleotides]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 32]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+>Feature gi|2221769371|gb|MH828693.1|
+1	2265	gene
+			gene	PB1
+1	2265	CDS
+			product	polymerase PB1
+			protein_id	2221769371_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [57 extra nucleotides]; seq-coords:2266..2322:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 57]; seq-coords:2266..2322:+; mdl-coords:2265..2265:+; mdl:GM968019;
+>Feature gi|325339|gb|M15088.1|FLCNSAA
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325339_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325339_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|325360|gb|M28062.1|FLCP3A
+22	2151	gene
+			gene	P3
+22	2151	CDS
+			product	polymerase P3
+			protein_id	325360_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [32 extra nucleotides]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 32]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+>Feature gi|325303|gb|M22038.1|FLCCJJM
+26	982	gene
+			gene	M1
+26	753	CDS
+982	982
+			product	matrix protein 1
+			protein_id	325303_1
+731	1150	gene
+			gene	CM2
+731	1150	CDS
+			product	CM2 protein
+			protein_id	325303_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [30 extra nucleotides]; seq-coords:1151..1180:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [25 extra nucleotides]; seq-coords:1..25:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 30]; seq-coords:1151..1180:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 25]; seq-coords:1..25:+; mdl-coords:0..0:+; mdl:GM968015;
+>Feature gi|325342|gb|M15094.1|FLCNSE
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325342_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325342_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|325348|gb|M15090.1|FLCNSJ
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325348_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325348_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|1393270562|gb|MH348113.1|
+1	2325	gene
+			gene	PB2
+1	2325	CDS
+			product	polymerase PB2
+			protein_id	1393270562_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [3 extra nucleotides]; seq-coords:2326..2328:+; mdl-coords:2325..2325:+; mdl:GN364866;
+>Feature gi|1393270563|gb|MH348114.1|
+1	2265	gene
+			gene	PB1
+1	2265	CDS
+			product	polymerase PB1
+			protein_id	1393270563_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [32 extra nucleotides]; seq-coords:2266..2297:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 32]; seq-coords:2266..2297:+; mdl-coords:2265..2265:+; mdl:GM968019;
+>Feature gi|1393270564|gb|MH348115.1|
+11	2140	gene
+			gene	P3
+11	2140	CDS
+			product	polymerase P3
+			protein_id	1393270564_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [16 extra nucleotides]; seq-coords:2141..2156:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [10 extra nucleotides]; seq-coords:1..10:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 16]; seq-coords:2141..2156:+; mdl-coords:2130..2130:+; mdl:GM968018;
+>Feature gi|1393270566|gb|MH348116.1|
+<1	1947	gene
+			gene	HE
+<1	1947	CDS
+			product	hemagglutinin-esterase
+			codon_start	1
+			protein_id	1393270566_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [45 extra nucleotides]; seq-coords:1948..1992:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 45]; seq-coords:1948..1992:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1418516328|gb|MH348118.2|
+4	960	gene
+			gene	M1
+4	731	CDS
+960	960
+			product	matrix protein 1
+			protein_id	1418516328_1
+709	1128	gene
+			gene	CM2
+709	1128	CDS
+			product	CM2 protein
+			protein_id	1418516328_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [18 extra nucleotides]; seq-coords:1129..1146:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 18]; seq-coords:1129..1146:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195632|gb|CY239417.1|
+<1	1941	gene
+			gene	HE
+<1	1941	CDS
+			product	hemagglutinin-esterase
+			codon_start	1
+			protein_id	1229195632_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [30 extra nucleotides]; seq-coords:1942..1971:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 30]; seq-coords:1942..1971:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195634|gb|CY239418.1|
+<1	1947	gene
+			gene	HE
+<1	1947	CDS
+			product	hemagglutinin-esterase
+			codon_start	1
+			protein_id	1229195634_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [62 extra nucleotides]; seq-coords:1948..2009:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 62]; seq-coords:1948..2009:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195636|gb|CY239419.1|
+<1	946	gene
+			gene	M1
+<1	717	CDS
+946	946
+			product	matrix protein 1
+			codon_start	2
+			protein_id	1229195636_1
+695	>1034	gene
+			gene	CM2
+695	>1034	CDS
+			product	CM2 protein
+			protein_id	1229195636_2
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:CM2 protein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1006,M:1018(1); frame:1(3)>; length:312:(28)>; shifted_avgpp:0.953; exp_avgpp:0.973;]; seq-coords:1007..1034:+; mdl-coords:1018..1046:+; mdl:GM968015;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:CM2 protein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [25>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1010..1034:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195640|gb|CY239421.1|
+<1	1937	gene
+			gene	HE
+<1	1937	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	1229195640_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [53 extra nucleotides]; seq-coords:1938..1990:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 53]; seq-coords:1938..1990:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195642|gb|CY239422.1|
+<1	1960	gene
+			gene	HE
+<1	1960	CDS
+			product	hemagglutinin-esterase
+			codon_start	2
+			protein_id	1229195642_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [66 extra nucleotides]; seq-coords:1961..2026:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 66]; seq-coords:1961..2026:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195647|gb|CY239424.1|
+<1	1951	gene
+			gene	HE
+<1	1951	CDS
+			product	hemagglutinin-esterase
+			codon_start	2
+			protein_id	1229195647_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [43 extra nucleotides]; seq-coords:1952..1994:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 43]; seq-coords:1952..1994:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195654|gb|CY239427.1|
+<1	1941	gene
+			gene	HE
+<1	1941	CDS
+			product	hemagglutinin-esterase
+			codon_start	1
+			protein_id	1229195654_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [59 extra nucleotides]; seq-coords:1942..2000:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 59]; seq-coords:1942..2000:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195661|gb|CY239430.1|
+<1	1932	gene
+			gene	HE
+<1	1932	CDS
+			product	hemagglutinin-esterase
+			codon_start	1
+			protein_id	1229195661_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [14 extra nucleotides]; seq-coords:1933..1946:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195669|gb|CY239433.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195669_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [19 extra nucleotides]; seq-coords:1974..1992:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 19]; seq-coords:1974..1992:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325351|gb|M31007.1|FLCNSM
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325351_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325351_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|1229195674|gb|CY239435.1|
+4	>1950	gene
+			gene	HE
+4	>1950	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195674_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|1229195676|gb|CY239436.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195676_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [14 extra nucleotides]; seq-coords:1974..1987:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|1229195681|gb|CY239438.1|
+3	1970	gene
+			gene	HE
+3	1970	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195681_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [67 extra nucleotides]; seq-coords:1971..2037:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 67]; seq-coords:1971..2037:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195686|gb|CY239440.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195686_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [65 extra nucleotides]; seq-coords:1974..2038:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 65]; seq-coords:1974..2038:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195691|gb|CY239442.1|
+4	1971	gene
+			gene	HE
+4	1971	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195691_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [64 extra nucleotides]; seq-coords:1972..2035:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 64]; seq-coords:1972..2035:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195696|gb|CY239444.1|
+4	1971	gene
+			gene	HE
+4	1971	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195696_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [65 extra nucleotides]; seq-coords:1972..2036:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 65]; seq-coords:1972..2036:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195701|gb|CY239446.1|
+3	1970	gene
+			gene	HE
+3	1970	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195701_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [64 extra nucleotides]; seq-coords:1971..2034:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 64]; seq-coords:1971..2034:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195703|gb|CY239447.1|
+4	1971	gene
+			gene	HE
+4	1971	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195703_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [58 extra nucleotides]; seq-coords:1972..2029:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 58]; seq-coords:1972..2029:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195705|gb|CY239448.1|
+4	1971	gene
+			gene	HE
+4	1971	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195705_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [64 extra nucleotides]; seq-coords:1972..2035:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 64]; seq-coords:1972..2035:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195710|gb|CY239450.1|
+4	1971	gene
+			gene	HE
+4	1971	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195710_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [53 extra nucleotides]; seq-coords:1972..2024:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 53]; seq-coords:1972..2024:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195715|gb|CY239452.1|
+5	1972	gene
+			gene	HE
+5	1972	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195715_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [61 extra nucleotides]; seq-coords:1973..2033:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [4 extra nucleotides]; seq-coords:1..4:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 61]; seq-coords:1973..2033:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195720|gb|CY239454.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195720_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [37 extra nucleotides]; seq-coords:1974..2010:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 37]; seq-coords:1974..2010:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195722|gb|CY239455.1|
+3	1970	gene
+			gene	HE
+3	1970	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195722_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [72 extra nucleotides]; seq-coords:1971..2042:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [2 extra nucleotides]; seq-coords:1..2:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 72]; seq-coords:1971..2042:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195727|gb|CY239457.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195727_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [54 extra nucleotides]; seq-coords:1974..2027:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 54]; seq-coords:1974..2027:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195732|gb|CY239459.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195732_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [54 extra nucleotides]; seq-coords:1974..2027:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 54]; seq-coords:1974..2027:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325364|gb|M28061.1|FLCPB2A
+22	2346	gene
+			gene	PB2
+22	2346	CDS
+			product	polymerase PB2
+			protein_id	325364_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [19 extra nucleotides]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 19]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+>Feature gi|1229195742|gb|CY239463.1|
+5	1972	gene
+			gene	HE
+5	1972	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195742_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [61 extra nucleotides]; seq-coords:1973..2033:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [4 extra nucleotides]; seq-coords:1..4:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 61]; seq-coords:1973..2033:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195747|gb|CY239465.1|
+5	1972	gene
+			gene	HE
+5	1972	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195747_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [66 extra nucleotides]; seq-coords:1973..2038:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [4 extra nucleotides]; seq-coords:1..4:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 66]; seq-coords:1973..2038:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195749|gb|CY239466.1|
+<1	943	gene
+			gene	M1
+<1	714	CDS
+943	943
+			product	matrix protein 1
+			codon_start	2
+			protein_id	1229195749_1
+692	1111	gene
+			gene	CM2
+692	1111	CDS
+			product	CM2 protein
+			protein_id	1229195749_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [24 extra nucleotides]; seq-coords:1112..1135:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 24]; seq-coords:1112..1135:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195752|gb|CY239467.1|
+5	1972	gene
+			gene	HE
+5	1972	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195752_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [68 extra nucleotides]; seq-coords:1973..2040:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [4 extra nucleotides]; seq-coords:1..4:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 68]; seq-coords:1973..2040:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195754|gb|CY239468.1|
+4	960	gene
+			gene	M1
+4	731	CDS
+960	960
+			product	matrix protein 1
+			protein_id	1229195754_1
+709	1128	gene
+			gene	CM2
+709	1128	CDS
+			product	CM2 protein
+			protein_id	1229195754_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [24 extra nucleotides]; seq-coords:1129..1152:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 24]; seq-coords:1129..1152:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195757|gb|CY239469.1|
+4	1971	gene
+			gene	HE
+4	1971	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195757_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [69 extra nucleotides]; seq-coords:1972..2040:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 69]; seq-coords:1972..2040:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195759|gb|CY239470.1|
+<1	945	gene
+			gene	M1
+<1	716	CDS
+945	945
+			product	matrix protein 1
+			codon_start	1
+			protein_id	1229195759_1
+694	1113	gene
+			gene	CM2
+694	1113	CDS
+			product	CM2 protein
+			protein_id	1229195759_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [25 extra nucleotides]; seq-coords:1114..1138:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 25]; seq-coords:1114..1138:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195762|gb|CY239471.1|
+7	1974	gene
+			gene	HE
+7	1974	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195762_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [66 extra nucleotides]; seq-coords:1975..2040:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [6 extra nucleotides]; seq-coords:1..6:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 66]; seq-coords:1975..2040:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195764|gb|CY239472.1|
+<1	941	gene
+			gene	M1
+<1	712	CDS
+941	941
+			product	matrix protein 1
+			codon_start	3
+			protein_id	1229195764_1
+690	1109	gene
+			gene	CM2
+690	1109	CDS
+			product	CM2 protein
+			protein_id	1229195764_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [25 extra nucleotides]; seq-coords:1110..1134:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 25]; seq-coords:1110..1134:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195769|gb|CY239474.1|
+<1	944	gene
+			gene	M1
+<1	715	CDS
+944	944
+			product	matrix protein 1
+			codon_start	3
+			protein_id	1229195769_1
+693	1112	gene
+			gene	CM2
+693	1112	CDS
+			product	CM2 protein
+			protein_id	1229195769_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [28 extra nucleotides]; seq-coords:1113..1140:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 28]; seq-coords:1113..1140:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195772|gb|CY239475.1|
+7	1974	gene
+			gene	HE
+7	1974	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195772_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [69 extra nucleotides]; seq-coords:1975..2043:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [6 extra nucleotides]; seq-coords:1..6:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 69]; seq-coords:1975..2043:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195774|gb|CY239476.1|
+<1	941	gene
+			gene	M1
+<1	712	CDS
+941	941
+			product	matrix protein 1
+			codon_start	3
+			protein_id	1229195774_1
+690	1109	gene
+			gene	CM2
+690	1109	CDS
+			product	CM2 protein
+			protein_id	1229195774_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [13 extra nucleotides]; seq-coords:1110..1122:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195777|gb|CY239477.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195777_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [65 extra nucleotides]; seq-coords:1974..2038:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 65]; seq-coords:1974..2038:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195779|gb|CY239478.1|
+<1	943	gene
+			gene	M1
+<1	714	CDS
+943	943
+			product	matrix protein 1
+			codon_start	2
+			protein_id	1229195779_1
+692	1111	gene
+			gene	CM2
+692	1111	CDS
+			product	CM2 protein
+			protein_id	1229195779_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [25 extra nucleotides]; seq-coords:1112..1136:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 25]; seq-coords:1112..1136:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195782|gb|CY239479.1|
+6	1973	gene
+			gene	HE
+6	1973	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195782_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [68 extra nucleotides]; seq-coords:1974..2041:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [5 extra nucleotides]; seq-coords:1..5:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 68]; seq-coords:1974..2041:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195784|gb|CY239480.1|
+<1	941	gene
+			gene	M1
+<1	712	CDS
+941	941
+			product	matrix protein 1
+			codon_start	3
+			protein_id	1229195784_1
+690	1109	gene
+			gene	CM2
+690	1109	CDS
+			product	CM2 protein
+			protein_id	1229195784_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [23 extra nucleotides]; seq-coords:1110..1132:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 23]; seq-coords:1110..1132:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195787|gb|CY239481.1|
+7	1974	gene
+			gene	HE
+7	1974	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195787_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [69 extra nucleotides]; seq-coords:1975..2043:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [6 extra nucleotides]; seq-coords:1..6:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 69]; seq-coords:1975..2043:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195789|gb|CY239482.1|
+<1	945	gene
+			gene	M1
+<1	716	CDS
+945	945
+			product	matrix protein 1
+			codon_start	1
+			protein_id	1229195789_1
+694	1113	gene
+			gene	CM2
+694	1113	CDS
+			product	CM2 protein
+			protein_id	1229195789_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [29 extra nucleotides]; seq-coords:1114..1142:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 29]; seq-coords:1114..1142:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|1229195793|gb|CY239484.1|
+5	1972	gene
+			gene	HE
+5	1972	CDS
+			product	hemagglutinin-esterase
+			protein_id	1229195793_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [59 extra nucleotides]; seq-coords:1973..2031:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [4 extra nucleotides]; seq-coords:1..4:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 59]; seq-coords:1973..2031:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|1229195795|gb|CY239485.1|
+<1	941	gene
+			gene	M1
+<1	712	CDS
+941	941
+			product	matrix protein 1
+			codon_start	3
+			protein_id	1229195795_1
+690	1109	gene
+			gene	CM2
+690	1109	CDS
+			product	CM2 protein
+			protein_id	1229195795_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [24 extra nucleotides]; seq-coords:1110..1133:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 24]; seq-coords:1110..1133:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|325317|gb|M17868.1|FLCHAJO
+22	1989	gene
+			gene	HE
+22	1989	CDS
+			product	hemagglutinin-esterase
+			protein_id	325317_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|695309063|gb|KM504277.1|
+22	2346	gene
+			gene	PB2
+22	2346	CDS
+			product	polymerase PB2
+			protein_id	695309063_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [19 extra nucleotides]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 19]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+>Feature gi|695309065|gb|KM504278.1|
+18	2282	gene
+			gene	PB1
+18	2282	CDS
+			product	polymerase PB1
+			protein_id	695309065_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [81 extra nucleotides]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [17 extra nucleotides]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 81]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+>Feature gi|695309067|gb|KM504279.1|
+22	2151	gene
+			gene	P3
+22	2151	CDS
+			product	polymerase P3
+			protein_id	695309067_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [32 extra nucleotides]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 32]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+>Feature gi|695309069|gb|KM504280.1|
+22	1989	gene
+			gene	HE
+22	1989	CDS
+			product	hemagglutinin-esterase
+			protein_id	695309069_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|695309073|gb|KM504282.1|
+26	982	gene
+			gene	M1
+26	753	CDS
+982	982
+			product	matrix protein 1
+			protein_id	695309073_1
+731	1150	gene
+			gene	CM2
+731	1150	CDS
+			product	CM2 protein
+			protein_id	695309073_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [30 extra nucleotides]; seq-coords:1151..1180:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [25 extra nucleotides]; seq-coords:1..25:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 30]; seq-coords:1151..1180:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 25]; seq-coords:1..25:+; mdl-coords:0..0:+; mdl:GM968015;
+>Feature gi|325357|gb|M15093.1|FLCNSY
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325357_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325357_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|410516976|gb|JX947866.1|
+12	968	gene
+			gene	M1
+12	739	CDS
+968	968
+			product	matrix protein 1
+			protein_id	410516976_1
+717	1136	gene
+			gene	CM2
+717	1136	CDS
+			product	CM2 protein
+			protein_id	410516976_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [25 extra nucleotides]; seq-coords:1137..1161:+; mdl-coords:1125..1125:+; mdl:GM968015;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [11 extra nucleotides]; seq-coords:1..11:+; mdl-coords:0..0:+; mdl:GM968015;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 25]; seq-coords:1137..1161:+; mdl-coords:1125..1125:+; mdl:GM968015;
+>Feature gi|325345|gb|M15089.1|FLCNSGL
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325345_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325345_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;
+>Feature gi|257043911|gb|GQ853452.1|
+<1	1951	gene
+			gene	HE
+<1	1951	CDS
+			product	hemagglutinin-esterase
+			codon_start	2
+			protein_id	257043911_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [37 extra nucleotides]; seq-coords:1952..1988:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 37]; seq-coords:1952..1988:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|257043913|gb|GQ853453.1|
+<1	1948	gene
+			gene	HE
+<1	1948	CDS
+			product	hemagglutinin-esterase
+			codon_start	2
+			protein_id	257043913_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [35 extra nucleotides]; seq-coords:1949..1983:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 35]; seq-coords:1949..1983:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:hemagglutinin-esterase) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [7>5]; seq-coords:1..7:+; mdl-coords:1..1:+; mdl:GM968017;
+>Feature gi|257043915|gb|GQ853454.1|
+<1	1962	gene
+			gene	HE
+<1	1962	CDS
+			product	hemagglutinin-esterase
+			codon_start	1
+			protein_id	257043915_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [35 extra nucleotides]; seq-coords:1963..1997:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 35]; seq-coords:1963..1997:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|257043917|gb|GQ853455.1|
+<1	1961	gene
+			gene	HE
+<1	1961	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	257043917_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [26 extra nucleotides]; seq-coords:1962..1987:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 26]; seq-coords:1962..1987:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|58414960|gb|AY880247.1|
+22	1989	gene
+			gene	HE
+22	1989	CDS
+			product	hemagglutinin-esterase
+			protein_id	58414960_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1990..2073:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|219523982|gb|AF170573.2|
+30	1722	gene
+			gene	NP
+30	1722	CDS
+			product	nucleoprotein
+			protein_id	219523982_1
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nucleoprotein) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAG, shifted S:22,M:22]; seq-coords:1698..1700:+; mdl-coords:1703..1705:+; mdl:NC_006311;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nucleoprotein) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1695,M:1696..1700(5); frame:1(2); length:1666:(27); shifted_avgpp:0.969; exp_avgpp:0.975;]; seq-coords:1696..1722:+; mdl-coords:1696..1727:+; mdl:NC_006311;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nucleoprotein) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [31>8]; seq-coords:1692..1722:+; mdl-coords:1727..1727:+; mdl:NC_006311;
+ERROR: UNEXPECTED_LENGTH: (CDS:nucleoprotein) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [1693]; seq-coords:30..1722:+; mdl-coords:30..1727:+; mdl:NC_006311;
+>Feature gi|219523984|gb|AF170574.2|
+22	2151	gene
+			gene	P3
+22	2151	CDS
+			product	polymerase P3
+			protein_id	219523984_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [32 extra nucleotides]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 32]; seq-coords:2152..2183:+; mdl-coords:2130..2130:+; mdl:GM968018;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968018;
+>Feature gi|219523986|gb|AF170575.2|
+18	2282	gene
+			gene	PB1
+18	2282	CDS
+			product	polymerase PB1
+			protein_id	219523986_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [81 extra nucleotides]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [17 extra nucleotides]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 81]; seq-coords:2283..2363:+; mdl-coords:2265..2265:+; mdl:GM968019;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 17]; seq-coords:1..17:+; mdl-coords:0..0:+; mdl:GM968019;
+>Feature gi|219523988|gb|AF170576.2|
+22	2346	gene
+			gene	PB2
+22	2346	CDS
+			product	polymerase PB2
+			protein_id	219523988_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [19 extra nucleotides]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 19]; seq-coords:2347..2365:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GN364866;
+>Feature gi|644848|gb|U20228.1|ICU20228
+10	2334	gene
+			gene	PB2
+10	2334	CDS
+			product	polymerase PB2
+			protein_id	644848_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [6 extra nucleotides]; seq-coords:2335..2340:+; mdl-coords:2325..2325:+; mdl:GN364866;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [9 extra nucleotides]; seq-coords:1..9:+; mdl-coords:0..0:+; mdl:GN364866;
+>Feature gi|325323|gb|K01689.1|FLCHAO
+22	1986	gene
+			gene	HE
+22	1986	CDS
+			product	hemagglutinin-esterase
+			protein_id	325323_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [85 extra nucleotides]; seq-coords:1987..2071:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [21 extra nucleotides]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 85]; seq-coords:1987..2071:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_START: (*sequence*) significant similarity not detected at 5' end of the sequence [low similarity region of length 21]; seq-coords:1..21:+; mdl-coords:0..0:+; mdl:GM968017;
+>Feature gi|325301|gb|M10087.1|FLC5NSO
+27	887	gene
+			gene	NEP
+			gene_syn	NS2
+27	766	gene
+			gene	NS1
+27	213	CDS
+527	887
+			product	nonstructural protein 2
+			protein_id	325301_1
+27	766	CDS
+			product	nonstructural protein 1
+			protein_id	325301_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:703..705:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:698,M:699(1); frame:1(3); length:359:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:699..887:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8]; seq-coords:703..887:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: UNEXPECTED_LENGTH: (CDS:nonstructural protein 2) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [548]; seq-coords:27..213:+,527..887:+; mdl-coords:27..213:+,527..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:698,M:699(1); frame:1(3); length:672:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:699..766:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8]; seq-coords:699..766:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:885..887:+; mdl-coords:886..888:+; mdl:NC_006306;
+ERROR: UNEXPECTED_LENGTH: (CDS:nonstructural protein 1) length of complete coding (CDS or mat_peptide) feature is not a multiple of 3 [740]; seq-coords:27..766:+; mdl-coords:27..767:+; mdl:NC_006306;
+>Feature gi|325331|gb|M11637.1|FLCHAT
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325331_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325305|gb|M11638.1|FLCHAAA
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325305_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325309|gb|M11639.1|FLCHAGL
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325309_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [83 extra nucleotides]; seq-coords:1932..2014:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 83]; seq-coords:1932..2014:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325311|gb|M11640.1|FLCHAGM
+<1	1928	gene
+			gene	HE
+<1	1928	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325311_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [82 extra nucleotides]; seq-coords:1929..2010:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 82]; seq-coords:1929..2010:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325313|gb|M11641.1|FLCHAGY
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325313_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325307|gb|M11642.1|FLCHAGE
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325307_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325325|gb|M11643.1|FLCHAPB
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325325_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325327|gb|M11644.1|FLCHAPBA
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325327_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325329|gb|M11645.1|FLCHAPBB
+<1	1931	gene
+			gene	HE
+<1	1931	CDS
+			product	hemagglutinin-esterase
+			codon_start	3
+			protein_id	325329_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [84 extra nucleotides]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+ERROR: LOW_SIMILARITY_END: (*sequence*) significant similarity not detected at 3' end of the sequence [low similarity region of length 84]; seq-coords:1932..2015:+; mdl-coords:1968..1968:+; mdl:GM968017;
+>Feature gi|325354|gb|M14881.1|FLCNST
+<1	847	gene
+			gene	NEP
+			gene_syn	NS2
+<1	726	gene
+			gene	NS1
+<1	173	CDS
+487	847
+			product	nonstructural protein 2
+			codon_start	2
+			protein_id	325354_1
+<1	726	CDS
+			product	nonstructural protein 1
+			codon_start	2
+			protein_id	325354_2
+
+Additional note(s) to submitter:
+ERROR: CDS_HAS_STOP_CODON: (CDS:nonstructural protein 2) in-frame stop codon exists 5' of stop position predicted by homology to reference [TGA, shifted S:182,M:182]; seq-coords:663..665:+; mdl-coords:704..706:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 2) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<345:(189); shifted_avgpp:0.971; exp_avgpp:0.970;]; seq-coords:659..847:+; mdl-coords:699..888:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 2) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [185>8, valid stop codon in nucleotide-based prediction]; seq-coords:663..847:+; mdl-coords:888..888:+; mdl:NC_006306;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:nonstructural protein 1) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:658,M:699(1); frame:<2(1); length:<658:(68); shifted_avgpp:0.965; exp_avgpp:0.974;]; seq-coords:659..726:+; mdl-coords:699..767:+; mdl:NC_006306;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [68>8, valid stop codon in nucleotide-based prediction]; seq-coords:659..726:+; mdl-coords:767..767:+; mdl:NC_006306;
+ERROR: MUTATION_AT_END: (CDS:nonstructural protein 1) expected stop codon could not be identified, first in-frame stop codon exists 3' of predicted stop position [TAA]; seq-coords:845..847:+; mdl-coords:886..888:+; mdl:NC_006306;

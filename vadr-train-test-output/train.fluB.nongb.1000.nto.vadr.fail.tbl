@@ -1,0 +1,415 @@
+>Feature gi|2278963969|dbj|LC720254.1|
+28	774	gene
+			gene	M1
+28	774	CDS
+			product	matrix protein 1
+			protein_id	2278963969_1
+774	1103	gene
+			gene	BM2
+774	1103	CDS
+			product	BM2 protein
+			protein_id	2278963969_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [3 extra nucleotides]; seq-coords:1..3:+; mdl-coords:0..0:+; mdl:AY504605;
+>Feature gi|2278963994|dbj|LC720264.1|
+46	1072	gene
+			gene	NEP
+			gene_syn	NS2
+46	894	gene
+			gene	NS1
+46	81	CDS
+737	1072
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2278963994_1
+46	894	CDS
+			product	nonstructural protein 1
+			protein_id	2278963994_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:46..54:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:46..54:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|2278964033|dbj|LC720280.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	2278964033_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	2278964033_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|767169045|dbj|LC032901.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767169045_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	767169045_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|767169335|dbj|LC033027.1|
+49	351	gene
+			gene	NB
+49	351	CDS
+			product	NB protein
+			protein_id	767169335_1
+56	1456	gene
+			gene	NA
+56	1456	CDS
+			product	neuraminidase
+			protein_id	767169335_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [2 extra nucleotides]; seq-coords:1560..1561:+; mdl-coords:1557..1557:+; mdl:AY191501;
+>Feature gi|767169703|dbj|LC033187.1|
+48	350	gene
+			gene	NB
+48	350	CDS
+			product	NB protein
+			protein_id	767169703_1
+55	1455	gene
+			gene	NA
+55	1455	CDS
+			product	neuraminidase
+			protein_id	767169703_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:neuraminidase) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>8, valid stop codon in nucleotide-based prediction]; seq-coords:1447..1455:+; mdl-coords:1454..1454:+; mdl:AY191501;
+>Feature gi|767169798|dbj|LC033227.1|
+49	351	gene
+			gene	NB
+49	351	CDS
+			product	NB protein
+			protein_id	767169798_1
+56	1456	gene
+			gene	NA
+56	1456	CDS
+			product	neuraminidase
+			protein_id	767169798_2
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_END: (*sequence*) extra sequence detected 3' of expected sequence end [2 extra nucleotides]; seq-coords:1560..1561:+; mdl-coords:1557..1557:+; mdl:AY191501;
+>Feature gi|767170075|dbj|LC033349.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767170075_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	767170075_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|767170113|dbj|LC033365.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767170113_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	767170113_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|767170189|dbj|LC033397.1|
+45	1071	gene
+			gene	NEP
+			gene_syn	NS2
+45	893	gene
+			gene	NS1
+45	80	CDS
+736	1071
+			product	nuclear export protein
+			note	nonstructural protein 2
+			protein_id	767170189_1
+45	893	CDS
+			product	nonstructural protein 1
+			protein_id	767170189_2
+
+Additional note(s) to submitter:
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nuclear export protein) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+ERROR: INDEFINITE_ANNOTATION_START: (CDS:nonstructural protein 1) protein-based alignment does not extend close enough to nucleotide-based alignment 5' endpoint [9>5]; seq-coords:45..53:+; mdl-coords:44..44:+; mdl:AY504614;
+>Feature gi|693012345|dbj|AB915328.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012345_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012347|dbj|AB915329.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012347_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012349|dbj|AB915330.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012349_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012355|dbj|AB915333.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012355_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012365|dbj|AB915338.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012365_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012367|dbj|AB915339.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012367_1
+
+Additional note(s) to submitter:
+ERROR: DELETION_OF_NT: (CDS:hemagglutinin) too large of a deletion in protein-based alignment [30>27]; seq-coords:546..546:+; mdl-coords:709..738:+; mdl:AF387493;
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+>Feature gi|693012369|dbj|AB915340.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012369_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012371|dbj|AB915341.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012371_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012373|dbj|AB915342.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012373_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012375|dbj|AB915343.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012375_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012377|dbj|AB915344.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012377_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012379|dbj|AB915345.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012379_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012385|dbj|AB915348.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012385_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012387|dbj|AB915349.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012387_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012389|dbj|AB915350.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012389_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012393|dbj|AB915352.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012393_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(103)>; shifted_avgpp:0.960; exp_avgpp:0.962;]; seq-coords:510..612:+; mdl-coords:675..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012395|dbj|AB915353.1|
+<1	>576	gene
+			gene	HA
+<1	>576	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012395_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:510(1),M:674; frame:<1(2)>; length:<509:(67)>; shifted_avgpp:0.951; exp_avgpp:0.962;]; seq-coords:510..576:+; mdl-coords:675..740:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [30>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..576:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|693012397|dbj|AB915354.1|
+<1	>612	gene
+			gene	HA
+<1	>612	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	693012397_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:511(1),M:675; frame:<1(2)>; length:<510:(102)>; shifted_avgpp:0.951; exp_avgpp:0.962;]; seq-coords:511..612:+; mdl-coords:676..776:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [66>5, no valid stop codon in nucleotide-based prediction]; seq-coords:547..612:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|313020|emb|X73421.1|
+<1	>1043	gene
+			gene	HA
+<1	>1043	CDS
+			product	hemagglutinin
+			codon_start	3
+			function	receptor binding and fusion protein
+			protein_id	313020_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:delete,S:1035,M:1082(1); frame:<3(2)>; length:<1035:(8)>; shifted_avgpp:0.922; exp_avgpp:0.969;]; seq-coords:1036..1043:+; mdl-coords:1082..1090:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [9>5, no valid stop codon in nucleotide-based prediction]; seq-coords:1035..1043:+; mdl-coords:1788..1788:+; mdl:AF387493;
+>Feature gi|221355|dbj|D00004.1|FLBFLBL40
+34	2292	gene
+			gene	PB1
+34	2292	CDS
+			product	polymerase PB1
+			protein_id	221355_1
+
+Additional note(s) to submitter:
+ERROR: EXTRA_SEQUENCE_START: (*sequence*) extra sequence detected 5' of expected sequence start [13 extra nucleotides]; seq-coords:1..13:+; mdl-coords:0..0:+; mdl:EF626642;
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PB1) in-frame stop codon exists 5' of stop position predicted by homology to reference [TAA, shifted S:1794,M:1794]; seq-coords:496..498:+; mdl-coords:484..486:+; mdl:EF626642;
+ERROR: CDS_HAS_STOP_CODON: (CDS:polymerase PB1) stop codon in protein-based alignment [-]; seq-coords:496..498:+; mdl-coords:484..486:+; mdl:EF626642;
+>Feature gi|115353988|emb|AM295320.1|
+<1	>379	gene
+			gene	HA
+<1	>379	CDS
+			product	hemagglutinin
+			codon_start	1
+			function	receptor binding and fusion protein
+			protein_id	115353988_1
+
+Additional note(s) to submitter:
+ERROR: POSSIBLE_FRAMESHIFT_HIGH_CONF: (CDS:hemagglutinin) high confidence possible frameshift in CDS (frame not restored before end) [cause:insert,S:359..360(2),M:640; frame:<1(3)>; length:<358:(21)>; shifted_avgpp:0.889; exp_avgpp:0.959;]; seq-coords:359..379:+; mdl-coords:641..659:+; mdl:AF387493;
+ERROR: INDEFINITE_ANNOTATION_END: (CDS:hemagglutinin) protein-based alignment does not extend close enough to nucleotide-based alignment 3' endpoint [10>5, no valid stop codon in nucleotide-based prediction]; seq-coords:370..379:+; mdl-coords:1788..1788:+; mdl:AF387493;

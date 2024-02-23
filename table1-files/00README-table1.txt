@@ -11,8 +11,18 @@
 # Table 1 shows the number of influenza sequences published in GenBank
 # with release dates in each year between 2018 and 2023.
 # 
-# This directory contains 32 list files with names ending in either
-# '.gblist' or '.list': 
+# This directory includes 35 files. 32 are list files, described
+# below. The other 3 are:
+# 
+# 1. make-table1.sh: shell script that will recreate table 1 from the 
+#                    paper using the other files in this directory.
+#
+# 2. table-nseqs-data2tex.pl: perl script called by 'make-table1.sh'
+#
+# 3. 00README-table1.txt: this file
+# 
+# The other 32 list files have names ending in either '.gblist' or
+# '.list': 
 #
 #  - 24 of the '.gblist' files contain the accessions published in GenBank for each of the six
 #    years and four types of influenza (A, B, C, and D). An example is 

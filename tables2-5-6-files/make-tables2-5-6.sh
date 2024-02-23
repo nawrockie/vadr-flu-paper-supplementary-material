@@ -1,5 +1,7 @@
 #!/bin/bash
 set -e
+enable -n echo
+
 # remove old files
 touch all.passfail.txt
 touch all.info.txt

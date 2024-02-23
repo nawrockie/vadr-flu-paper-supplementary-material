@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+enable -n echo
 
 touch table1.data
 rm table1.data

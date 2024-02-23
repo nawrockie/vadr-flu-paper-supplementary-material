@@ -1,0 +1,5 @@
+
+- after models are finalized, make a 1.6.3-2 model release and update
+  all files to use that model set.
+- add gzipped tarball of all files to git repo
+

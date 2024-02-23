@@ -16,23 +16,15 @@
 #
 # There are 3 files in this directory:
 # 
-#  1. make-tables3-4.sh: a shell script that will download the set of
-#     vadr influenza models associated with the paper and then use
-#     those model files to create tables 3 and 4 from the paper by
-#     calling the table-models.pl perl script.
-# 
-#     The first step of downloading the models will only work if you
-#     have 'curl' installed. Alternatively, you can use git to clone 
-#     the bitbucket repo with the models. There are instructions in
-#     the 'make-tables3-4.sh' file for doing this. 
+
+#  1. make-tables3-4.sh: a shell script that will use the model files
+#     in the top level directory (after unpacking them) to create 
+#     tables 3 and 4.
 #      
-#  2. clean.up.sh: a shell script that will remove all files created
-#     by 'make-tables3-4.sh'.
-# 
-#  3. table-models.pl: a perl script called by 'make-tables3-4.sh' 
+#  2. table-models.pl: a perl script called by 'make-tables3-4.sh' 
 #     that creates the file 'tables3-4.tex'
 # 
-#  4. 00README-tables3-4.txt: this file.
+#  3. 00README-tables3-4.txt: this file.
 #
 ################################################
 # Question/problems? email eric.nawrocki@nih.gov

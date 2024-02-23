@@ -12,8 +12,10 @@
 # =====================================================================
 #
 # There are six subdirectories in this directory, each contains its
-# own 00README file that explains the files in that subdirectory. Each
-# subdirectory is described below:
+# own 00README file that explains the files in that subdirectory. In
+# each of the three subdirectories with names beginning with 'table'
+# there are shell scripts that can be executed to reproduce the tables
+# in the paper. Each subdirectory is described below:
 #
 # train-and-test-sets/:   lists of sequences in the training and testing
 #                         sequence sets

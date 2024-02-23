@@ -1,6 +1,6 @@
 # 00README-vadr-train-test-output.txt
 # Eric Nawrocki
-# February 2, 2024
+# February 22, 2024
 # 
 # This file explains the contents of this directory which contains
 # supplementary data for the paper "Influenza sequence validation and
@@ -39,14 +39,14 @@
 # train.fluA.gb.10000.vadr.sqa
 # 
 # There are 12 additional sets of 4 files, created by using different
-# models (the 'FLAN' and 'FLAN-ntonly' rows in table 5). The 6 files
-# with '.fo.' in their names correspond to the 'FLAN' rows and were
-# created with this command:
+# models (the 'FLAN' and 'FLAN-ntonly' rows in table 5). The 6 sets of
+# files with '.fo.' in their names correspond to the 'FLAN' rows and
+# were created with this command:
 # 
 # v-annotate.pl -f -r --mdir $VADRFLUDIR/flan --mkey flu-flan --atgonly \
 # --alt_fail extrant5,extrant3 --xnocomp --nomisc <fastafile> <outdir>
 # 
-# The 6 files with '.nto.' in their names correspond with
+# The 6 sets of 4 files with '.nto.' in their names correspond with
 # 'FLAN-ntonly' and were created with this
 # command: 
 #

@@ -121,7 +121,7 @@ my $tot_FFVF = 0;
 my $tot_FPVF = 0;
 my $tot_FFVP = 0;
 foreach my $key (@key_order_A) { 
-  printf("key: $key\n");
+#  printf("key: $key\n");
   my ($dataset, $date) = split(":::", $key);
   my $dataset2print = ($date eq "existing") ? $dataset : "";
   my $date2print = ($date eq "existing") ? "before 3/18/2023" : "after 3/17/2023"; 

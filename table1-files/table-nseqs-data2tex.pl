@@ -52,7 +52,7 @@ while(my $line = <IN>) {
 close(IN);
 
 my $caption = "\\textbf{Number of influenza virus sequences deposited in GenBank database since 2018.}";
-$caption   .= " Sequence counts were obtained using the NCBI Virus Data Hub filtering by release date. ``all'' row includes total counts of all sequences (including before 2018). ``in GenBank'' row indicates the fraction of all influenza sequences in INSDC databases that were submitted to GenBank (not to EMBL or DDBJ). NCBI taxonomy ids: 11320 (influenza A); 11520 (influenza B); 11552 (influenza C); 1511084 (influenza D).";
+$caption   .= " Sequence counts were obtained using the NCBI Virus Data Hub filtering by release date. ``all'' row includes total counts of all sequences (including before 2018). ``GenBank'' row indicates the fraction of all influenza sequences in INSDC databases that were submitted to GenBank (not to EMBL or DDBJ). NCBI taxonomy ids: 11320 (influenza A); 11520 (influenza B); 11552 (influenza C); 1511084 (influenza D).";
 
 print("\\begin{table}[t]\n");
 print("\\caption{$caption}\n");
@@ -71,10 +71,10 @@ foreach my $year (@year_order_A) {
     if(! defined $nseq_HHH{"gb"}{$year}{$type}) { 
       die "ERROR nseq_HHH{gb}{$year}{$type} not defined";
     }
-#    if(! defined $nseq_HHH{"all"}{$year}{$type}) { 
-#      die "ERROR nseq_HHH{all}{$year}{$type} not defined";
-#    }
-#    my $fract = $nseq_HHH{"gb"}{$year}{$type} / $nseq_HHH{"all"}{$year}{$type};
+    if(! defined $nseq_HHH{"all"}{$year}{$type}) { 
+      die "ERROR nseq_HHH{gb}{$year}{$type} not defined";
+    }
+    my $fract = $nseq_HHH{"gb"}{$year}{$type} / $nseq_HHH{"all"}{$year}{$type};
     printf("&%18s", sprintf("%6d", $nseq_HHH{"gb"}{$year}{$type}));
   }
   print(" \\\\");
@@ -88,7 +88,7 @@ foreach my $year (@year_order_A) {
 my $year = "all.$date";
 my $year2print = $year;
 $year2print =~ s/\.$date//;
-printf("%18s", "in GenBank");
+printf("%18s", "GenBank");
 foreach my $type (@type_order_A) { 
   my $fract = $nseq_HHH{"gb"}{$year}{$type} / $nseq_HHH{"all"}{$year}{$type};
   printf("&%18s", sprintf("%5.3f", $fract));

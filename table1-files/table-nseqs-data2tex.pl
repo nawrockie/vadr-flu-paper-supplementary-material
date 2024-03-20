@@ -71,10 +71,6 @@ foreach my $year (@year_order_A) {
     if(! defined $nseq_HHH{"gb"}{$year}{$type}) { 
       die "ERROR nseq_HHH{gb}{$year}{$type} not defined";
     }
-    if(! defined $nseq_HHH{"all"}{$year}{$type}) { 
-      die "ERROR nseq_HHH{gb}{$year}{$type} not defined";
-    }
-    my $fract = $nseq_HHH{"gb"}{$year}{$type} / $nseq_HHH{"all"}{$year}{$type};
     printf("&%18s", sprintf("%6d", $nseq_HHH{"gb"}{$year}{$type}));
   }
   print(" \\\\");

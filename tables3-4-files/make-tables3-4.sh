@@ -1,5 +1,5 @@
 #!/bin/bash
-VERSION=1.6.3-2dev1
+VERSION=1.6.3-2
 
 if [ ! -d "../vadr-models-flu-$VERSION" ]; then
     if [ -e "../vadr-models-flu-$VERSION.tar.gz" ]; then

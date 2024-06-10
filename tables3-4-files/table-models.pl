@@ -58,6 +58,16 @@ $new_models_H{"NC_036620"} = 1;
 $new_models_H{"NC_036621"} = 1;
 $new_models_H{"NC_036622"} = 1;
 
+# there are 7 model accessions for which the 'version' used was .2, instead of .1
+my %version2_H = ();
+$version2_H{"CY000449"} = 1;
+$version2_H{"NC_006307"} = 1;
+$version2_H{"NC_006308"} = 1;
+$version2_H{"NC_006309"} = 1;
+$version2_H{"NC_006310"} = 1;
+$version2_H{"NC_006312"} = 1;
+$version2_H{"NC_006306"} = 1;
+
 my @group_ordered1_A = ();
 my @group_ordered2_A = ();
 push(@group_ordered1_A, "fluA-seg1:1");
@@ -383,9 +393,6 @@ my $caption1 = "\\textbf{List of VADR and FLAN influenza A model reference seque
 
 my $caption2 = "\\textbf{List of VADR and FLAN influenza B, C, and D model reference sequences and attributes of associated proteins.} The ``\\#coords'' column indicates the number of distinct pairs of start and stop genome nucleotide coordinates for all proteins in the set. The ``\\# proteins'' column indicates the number of proteins in the set. For CDS that have italicized ``CDS product'' and ``gene'' names, FLAN errors are converted to warnings and VADR converts them to ``misc\\_feature'' features if they have certain usually fatal alerts, instead of failing the sequence. Bold model accessions indicate models without an analog in FLAN. Italicized model accessions indicate models for which VADR uses a different accession than FLAN.";
 
-#######################
-# table 1 
-#######################
 for(my $t = 0; $t < 2; $t++) { 
   my @group_ordered_A = ($t == 0) ? (@group_ordered1_A) : (@group_ordered2_A);
   my $caption         = ($t == 0) ? $caption1 : $caption2;
@@ -407,7 +414,7 @@ for(my $t = 0; $t < 2; $t++) {
     printf("%-4s & %-3s & %-10s & %7s & %-25s & %-6s & %7s & %9s & %9s \\\\ \\hline\n", 
            "type", "seg", "accession", "length", "CDS product", "gene", "intron?", "\\#proteins", "\\#coords");
   }
-                                                                                                                                                                                                                       my $prv_group = "";
+  my $prv_group = "";
   foreach $group (@group_ordered_A) { 
     my $group2parse = $group;
     $group2parse =~ s/\:\d+$//;
@@ -421,6 +428,12 @@ for(my $t = 0; $t < 2; $t++) {
     }
     $mdl_name   = $model_H{$group};
     my $mdl_name2print = $mdl_name;
+    if(defined $version2_H{$mdl_name}) { 
+      $mdl_name2print .= ".2"; 
+    }
+    else { 
+      $mdl_name2print .= ".1"; 
+    }
     $mdl_name2print =~ s/\_/\\\_/g;
     my $mdl_is_new     = (defined $new_models_H{$mdl_name})   ? 1 : 0;
     my $mdl_is_swapped = ((defined $fluC_new2old_H{$mdl_name}) && ($fluC_new2old_H{$mdl_name} ne $mdl_name)) ? 1 : 0;

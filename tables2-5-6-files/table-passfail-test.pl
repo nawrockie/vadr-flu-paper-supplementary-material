@@ -67,11 +67,11 @@ while(my $line = <IN>) {
       $nseq2print .= " " . $1;
     }
     elsif($nseq =~ /^fr(\d+)/) { 
-      $key .= " EMBL+DDBJ";
+      $key .= " ENA+DDBJ";
       $nseq2print .= " " . $1;
     }
     elsif($nseq =~ /^nongb.(\d+)/) { 
-      $key .= " EMBL+DDBJ";
+      $key .= " ENA+DDBJ";
       $nseq2print .= " " . $1;
     }
     else { 
@@ -100,11 +100,11 @@ while(my $line = <IN>) {
   }  
 }
 my @key_order_A = ("flu A GenBank:::existing","flu A GenBank:::new",
-                   "flu A EMBL+DDBJ:::existing","flu A EMBL+DDBJ:::new",
+                   "flu A ENA+DDBJ:::existing","flu A ENA+DDBJ:::new",
                    "flu B GenBank:::existing","flu B GenBank:::new",
-                   "flu B EMBL+DDBJ:::existing","flu B EMBL+DDBJ:::new",
+                   "flu B ENA+DDBJ:::existing","flu B ENA+DDBJ:::new",
                    "flu C GenBank:::existing","flu C GenBank:::new",
-                   "flu C EMBL+DDBJ:::existing","flu C EMBL+DDBJ:::new");
+                   "flu C ENA+DDBJ:::existing","flu C ENA+DDBJ:::new");
                    
 my $caption = "\\textbf{Comparison of pass/fail outcomes for FLAN and VADR on the influenza sequence testing datasets.}";
 

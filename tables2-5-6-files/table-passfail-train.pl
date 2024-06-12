@@ -70,11 +70,11 @@ while(my $line = <IN>) {
     $nseq2print .= " " . $1;
   }
   elsif($nseq =~ /^fr(\d+)/) { 
-    $key .= " EMBL+DDBJ";
+    $key .= " ENA+DDBJ";
     $nseq2print .= " " . $1;
   }
   elsif($nseq =~ /^nongb.(\d+)/) { 
-    $key .= " EMBL+DDBJ";
+    $key .= " ENA+DDBJ";
     $nseq2print .= " " . $1;
   }
   else { 
@@ -106,11 +106,11 @@ while(my $line = <IN>) {
 }  
 
 my @key_order_A = ("flu A GenBank:::final", "flu A GenBank:::FLAN", "flu A GenBank:::FLAN-ntonly", 
-                   "flu A EMBL+DDBJ:::final", "flu A EMBL+DDBJ:::FLAN", "flu A EMBL+DDBJ:::FLAN-ntonly", 
+                   "flu A ENA+DDBJ:::final", "flu A ENA+DDBJ:::FLAN", "flu A ENA+DDBJ:::FLAN-ntonly", 
                    "flu B GenBank:::final", "flu B GenBank:::FLAN", "flu B GenBank:::FLAN-ntonly", 
-                   "flu B EMBL+DDBJ:::final", "flu B EMBL+DDBJ:::FLAN", "flu B EMBL+DDBJ:::FLAN-ntonly", 
+                   "flu B ENA+DDBJ:::final", "flu B ENA+DDBJ:::FLAN", "flu B ENA+DDBJ:::FLAN-ntonly", 
                    "flu C GenBank:::final", "flu C GenBank:::FLAN", "flu C GenBank:::FLAN-ntonly", 
-                   "flu C EMBL+DDBJ:::final", "flu C EMBL+DDBJ:::FLAN", "flu C EMBL+DDBJ:::FLAN-ntonly"); 
+                   "flu C ENA+DDBJ:::final", "flu C ENA+DDBJ:::FLAN", "flu C ENA+DDBJ:::FLAN-ntonly"); 
 
 my $caption = "\\textbf{Comparison of pass/fail outcomes for FLAN and VADR on the influenza sequence training datasets.}";
 

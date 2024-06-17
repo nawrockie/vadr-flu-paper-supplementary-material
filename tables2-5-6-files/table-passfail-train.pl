@@ -23,87 +23,116 @@ my %tot_FPVP_H = ();
 my %tot_FPVF_H = ();
 my %tot_FFVP_H = ();
 my %tot_FFVF_H = ();
+my %emb_nseq_H = (); # key is number of total seqs, value is number that are EMBL/ENA
+my %dbj_nseq_H = (); # key is number of total seqs, value is number that are DDBJ
 
 open(IN, $data_file) || die "ERROR unable to open $data_file for reading";
 while(my $line = <IN>) { 
-#fluA.fr10000   FPVP   fp  9784
   chomp $line;
   my @el_A = split(/\s+/, $line);
-  if(scalar(@el_A) != 4) { 
-    die "ERROR unable to parse line $line";
+  if(scalar(@el_A) == 3) { 
+    # 3 tokens, these tell us how many dbj vs ena seqs there are
+    #fluC.fr500 dbj 495
+    my ($type_nseq, $db, $nseq_db) = (@el_A);
+    my $nseq;
+    if($type_nseq =~ /(\d+)$/) {
+      $nseq = $1;
+    }
+    else { 
+      die "ERROR, could not parse $type_nseq token line $line"; 
+    }
+    if($db eq "emb") { 
+      if(defined $emb_nseq_H{$nseq}) { 
+        die "ERROR, read two values for ENA nseq $nseq"; 
+      }
+      $emb_nseq_H{$nseq} = $nseq_db;
+    }
+    elsif($db eq "dbj") { 
+      if(defined $dbj_nseq_H{$nseq}) { 
+        die "ERROR, read two values for DBJ nseq $nseq"; 
+      }
+      $dbj_nseq_H{$nseq} = $nseq_db;
+    }
   }
-  my ($type_nseq, $cat, $minfo, $ct) = (@el_A);
-  my @el2_A = split(/\./, $type_nseq);
-  my ($type, $nseq, $nseq1, $nseq2, $train_or_test);
-  if(scalar(@el2_A) == 2) { 
-    ($type, $nseq) = (@el2_A);
-  }
-  elsif(scalar(@el2_A) == 3) { 
-    ($type, $nseq1, $nseq2) = (@el2_A);
-    $nseq = $nseq1 . "." . $nseq2;
-  }
-  elsif(scalar(@el2_A) == 4) { 
-    ($train_or_test, $type, $nseq1, $nseq2) = (@el2_A);
-    $nseq = $nseq1 . "." . $nseq2;
-  }
-  else { 
-    die "ERROR unable to parse type_nseq: $type_nseq";
-  }
+  elsif(scalar(@el_A) == 4) { 
+    # if we get here we have 4 tokens
+    #fluA.fr10000   FPVP   fp  9784
+    my ($type_nseq, $cat, $minfo, $ct) = (@el_A);
+    my @el2_A = split(/\./, $type_nseq);
+    my ($type, $nseq, $nseq1, $nseq2, $train_or_test);
+    if(scalar(@el2_A) == 2) { 
+      ($type, $nseq) = (@el2_A);
+    }
+    elsif(scalar(@el2_A) == 3) { 
+      ($type, $nseq1, $nseq2) = (@el2_A);
+      $nseq = $nseq1 . "." . $nseq2;
+    }
+    elsif(scalar(@el2_A) == 4) { 
+      ($train_or_test, $type, $nseq1, $nseq2) = (@el2_A);
+      $nseq = $nseq1 . "." . $nseq2;
+    }
+    else { 
+      die "ERROR unable to parse type_nseq: $type_nseq";
+    }
 
-  my $key = "";
-  my $nseq2print = "";
-  if($type eq "fluA") { 
-    $key .= "flu A";
-  }
-  elsif($type eq "fluB") { 
-    $key .= "flu B";
-  }
-  elsif($type eq "fluC") { 
-    $key .= "flu C";
-  }
-  if($nseq =~ /^gb.fr(\d+)/) { 
-    $key .= " GenBank";
-    $nseq2print .= " " . $1;
-  }
-  elsif($nseq =~ /^gb.(\d+)/) { 
-    $key .= " GenBank";
-    $nseq2print .= " " . $1;
-  }
-  elsif($nseq =~ /^fr(\d+)/) { 
-    $key .= " ENA+DDBJ";
-    $nseq2print .= " " . $1;
-  }
-  elsif($nseq =~ /^nongb.(\d+)/) { 
-    $key .= " ENA+DDBJ";
-    $nseq2print .= " " . $1;
-  }
-  else { 
-    die "ERROR unable to parse line $line";
-  }
-  if($minfo eq "fin") { 
+    my $key = "";
+    my $nseq2print = "";
+    if($type eq "fluA") { 
+      $key .= "flu A";
+    }
+    elsif($type eq "fluB") { 
+      $key .= "flu B";
+    }
+    elsif($type eq "fluC") { 
+      $key .= "flu C";
+    }
+    if($nseq =~ /^gb.fr(\d+)/) { 
+      $key .= " GenBank";
+      $nseq2print .= " " . $1;
+    }
+    elsif($nseq =~ /^gb.(\d+)/) { 
+      $key .= " GenBank";
+      $nseq2print .= " " . $1;
+    }
+    elsif($nseq =~ /^fr(\d+)/) { 
+      $key .= " ENA+DDBJ";
+      $nseq2print .= " " . $1;
+    }
+    elsif($nseq =~ /^nongb.(\d+)/) { 
+      $key .= " ENA+DDBJ";
+      $nseq2print .= " " . $1;
+    }
+    else { 
+      die "ERROR unable to parse line $line";
+    }
+    if($minfo eq "fin") { 
 #    $key .= ":::" . "FLAN-plus";
-    $key .= ":::" . "final";
-  }
-  elsif($minfo eq "fo") { 
-    $key .= ":::" . "FLAN";
-  }
-  elsif($minfo eq "fp") { 
-    $key .= ":::" . "old-FLAN-plus";
-  }
-  elsif($minfo eq "nto") { 
-    $key .= ":::" . "FLAN-ntonly";
-  }
-  elsif($minfo eq "nto") { 
-    $key .= ":::" . "FLAN-ntonly";
-  }
-  else { 
-    die "ERROR could not parse minfo: $minfo";
-  }
+      $key .= ":::" . "final";
+    }
+    elsif($minfo eq "fo") { 
+      $key .= ":::" . "FLAN";
+    }
+    elsif($minfo eq "fp") { 
+      $key .= ":::" . "old-FLAN-plus";
+    }
+    elsif($minfo eq "nto") { 
+      $key .= ":::" . "FLAN-ntonly";
+    }
+    elsif($minfo eq "nto") { 
+      $key .= ":::" . "FLAN-ntonly";
+    }
+    else { 
+      die "ERROR could not parse minfo: $minfo";
+    }
 
-  $tbl_HH{$key}{"nseq"} = $nseq2print;
-  $tbl_HH{$key}{$cat}   = $ct;
-  $tot_H{$key} += $ct;
-}  
+    $tbl_HH{$key}{"nseq"} = $nseq2print;
+    $tbl_HH{$key}{$cat}   = $ct;
+    $tot_H{$key} += $ct;
+  }  
+  else { 
+    die "ERROR line does not have 3 or 4 tokens: $line\n";
+  }
+}
 
 my @key_order_A = ("flu A GenBank:::final", "flu A GenBank:::FLAN", "flu A GenBank:::FLAN-ntonly", 
                    "flu A ENA+DDBJ:::final", "flu A ENA+DDBJ:::FLAN", "flu A ENA+DDBJ:::FLAN-ntonly", 
@@ -112,14 +141,14 @@ my @key_order_A = ("flu A GenBank:::final", "flu A GenBank:::FLAN", "flu A GenBa
                    "flu C GenBank:::final", "flu C GenBank:::FLAN", "flu C GenBank:::FLAN-ntonly", 
                    "flu C ENA+DDBJ:::final", "flu C ENA+DDBJ:::FLAN", "flu C ENA+DDBJ:::FLAN-ntonly"); 
 
-my $caption = "\\textbf{Comparison of pass/fail outcomes for FLAN and VADR on the influenza sequence training datasets.}";
+my $caption = "\\textbf{Comparison of pass/fail outcomes for FLAN and VADR on the influenza sequence training datasets.} For ENA+DDBJ datasets, number of ENA and DDBJ sequences in the set are indicated in parantheses in \"num seqs\" column, ENA listed first and DDBJ listed second.";
 
 print("\\begin{table}[t]\n");
 print("\\caption{$caption}\n");
-print("\\begin{tabular}{lrlrrrrr}\n");
+print("\\begin{tabular}{lllrrrrr}\n");
 printf("%-30s & %10s & %-15s & %9s & %9s & %9s & %9s & %9s \\\\\n",
        "",        "",         "VADR",  "fraction",           "",     "",         "\\#FLAN-pass", "\\#FLAN-fail"); 
-printf("%-30s & %10s & %-15s & %9s & %9s & %9s & %9s & %9s \\\\ \\hline\n",
+printf("%-30s & %22s & %-15s & %9s & %9s & %9s & %9s & %9s \\\\ \\hline\n",
        "dataset", "num seqs", "model", "pass both", "\\#pass both", "\\#fail both", "VADR-fail", "VADR-pass"); 
 my $tot_nseq = 0;
 my $tot_FPVP = 0;
@@ -130,8 +159,24 @@ foreach my $key (@key_order_A) {
   my ($dataset, $model) = split(":::", $key);
   my $dataset2print = ($model eq "final") ? $dataset : "";
   my $nseq2print    = ($model eq "final") ? $tbl_HH{$key}{"nseq"} : "";
-  printf("%-30s & %10s & %-15s & %9.3f & %9d & %9d & %9d & %9d \\\\ ",
-         $dataset2print, $nseq2print, $model, 
+  my $nseq2use = $nseq2print;
+  $nseq2use =~ s/^\s+//;
+  my $emb_seq2print = "";
+  my $dbj_seq2print = "";
+  if(($key !~ m/GenBank/) && ($nseq2use ne "")) { 
+    if(! defined $emb_nseq_H{$nseq2use}) { 
+      die "ERROR emb_nseq_H{$nseq2use} undefined"; 
+    }
+    if(! defined $dbj_nseq_H{$nseq2use}) { 
+      die "ERROR dbj_nseq_H{$nseq2use} undefined"; 
+    }
+    $emb_seq2print = $emb_nseq_H{$nseq2use};
+    $dbj_seq2print = $dbj_nseq_H{$nseq2use};
+  }
+  printf("%-30s & %10s%12s & %-15s & %9.3f & %9d & %9d & %9d & %9d \\\\ ",
+         $dataset2print, $nseq2print, 
+         ($emb_seq2print eq "") ? "" : sprintf(" (%d+%d)", $emb_seq2print, $dbj_seq2print), 
+         $model, 
          ($tbl_HH{$key}{"FPVP"} / $tot_H{$key}),
          $tbl_HH{$key}{"FPVP"}, 
          $tbl_HH{$key}{"FFVF"}, 

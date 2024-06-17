@@ -71,6 +71,16 @@ perl info.pl   all.info.txt   > sum.info.txt
 touch table5.data.txt
 rm table5.data.txt
 for a in \
+fluA.nongb.10000 \
+fluB.nongb.1000 \
+fluC.nongb.500 \
+; do
+    echo -n "$a emb " >> table5.data.txt
+    cat ../vadr-train-test-output/train.$a.vadr.pass.list ../vadr-train-test-output/train.$a.vadr.fail.list  | grep \emb | wc -l >> table5.data.txt
+    echo -n "$a dbj " >> table5.data.txt
+    cat ../vadr-train-test-output/train.$a.vadr.pass.list ../vadr-train-test-output/train.$a.vadr.fail.list  | grep \dbj | wc -l >> table5.data.txt
+done
+for a in \
 train.fluA.gb.10000    \
 train.fluA.nongb.10000 \
 train.fluB.gb.1000     \
@@ -113,7 +123,26 @@ perl table-passfail-train.pl table5.data.txt > table5.tex
 # make table6.data.txt
 touch table6.data.txt
 rm table6.data.txt
-# make table2.data.txt
+for a in \
+fluA.nongb.10000 \
+fluB.nongb.391 \
+fluC.nongb.500 \
+; do
+    echo -n "$a emb " >> table6.data.txt
+    cat ../vadr-train-test-output/test1.$a.vadr.pass.list ../vadr-train-test-output/test1.$a.vadr.fail.list  | grep \emb | wc -l >> table6.data.txt
+    echo -n "$a dbj " >> table6.data.txt
+    cat ../vadr-train-test-output/test1.$a.vadr.pass.list ../vadr-train-test-output/test1.$a.vadr.fail.list  | grep \dbj | wc -l >> table6.data.txt
+done
+for a in \
+fluA.nongb.2404 \
+fluB.nongb.99 \
+fluC.nongb.130 \
+; do 
+    echo -n "$a emb " >> table6.data.txt
+    cat ../vadr-train-test-output/test2.$a.vadr.pass.list ../vadr-train-test-output/test2.$a.vadr.fail.list  | grep \emb | wc -l >> table6.data.txt
+    echo -n "$a dbj " >> table6.data.txt
+    cat ../vadr-train-test-output/test2.$a.vadr.pass.list ../vadr-train-test-output/test2.$a.vadr.fail.list  | grep \dbj | wc -l >> table6.data.txt
+done
 for a in \
 test1.fluA.gb.10000    \
 test1.fluA.nongb.10000 \

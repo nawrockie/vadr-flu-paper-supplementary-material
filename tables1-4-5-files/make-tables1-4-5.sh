@@ -10,7 +10,7 @@ rm all.passfail.txt
 rm all.info.txt
 rm all.coords.txt
 
-# make table2.data.txt
+# make table1.data.txt
 for a in \
 train.fluA.gb.10000    \
 train.fluA.nongb.10000 \
@@ -60,25 +60,25 @@ done
 # combine all flan.err.list and vadr.fatal.list files made by parse-and-compare-flan-and-vadr-output.pl above:
 cat compare.train.*.flan.err.list   compare.test1.*.flan.err.list   compare.test2.*.flan.err.list   > all.flan.err.list
 cat compare.train.*.vadr.fatal.list compare.test1.*.vadr.fatal.list compare.test2.*.vadr.fatal.list > all.vadr.fatal.list
-# make table2.tex
-perl ./table-errors.pl parse-and-compare-flan-and-vadr-output.pl all.flan.err.list all.vadr.fatal.list > table2.tex
-# table 2 in the paper was manually edited from the 'table2.tex' file created above to fix spacing and reorder some errors
+# make table1.tex
+perl ./table-errors.pl parse-and-compare-flan-and-vadr-output.pl all.flan.err.list all.vadr.fatal.list > table1.tex
+# table 1 in the paper was manually edited from the 'table1.tex' file created above to fix spacing and reorder some errors
 
 perl coords.pl all.coords.txt > sum.coords.txt
 perl info.pl   all.info.txt   > sum.info.txt
 
-# make table5.data.txt
-touch table5.data.txt
-rm table5.data.txt
+# make table4.data.txt
+touch table4.data.txt
+rm table4.data.txt
 for a in \
 fluA.nongb.10000 \
 fluB.nongb.1000 \
 fluC.nongb.500 \
 ; do
-    echo -n "$a emb " >> table5.data.txt
-    cat ../vadr-train-test-output/train.$a.vadr.pass.list ../vadr-train-test-output/train.$a.vadr.fail.list  | grep \emb | wc -l >> table5.data.txt
-    echo -n "$a dbj " >> table5.data.txt
-    cat ../vadr-train-test-output/train.$a.vadr.pass.list ../vadr-train-test-output/train.$a.vadr.fail.list  | grep \dbj | wc -l >> table5.data.txt
+    echo -n "$a emb " >> table4.data.txt
+    cat ../vadr-train-test-output/train.$a.vadr.pass.list ../vadr-train-test-output/train.$a.vadr.fail.list  | grep \emb | wc -l >> table4.data.txt
+    echo -n "$a dbj " >> table4.data.txt
+    cat ../vadr-train-test-output/train.$a.vadr.pass.list ../vadr-train-test-output/train.$a.vadr.fail.list  | grep \dbj | wc -l >> table4.data.txt
 done
 for a in \
 train.fluA.gb.10000    \
@@ -109,39 +109,39 @@ train.fluC.nongb.500   \
     for c in FPVP FPVF FFVP FFVF; do 
         perl fetch-class-from-compare-output.pl fo.compare.$a.txt  $c > fo.compare.$c.$a.txt
         perl fetch-class-from-compare-output.pl nto.compare.$a.txt $c > nto.compare.$c.$a.txt
-        echo -n $a " " $c " " fin " " >> table5.data.txt
+        echo -n $a " " $c " " fin " " >> table4.data.txt
         # the following file was created in the first block
-        grep SEQUENCE compare.$c.$a.txt | wc -l >> table5.data.txt
-        echo -n $a " " $c " " fo " " >> table5.data.txt
-        grep SEQUENCE fo.compare.$c.$a.txt | wc -l >> table5.data.txt
-        echo -n $a " " $c " " nto " " >> table5.data.txt
-        grep SEQUENCE nto.compare.$c.$a.txt | wc -l >> table5.data.txt
+        grep SEQUENCE compare.$c.$a.txt | wc -l >> table4.data.txt
+        echo -n $a " " $c " " fo " " >> table4.data.txt
+        grep SEQUENCE fo.compare.$c.$a.txt | wc -l >> table4.data.txt
+        echo -n $a " " $c " " nto " " >> table4.data.txt
+        grep SEQUENCE nto.compare.$c.$a.txt | wc -l >> table4.data.txt
     done
 done
-perl table-passfail-train.pl table5.data.txt > table5.tex
+perl table-passfail-train.pl table4.data.txt > table4.tex
 
-# make table6.data.txt
-touch table6.data.txt
-rm table6.data.txt
+# make table5.data.txt
+touch table5.data.txt
+rm table5.data.txt
 for a in \
 fluA.nongb.10000 \
 fluB.nongb.391 \
 fluC.nongb.500 \
 ; do
-    echo -n "$a emb " >> table6.data.txt
-    cat ../vadr-train-test-output/test1.$a.vadr.pass.list ../vadr-train-test-output/test1.$a.vadr.fail.list  | grep \emb | wc -l >> table6.data.txt
-    echo -n "$a dbj " >> table6.data.txt
-    cat ../vadr-train-test-output/test1.$a.vadr.pass.list ../vadr-train-test-output/test1.$a.vadr.fail.list  | grep \dbj | wc -l >> table6.data.txt
+    echo -n "$a emb " >> table5.data.txt
+    cat ../vadr-train-test-output/test1.$a.vadr.pass.list ../vadr-train-test-output/test1.$a.vadr.fail.list  | grep \emb | wc -l >> table5.data.txt
+    echo -n "$a dbj " >> table5.data.txt
+    cat ../vadr-train-test-output/test1.$a.vadr.pass.list ../vadr-train-test-output/test1.$a.vadr.fail.list  | grep \dbj | wc -l >> table5.data.txt
 done
 for a in \
 fluA.nongb.2404 \
 fluB.nongb.99 \
 fluC.nongb.130 \
 ; do 
-    echo -n "$a emb " >> table6.data.txt
-    cat ../vadr-train-test-output/test2.$a.vadr.pass.list ../vadr-train-test-output/test2.$a.vadr.fail.list  | grep \emb | wc -l >> table6.data.txt
-    echo -n "$a dbj " >> table6.data.txt
-    cat ../vadr-train-test-output/test2.$a.vadr.pass.list ../vadr-train-test-output/test2.$a.vadr.fail.list  | grep \dbj | wc -l >> table6.data.txt
+    echo -n "$a emb " >> table5.data.txt
+    cat ../vadr-train-test-output/test2.$a.vadr.pass.list ../vadr-train-test-output/test2.$a.vadr.fail.list  | grep \emb | wc -l >> table5.data.txt
+    echo -n "$a dbj " >> table5.data.txt
+    cat ../vadr-train-test-output/test2.$a.vadr.pass.list ../vadr-train-test-output/test2.$a.vadr.fail.list  | grep \dbj | wc -l >> table5.data.txt
 done
 for a in \
 test1.fluA.gb.10000    \
@@ -158,8 +158,8 @@ test2.fluC.gb.15       \
 test2.fluC.nongb.130   \
 ; do
     for c in FPVP FPVF FFVP FFVF; do 
-        echo -n $a " " $c " " fin " " >> table6.data.txt
-        grep SEQUENCE compare.$c.$a.txt | wc -l >> table6.data.txt
+        echo -n $a " " $c " " fin " " >> table5.data.txt
+        grep SEQUENCE compare.$c.$a.txt | wc -l >> table5.data.txt
     done
 done
-perl table-passfail-test.pl table6.data.txt > table6.tex
+perl table-passfail-test.pl table5.data.txt > table5.tex

@@ -21,7 +21,7 @@
 # 2. fig-nseq-data2R.pl: perl script that takes nseq.data as input and
 #    creates an R script that will create a PDF similar to figure 1.
 # 
-# 3. make-nseq-R-script.sh: shell script that will call
+# 3. make-and-run-nseq-R-script.sh: shell script that will call
 #    fig-nseq-data2R.pl to make the R script and then execute the R
 #    script to make a PDF.
 #

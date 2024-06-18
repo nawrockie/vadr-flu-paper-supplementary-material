@@ -13,9 +13,10 @@
 #
 # There are six subdirectories in this directory, each contains its
 # own 00README file that explains the files in that subdirectory. In
-# each of the three subdirectories with names beginning with 'table'
-# there are shell scripts that can be executed to reproduce the tables
-# in the paper. Each subdirectory is described below:
+# each of the four subdirectories with names beginning with 'fig' or
+# 'table' there are shell scripts that can be executed to reproduce
+# figure 1 or the tables in the paper. Each subdirectory is described
+# below:
 #
 # train-and-test-sets/:   lists of sequences in the training and testing
 #                         sequence sets
@@ -25,18 +26,16 @@
 #
 # vadr-train-test-output: VADR output files for the training and
 #                         testing sets
-# 
 #
-# table1-files/:          files relevant to table 1 which has counts
-#                         of influenza sequences deposited in GenBank
-#                         since 2018.
+# fig1-files/:            files relevant to figure 1 which has counts
+#                         of influenza sequences in INSDC databases.
 #
-# tables2-5-6-files/:     files relevant to tables 2, 5, and 6 which have
+# tables1-4-5-files/:     files relevant to tables 1, 4, and 5 which have
 #                         pass/fail outcome and error comparisons
 #                         between FLAN and VADR on the training and
 #                         testing datasets.
 #
-# tables3-4-files/:       files relevant to tables 3 and 4 which have
+# tables2-3-files/:       files relevant to tables 2 and 3 which have
 #                         information on reference and model sequences
 #                         used by FLAN and VADR.
 #

@@ -15,5 +15,5 @@ if [ ! -d "../vadr-models-flu-$VERSION" ]; then
 fi
 
 # create the table
-perl table-models.pl ../vadr-models-flu-$VERSION/flu.minfo ../vadr-models-flu-$VERSION/flan ../vadr-models-flu-$VERSION > tables3-4.tex
+perl table-models.pl ../vadr-models-flu-$VERSION/flu.minfo ../vadr-models-flu-$VERSION/flan ../vadr-models-flu-$VERSION > tables2-3.tex
 

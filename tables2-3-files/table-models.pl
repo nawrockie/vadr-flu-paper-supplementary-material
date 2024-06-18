@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 # 
-# table-flan.pl: gather data and create the latex file with data on FLAN models
+# table-models.pl: gather data and create the latex file with data on FLAN models
 #                        
 # EPN, Tue Jun 27 14:40:17 2023
 # 
@@ -11,7 +11,7 @@ use Getopt::Long;
 
 my $in_data  = ""; # name of input data file
 
-my $usage = "perl table-flan.pl <FLAN vadr .minfo file> <blastdb directory (FLAN)> <blastdb directory (FLAN-plus)>\n";
+my $usage = "perl table-models.pl <FLAN vadr .minfo file> <blastdb directory (FLAN)> <blastdb directory (FLAN-plus)>\n";
 
 my %fluC_old2new_H = ();
 my %fluC_new2old_H = ();

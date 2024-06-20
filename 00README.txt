@@ -11,12 +11,15 @@
 # 
 # =====================================================================
 #
-# There are six subdirectories in this directory, each contains its
+# There are seven subdirectories in this directory, each contains its
 # own 00README file that explains the files in that subdirectory. In
 # each of the four subdirectories with names beginning with 'fig' or
 # 'table' there are shell scripts that can be executed to reproduce
 # figure 1 or the tables in the paper. Each subdirectory is described
 # below:
+#
+# introduction-nseq-files/ data related to the statements on 
+#                          sequence counts in the introduction.
 #
 # train-and-test-sets/:   lists of sequences in the training and testing
 #                         sequence sets

@@ -2,32 +2,36 @@
 # Eric Nawrocki
 # February 20, 2024
 # 
-# This file explains the contents of this directory which contains
-# supplementary data for the paper "Influenza sequence validation and
-# annotation using VADR" related to Table 1.
+# This file explains how the sequence counts mentioned in the
+# Introduction of the paper "Influenza sequence validation and
+# annotation using VADR".
 #
 # =====================================================================
 #
-# Table 1 shows the number of influenza sequences published in GenBank
-# with release dates in each year between 2018 and 2023.
+
+# The text refers to the number of sequences deposited in INSDC
+# databases in the past 5 years ("In the past five years, roughly
+# 50,000 influenza A sequences per year were deposited in GenBank"),
+# and the fraction of INSDC influenza sequences deposited in GenBank
+# ("More than 90% of the influenza sequences in INSDC databases were
+# submitted to GenBank"). This directory includes the data that
+# support those statements. 
 # 
-# This directory includes 35 files. 32 are list files, described
-# below. The other 3 are:
+# This directory includes 30 files, 28 are list files, described
+# below. The other two files are:
 # 
-# 1. make-table1.sh: shell script that will recreate table 1 from the 
-#                    paper using the other files in this directory.
+# 1. summarize-data.sh: shell script that will a file with counts of
+#    sequences per year.
 #
-# 2. table-nseqs-data2tex.pl: perl script called by 'make-table1.sh'
-#
-# 3. 00README-table1.txt: this file
+# 2. 00README-introduction-nseqs.txt: this file
 # 
-# The other 32 list files have names ending in either '.gblist' or
+# The other 28 list files have names ending in either '.gblist' or
 # '.list': 
 #
-#  - 24 of the '.gblist' files contain the accessions published in GenBank for each of the six
-#    years and four types of influenza (A, B, C, and D). An example is 
-#    'fluC.2022.gblist' which contains all fluC sequences published in
-#    GenBank in 2022. 
+#  - 20 of the '.gblist' files contain the accessions published in
+#    GenBank for each of the five years and four types of influenza
+#    (A, B, C, and D). An example is 'fluC.2022.gblist' which contains
+#    all fluC sequences published in GenBank in 2022.
 # 
 #  - 4 of the remaining 8 files end in '.gblist' and include all GenBank
 #    accessions (from any date) for each type as of February 20, 2024.
